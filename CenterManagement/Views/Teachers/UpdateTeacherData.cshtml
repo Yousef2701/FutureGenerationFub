@@ -1,0 +1,169 @@
+﻿@model CenterManagement.ViewModels.UpdateTeacherDataVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/UpdateTeacherData.css">
+</head>
+<body>
+    <div class="scroller"></div>
+    <div class="wrapper">
+        <form novalidate="" enctype="multipart/form-data" asp-controller="Teachers" asp-action="UpdateTeacherData" method="post">
+            <h1>Update Your Data</h1>
+            <div class="input-box my-2">
+                <label asp-for="FristName" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Frist Name</label>
+                <input asp-for="FristName" type="text" value="@ViewBag.Teacher.FristName" required autocomplete="off" />
+            </div>
+            <div class="input-box my-2">
+                <label asp-for="LastName" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Last Name</label>
+                <input asp-for="LastName" type="text" value="@ViewBag.Teacher.LastName" required autocomplete="off" />
+            </div>
+            <div class="input-box my-2">
+                <label asp-for="PhoneNumber" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Phone Number</label>
+                <input asp-for="PhoneNumber" type="text" value="@ViewBag.Teacher.PhoneNumber" required autocomplete="off" />
+            </div>
+            <div class="input-box my-2">
+                <label asp-for="Email" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Email</label>
+                <input asp-for="Email" type="text" value="@ViewBag.Teacher.Email" required autocomplete="off" />
+            </div>
+            <div class="input-box my-2">
+                <label asp-for="Subject" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Subject</label>
+                <select asp-for="Subject" required>
+                    <option value="@ViewBag.Teacher.Subject" selected>@ViewBag.Teacher.Subject</option>
+                    <option value="Biology">Biology</option>
+                    <option value="English">English</option>
+                    <option value="Geography">Geography</option>
+                    <option value="Physics">Physics</option>
+                    <option value="French">French</option>
+                    <option value="Psychology">Psychology</option>
+                    <option value="Chemistry">Chemistry</option>
+                    <option value="History">History</option>
+                    <option value="Mathematics">Mathematics</option>
+                    <option value="Arabic">Arabic</option>
+                    <option value="Philosophy">Philosophy</option>
+                    <option value="German">German</option>
+                </select>
+            </div>
+            <div class="input-box my-2">
+                <label asp-for="Governorate" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Governorate</label>
+                <select asp-for="Governorate" id="governorates" onchange="updateCities()" required>
+                    <option value="@ViewBag.Teacher.Governorate" selected>@ViewBag.Teacher.Governorate</option>
+                    <option value="Alexandria">Alexandria</option>
+                    <option value="Aswan">Aswan</option>
+                    <option value="Asyut">Asyut</option>
+                    <option value="Beheira">Beheira</option>
+                    <option value="Beni Suef">Beni Suef</option>
+                    <option value="Cairo">Cairo</option>
+                    <option value="Dakahlia">Dakahlia</option>
+                    <option value="Damietta">Damietta</option>
+                    <option value="Faiyum">Faiyum</option>
+                    <option value="Gharbia">Gharbia</option>
+                    <option value="Giza">Giza</option>
+                    <option value="Ismailia">Ismailia</option>
+                    <option value="Kafr El Sheikh">Kafr El Sheikh</option>
+                    <option value="Luxor">Luxor</option>
+                    <option value="Matruh">Matruh</option>
+                    <option value="Minya">Minya</option>
+                    <option value="Monufia">Monufia</option>
+                    <option value="New Valley">New Valley</option>
+                    <option value="North Sinai">North Sinai</option>
+                    <option value="Port Said">Port Said</option>
+                    <option value="Qalyubia">Qalyubia</option>
+                    <option value="Qena">Qena</option>
+                    <option value="Red Sea">Red Sea</option>
+                    <option value="Sharqia">Sharqia</option>
+                    <option value="Sohag">Sohag</option>
+                    <option value="South Sinai">South Sinai</option>
+                    <option value="Suez">Suez</option>
+                </select>
+            </div>
+            <div class="input-box  my-2">
+                <label asp-for="City" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">City</label>
+                <select asp-for="City" id="cities" required>
+                    <option value="@ViewBag.Teacher.City" selected>@ViewBag.Teacher.City</option>
+                </select>
+            </div>
+            <div class="col-8 my-2">
+                <label asp-for="ImageFile" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Upload Image </label>
+                <input type="file" asp-for="ImageFile" style="border-radius:40px;border: 2px solid rgba(255, 255, 255, 0.2);color:#fff;" enctype="multipart/form-data" accept="image/jpg" runat="server" />
+            </div>
+
+            <button type="submit" class="btn  my-2" onclick="displayAlertSuccess()">Save Update</button>
+            <a asp-controller="Teachers" asp-action="PersonalPage" style="text-align:center;" class="btn cancel col-5  my-2">Cancel</a>
+        </form>
+    </div>
+
+    @section Scripts{
+        <script>
+            function displayAlertSuccess() {
+                Swal.fire('Completed', 'Your Data Is Updated Successfully', 'success');
+            }
+        </script>
+    }
+
+    <script src="~/js/register.js"></script>
+    <script>
+        var cities = {
+            'Alexandria': ['Borg El Arab', 'Abu Qir', 'Rosetta', 'Agami', 'Al Amriyah', 'Al Max', 'Al Maamoura', 'Al Montazah', 'Dekheila', 'Miami', 'El Ibrahimia', 'El Hadara', 'Glim', 'Kabbary', 'King Mariout', 'Kom El Deka', 'Mandara', 'Nakheel', 'Nozha', 'San Stefano', 'El Shatby', 'Sidi Beshr', 'Sidi Gaber', 'Smouha', 'Sporting', 'Stanley', 'Zezenia'],
+            'Aswan': ['Kom Ombo', 'Edfu', 'Abu Simbel', 'Daraw', 'Kaedabeya', 'Nasr Al Nuba', 'Gharb Sohail'],
+            'Asyut': ['Abnub', 'Manfalut', 'Sahel Selim', 'Dayrut', 'El Badari', 'El Quseya'],
+            'Beheira': ['Damanhur', 'Kafr El Dawwar', 'Rashid', 'Edko', 'Abu Hummus'],
+            'Beni Suef': ['Beni Suef', 'Nasser', 'Al Wasta', 'Beba', 'Bebt El Hagana', 'El Fashn'],
+            'Cairo': ['Cairo', 'Giza', 'Helwan', '6th of October City', 'New Cairo', 'Shoubra El-Kheima', 'Ain Shams', 'Al Basatin', 'Almaza', 'Ataba', 'Downtown Cairo', 'El Darb El Ahmar', 'El Gamaleya', 'El Hussein', 'El Sahel', 'El Sayeda Zeinab', 'El Sharabiya', 'Garden City', 'Maadi', 'Manial', 'Mokattam', 'Nasr City', 'Old Cairo', 'Rod El Farag', 'Zamalek', 'Markaz Badr', 'Markaz El Obour', 'Markaz New Cairo', 'Markaz El Maasara'], 'Dakahlia': ['Mansoura', 'Mit Ghamr', 'Talkha', 'Matareya'],
+            'Dakahlia': ['Mansoura', 'Mit Ghamr', 'Talkha', 'Matareya', 'Aga', 'Bani Ubayd', 'Dekernes', 'El Gamalia', 'El Kurdi', 'El Manzala', 'El Matareya', 'El Sers', 'El Senbellawein', 'El Tamia', 'Gamasa', 'Hojran', 'Markaz Dakahlia', 'Nabaruh', 'Sinnuris', 'Sulaymaniyah'],
+            'Damietta': ['Faraskur', 'Kafr Saad', 'Ras El Bar', 'El Zarqa', 'El-Roda', 'New Damietta', 'El Sinnuris', 'El-Zohour', 'El-Mahalla', 'El-Kubra', 'El Manzala'],
+            'Faiyum': ['Faiyum', 'El Gharaqna', 'Ibshway', 'Atsa', 'Etsa', 'Itsa', 'Koksa', 'Markaz Faiyum', 'Markaz El Gharaqna', 'Markaz Ibshway', 'Sanoris'],
+            'Gharbia': ['Tanta', 'Kafr El Zayat', 'Zefta', 'El Santa', 'Basyoun', 'El Mahalla El Kubra', 'Samannoud', 'Qutour', 'Sers El Lyan', 'Samanoud', 'El Bagour', 'Kafr El Sheikh', 'El Hawamdeya', 'Baltim', 'Markaz Gharbia', 'Markaz Kafr El Zayat', 'Markaz El Santa', 'Markaz El Mahalla El Kubra', 'Markaz Samannoud'],
+            'Giza': ['Giza', '6th of October City', 'Sheikh Zayed', 'Haram', 'Imbaba', 'Mohandiseen', 'Agouza', 'Dokki', 'Omrania', 'Warraq', 'Badrshein', 'Oseem', 'Kerdasa', 'Abu Rawash', 'Bulaq ad Dakrur', 'Hawamdiyah', 'Atfih', 'Mit Rahina', 'Saqqara'],
+            'Ismailia': ['Ismailia', 'Fayed', 'Qantara Sharq', 'Qassaseen'],
+            'Kafr El Sheikh': ['Kafr El Sheikh', 'Desouk', 'Metobas', 'Qaleen', 'Bella', 'El Hamoul', 'El Reyad', 'El Fuwwah', 'Beila', 'Fouah'],
+            'Luxor': ['Luxor', 'Esna', 'Armant', 'El Tod', 'Al Bayadyah', 'Al Manshiyah'],
+            'Matruh': ['Marsa Matruh', 'Siwa', 'Dabaa', 'El Alamein', 'El Dabaa City', 'Sidi Barrani', 'Al Hamam', 'Alamein', 'Sidi Abdel Rahman', 'Alamein City'],
+            'Minya': ['Minya', 'Maghagha', 'Abu Qurqas', 'Beni Mazar', 'Deir Mawas', 'Samalut', 'El Ada', 'Bani Hilal', 'Matay', 'Abu Qirqas', 'Mallawi', 'Asyut Road', 'Tuna El Gebel', 'Al Adwa', 'Dayr Al Barsha'],
+            'Monufia': ['Shibin El Kom', 'Ashmoun', 'Menouf', 'Tala', 'Quesna', 'Sadat', 'Berket Al Sabaa', 'Sers El Lyan', 'Alshohadaa', 'Berkat El Sabea'],
+            'New Valley': ['Balat', 'El Farafrah', 'El Dakhla', 'Baris', 'El Kharga', 'Al Qasr'],
+            /*here*/
+            'North Sinai': ['Arish', 'Sheikh Zuweid', 'Rafah', 'Al Hasana', 'Nakhl', 'Bir Al Abd', 'Al Qantara Sharq', 'El Gorah', 'Al Qantara', 'El Arish', 'Rafah City'],
+            'Port Said': ['Port Said', 'Port Fouad', 'Al Arish', 'Al Manakh', 'Al Dawahi', 'Al Gamil'],
+            'Qalyubia': ['Benha', 'Qalyub', 'Shubra El Kheima', 'El Qanater El Khayreya', 'Khanka', 'El Obour City', 'Kafr Shukr', 'Tukh', 'Qaha', 'Al Khankah', 'Kafr Shukr Center'],
+            'Qena': ['Qena', 'Luxor', 'Dendera', 'Qift', 'Nag Hammadi', 'El Waqf', 'Farshut', 'El Balyana', 'Abu Tesht', 'El Tod', 'Esna'],
+            'Red Sea': ['Hurghada', 'Marsa Alam', 'Safaga', 'El Qoseir'],
+            'Sharqia': ['Zagazig', 'Abu Kebir', 'Al Husseiniya', 'Abu Hammad', 'Minya El Qamh', 'Awlad Saqr', 'Hehya', 'Belbeis', 'Mashtool El Souk', 'Abou Kbeer', 'Al Salhya Al Gedida', 'Kafr Saqr', 'Al Qareen', 'Al Ibrahimiyah', 'Hijazah', 'El Ibrahimiya', 'Faqus', 'Kafr Sinbil', 'Al Heseniyya', 'Mashtol Al Souq'],
+            'Sohag': ['Sohag', 'Akhmim', 'Girga', 'Tahta', 'Tima', 'Dar El Salam', 'Juhayna', 'El Maragha', 'El Balyana', 'El Monshaa', 'Saqalta', 'Bemsaed', 'Al Ghurdaqah', 'El Ghanayem', 'El Hawarta'],
+            'South Sinai': ['Sharm El Sheikh', 'Dahab', 'Ras Sedr', 'Saint Catherine', 'Abu Redis', 'Nuweiba', 'Taba', 'Tor Sinai', 'Wadi Feiran'],
+            'Suez': ['Suez', 'Ataka', 'Faisal', 'Arbaeen', 'Adabiya', 'El Ganayen', 'El Tur Sinai']
+        };
+
+        function updateCities() {
+            var governorateSelect = document.getElementById("governorates");
+            var citySelect = document.getElementById("cities");
+
+            // Clear city options
+            citySelect.innerHTML = "";
+            citySelect.disabled = false;
+
+            // Add new city options
+            var citiesArray = cities[governorateSelect.value];
+            if (citiesArray) {
+                for (var i = 0; i < citiesArray.length; i++) {
+                    var option = document.createElement("option");
+                    option.text = citiesArray[i];
+                    option.value = citiesArray[i];
+                    citySelect.add(option);
+                }
+            } else {
+                // Disable city dropdown if no cities available
+                citySelect.disabled = true;
+            }
+        }
+    </script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/all.min.js"></script>
+
+</body>
+</html>

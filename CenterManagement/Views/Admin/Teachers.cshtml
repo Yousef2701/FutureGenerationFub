@@ -1,0 +1,152 @@
+﻿@model Teacher
+@inject CenterManagement.Data.ApplicationDbContext _context
+@inject IHttpContextAccessor _httpContextAccessor
+@using System.Security.Claims
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/Admin.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <title>Admin Dashboard</title>
+    <style>
+        html::-webkit-scrollbar, .comments::-webkit-scrollbar, .dropdown-content::-webkit-scrollbar {
+            width: 10px;
+            right: 0;
+        }
+
+        html::-webkit-scrollbar-thumb, .comments::-webkit-scrollbar-thumb, .dropdown-content::-webkit-scrollbar-thumb {
+            background-color: #140920;
+        }
+
+        html::-webkit-scrollbar-track, .comments::-webkit-scrollbar-track, .dropdown-content::-webkit-scrollbar-track {
+            background-color: white;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #262525;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #555454;
+            color: white;
+        }
+
+        table {
+            min-width: 900px !important;
+            color: white;
+            margin-bottom: 50px;
+        }
+
+        thead th {
+            padding-left: 72px;
+        }
+
+        thead td {
+            font-weight: bold;
+            background-color: #0c1527;
+        }
+
+        td {
+            font-size: 15px;
+            width: fit-content;
+            text-align: center;
+            margin:3px!important;
+        }
+    </style>
+</head>
+<body>
+    <div class="scroller"></div>
+    <div class="container mt-5" style="padding-top:10px;">
+        <h1 class="text-center my-4">Teachers</h1>
+        <!--Teacher Table-->
+        <table>
+            <thead>
+                <tr>
+                    <th>Teacher</th>
+                    <th>Scientific Track</th>
+                    <th>Month</th>
+                    <th>Enrollments</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Teacher item in @ViewBag.Teachers)
+                {
+                    var exams = _context.Exams.Where(m => m.TeacherId == item.Id).ToList().OrderBy(m => m.Title);
+
+                    <tr>
+                        <td style="width:20%;">@item.FristName @item.LastName</td>
+                        <td style="width:20%;">@item.Subject</td>
+                        <td style="width:20%;">
+                                <ul>January</ul>
+                                <ul>February</ul>
+                                <ul>March</ul>
+                                <ul>April</ul>
+                                <ul>May</ul>
+                                <ul>June</ul>
+                                <ul>July</ul>
+                                <ul>August</ul>
+                                <ul>September</ul>
+                                <ul>October</ul>
+                                <ul>November</ul>
+                                <ul>December</ul>
+                        </td>
+                        <td style="width:20%;">
+                            @{
+                                var january = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "January").Count();
+                                var february = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "February").Count();
+                                var march = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "March").Count();
+                                var april = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "April").Count();
+                                var may = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "May").Count();
+                                var june = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "June").Count();
+                                var july = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "July").Count();
+                                var august = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "August").Count();
+                                var september = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "September").Count();
+                                var october = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "October").Count();
+                                var november = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "November").Count();
+                                var december = _context.Barcodes.Where(m => m.TeacherId == item.Id & m.Month == "December").Count();
+                            }
+                                <ul>@january</ul>
+                                <ul>@february</ul>
+                                <ul>@march</ul>
+                                <ul>@april</ul>
+                                <ul>@may</ul>
+                                <ul>@june</ul>
+                                <ul>@july</ul>
+                                <ul>@august</ul>
+                                <ul>@september</ul>
+                                <ul>@october</ul>
+                                <ul>@november</ul>
+                                <ul>@december</ul>
+                        </td>
+                        <td style="width:20%;">
+                            <form asp-controller="Admin" asp-action="Teacher_Page">
+                                <input hidden asp-for="Id" value="@item.Id" />
+                                <button type="submit" class="btn btn-success m-1" style="width:90%;margin-bottom:3px;">View Profile</button>
+                            </form>
+                            <form asp-controller="Admin" asp-action="Padding_Teacher">
+                                <input hidden asp-for="Id" value="@item.Id" />
+                                <button class="btn btn-secondary m-1" style="width:90%;margin-bottom:3px;">pending Account</button>
+                            </form>
+                            <form asp-controller="Admin" asp-action="Delete_Teacher">
+                                <input hidden asp-for="Id" value="@item.Id" />
+                                <button class="btn btn-danger m-1" style="width:90%;margin-bottom:3px;">Delete User</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

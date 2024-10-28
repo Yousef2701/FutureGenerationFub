@@ -1,0 +1,63 @@
+﻿@model CenterManagement.ViewModels.EnrollParcodeVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/CompleteSData.css">
+</head>
+<body>
+    <div class="scroller"></div>
+    <div class="wrapper">
+        <form novalidate="" enctype="multipart/form-data" asp-controller="Admin" asp-action="CreateParcodes">
+            <h1>Create The Enrollment Parcode</h1>
+            <div class="input-box">
+                <select asp-for="TeacherId" required>
+                    <option value="" selected>Choose The Teacher</option>
+                    @foreach (Teacher item in @ViewBag.Teachers)
+                    {
+                         <option value="@item.Id">@item.FristName @item.LastName</option>
+                    }
+                </select>
+            </div>
+            <div class="input-box">
+                <select asp-for="AcademyYear" required>
+                    <option value="" selected>Select The Academy Year</option>
+                    <option value="1prep">Frist Prep</option>
+                    <option value="2prep">Second Prep</option>
+                    <option value="3prep">Third Prep</option>
+                    <option value="1sec">Frist Sec</option>
+                    <option value="2sec">Second Sec</option>
+                    <option value="3sec">Third Sec</option>
+                </select>
+            </div>
+            <div class="input-box">              
+                <select asp-for="Month" required>
+                    <option value="" selected>Select The Monthly Enrollment</option>
+                    <option value="January">January</option>
+                    <option value="February">February</option>
+                    <option value="March">March</option>
+                    <option value="April">April</option>
+                    <option value="May">May</option>
+                    <option value="June">June</option>
+                    <option value="July">July</option>
+                    <option value="August">August</option>
+                    <option value="September">September</option>
+                    <option value="October">October</option>
+                    <option value="November">November</option>
+                    <option value="December">December</option>
+                </select>
+            </div>
+            <div class="input-box">
+                <input asp-for="Numbre" type="text" placeholder="Numbre of Parcodes" id="completeUsername" required autocomplete="off" />
+            </div>
+            <button type="submit" class="btn">Create Parcodes</button>
+        </form>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,212 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=poppins:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+.search {
+    margin-top: 30px;
+    width: 80%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.searchInput {
+    height: 40px;
+    width: 100%;
+    border-top-left-radius: #140920;
+    border-bottom-left-radius: #140920;
+    border: 1px solid #140920;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.searchInput:focus {
+    outline: none;
+}
+
+.searchButton {
+    height: 40px;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #140920;
+    border-top-right-radius: #140920;
+    border-bottom-right-radius: #140920;
+    color: white;
+    border-left: 0;
+    background-color: #140920;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+
+html::-webkit-scrollbar, .comments::-webkit-scrollbar, .dropdown-content::-webkit-scrollbar {
+    width: 10px;
+    right: 0;
+}
+
+html::-webkit-scrollbar-thumb, .comments::-webkit-scrollbar-thumb, .dropdown-content::-webkit-scrollbar-thumb {
+    background-color: #140920;
+}
+
+html::-webkit-scrollbar-track, .comments::-webkit-scrollbar-track, .dropdown-content::-webkit-scrollbar-track {
+    background-color: white;
+}
+.title{
+    text-align:center;
+}
+
+    .title h2 {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 130px;
+        color: #140920;
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .title p {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: #140920;
+        font-size: 29px;
+    }
+
+.slide-content {
+    margin: 0 20px;
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.card {
+    width: 320px;
+    border-radius: 25px;
+    background-color: #FFF;
+    margin:0 25px;
+}
+
+.image-content, .card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
+}
+
+.image-content {
+    position: relative;
+    row-gap: 5px;
+    padding: 25px 0;
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #140920;
+    border-radius: 25px 25px 0 25px;
+}
+
+    .overlay::before, .overlay::after {
+        content: '';
+        position: absolute;
+        right: 0;
+        bottom: -40px;
+        height: 40px;
+        width: 40px;
+        background-color: #140920;
+    }
+
+    .overlay::after {
+        border-radius: 0 25px 0 0;
+        background-color: #FFF;
+    }
+
+.card-image {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    background: #FFF;
+    padding: 3px;
+    border-radius: 50%;
+}
+
+    .card-image .card-img {
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+        border: 4px solid #140920;
+    }
+
+.card-content {
+    width: 300px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    margin: 10px 0;
+}
+
+.discreption {
+    font-size: 14px;
+    color: #707070;
+    text-align: center;
+}
+
+.button {
+    border: none;
+    font-size: 16px;
+    color: #FFF;
+    padding: 8px 16px;
+    background-color: #140920;
+    border-radius: 6px;
+    margin: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    .button:hover {
+        color: #140920;
+        background-color: #b398d0;
+        border: 2px solid #140920;
+    }
+
+h4 {
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    margin-bottom: 8px;
+}
+@media (max-width:756px) {
+    .title h2 {
+        font-size: 30px;
+    }
+
+    .title p {
+        font-size: 16px;
+    }
+}

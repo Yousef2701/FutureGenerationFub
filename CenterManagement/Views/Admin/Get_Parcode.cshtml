@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/CompleteSData.css">
+</head>
+<body>
+    <div class="scroller"></div>
+    <div class="wrapper">
+        <form novalidate="" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+            <h1>The Enrollment Parcode</h1>
+            <div class="input-box" style="margin:55px 0;">
+                <label style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">The Student Name</label>
+                <input type="text" value="@ViewBag.Student.FristName @ViewBag.Student.LastName" id="completeUsername" required autocomplete="off" />
+            </div>
+            <div class="input-box" style="margin:55px 0;">
+                <label style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">The Course Name</label>
+                <input type="text" value="@ViewBag.Course.Name" id="completeUsername" required autocomplete="off" />
+            </div>
+            <div class="input-box" style="margin:55px 0;">
+                <label style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">The Enrollment Parcode</label>
+                <input type="text" value="@ViewBag.Parcode" id="completeUsername" required autocomplete="off" />
+            </div>
+            
+            <button type="submit" class="btn">Return Home Page</button>
+        </form>
+    </div>
+</body>
+</html>

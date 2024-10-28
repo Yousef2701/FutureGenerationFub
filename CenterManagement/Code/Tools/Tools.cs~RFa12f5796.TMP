@@ -1,0 +1,51 @@
+﻿namespace ArabityAuth
+{
+    public class Tools
+    {
+        private Microsoft.AspNetCore.Hosting.IHostingEnvironment Environment;
+
+        public Tools()
+        {
+        }
+
+        public Tools(Microsoft.AspNetCore.Hosting.IHostingEnvironment _environment)
+        {
+            Environment = _environment;
+        }
+        public string AddImages(IFormFile imagefile,string username)
+        {
+
+            if (imagefile == null)
+            { return  "Defult User Image"+username; }
+            string imageUrl = imagefile.FileName;
+            string uploads = Path.Combine(Environment.WebRootPath, "Uploads");
+            string path = Path.Combine(uploads, imageUrl+username);
+
+            if (System.IO.File.Exists(imageUrl))
+            {
+                string temporary = Path.Combine(Environment.WebRootPath, "ImagePackups");
+                File.Copy(path, temporary);
+                string newFilePath=Path.Combine(path, imageUrl+username);
+                File.Move(temporary,newFilePath);
+            }
+            else
+            { imagefile.CopyTo(new FileStream(path, FileMode.Create)); }
+            
+           
+            return imageUrl+username;
+        }
+        public string UpdateImages(IFormFile imagefile,string imagename)
+        {
+            string imageUrl = imagefile.FileName;
+            string path = Path.Combine(Environment.WebRootPath, "Uploads");
+            if (System.IO.File.Exists(imagename))
+            {
+              System.IO.File.Delete(imagename);
+              imagefile.CopyTo(new FileStream(path, FileMode.Create));
+            }
+            
+            
+            return imageUrl;//add username at the controller
+        }
+    }
+}

@@ -1,0 +1,95 @@
+﻿.header {
+    background-color: white;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+    margin: 0 !important;
+    top: 0;
+    z-index: 5;
+}
+
+.header-nav {
+    height: inherit;
+}
+
+.list-group-item {
+    background-color: #E9F7FF;
+    border-bottom: 1px solid #140920 !important;
+    cursor: pointer;
+    transition: .3s;
+}
+
+    .list-group-item a {
+        color: #140920;
+    }
+
+    .list-group-item button {
+        color: #140920;
+    }
+
+    .list-group-item:hover {
+        background-color: #140920;
+        padding-left: 20px !important;
+    }
+
+        .list-group-item:hover a {
+            color: #E9F7FF !important;
+        }
+
+        .list-group-item:hover button {
+            color: #E9F7FF !important;
+        }
+
+        .menu {
+            width: 200px;
+        }
+
+        .btn-close:focus {
+            box-shadow: none !important;
+        }
+
+        .acount-image {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+        }
+
+        .red {
+            color: rgba(255, 0, 0, 0.866) !important;
+        }
+
+        .buy-now {
+            width: 100% !important;
+        }
+
+        .header-name {
+            text-decoration: none;
+            width: fit-content;
+            color: white;
+            padding-left: 50px;
+            font-size: 18px;
+        }
+
+        .header-name:hover {
+            color: white;
+        }   
+        .header-right{
+            padding-right: 50px;
+        }
+
+    @media (max-width:756px) {
+        .header-name{
+            padding-left: 10px;
+        }
+        .header-right {
+            padding-right: 10px;
+        }
+        .paths h2{
+            font-size: 23px;
+        }
+        .paths p{
+            padding: 0 30px;
+            font-size: 18px;
+        }
+
+    }

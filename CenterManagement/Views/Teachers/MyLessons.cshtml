@@ -1,0 +1,147 @@
+﻿@model Lesson
+@inject CenterManagement.Data.ApplicationDbContext _context
+@inject IHttpContextAccessor _httpContextAccessor
+@using System.Security.Claims
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title class="text-capitalize">Orders</title>
+        <style>
+            html::-webkit-scrollbar, .comments::-webkit-scrollbar, .dropdown-content::-webkit-scrollbar {
+                width: 10px;
+                right: 0;
+            }
+
+            html::-webkit-scrollbar-thumb, .comments::-webkit-scrollbar-thumb, .dropdown-content::-webkit-scrollbar-thumb {
+                background-color: #140920;
+            }
+
+            html::-webkit-scrollbar-track, .comments::-webkit-scrollbar-track, .dropdown-content::-webkit-scrollbar-track {
+                background-color: white;
+            }
+
+            tr:nth-child(odd) {
+                background-color: #262525;
+                color: white;
+            }
+
+            tr:nth-child(even) {
+                background-color: #555454;
+                color: white;
+            }
+
+            * {
+                padding: 0;
+                margin: 0;
+                box-sizing: border-box;
+                font-family: "Open Sans", sans-serif;
+            }
+
+            :root {
+                --main-color: #2199e8;
+                --secondary-color: #ffc107;
+                --radius: 5px;
+            }
+
+
+            .scroller {
+                background-color: #140920;
+                position: fixed;
+                left: 0;
+                top: 0;
+                border-radius: 10px;
+                z-index: 100;
+                height: 5px;
+            }
+
+            h1 {
+                font-size: 1.9em;
+                font-weight: 700;
+                color: #262137;
+                padding: 30px;
+            }
+
+            .section {
+                overflow-x: scroll;
+            }
+
+                .section::-webkit-scrollbar {
+                    height: 10px;
+                    bottom: 0;
+                }
+
+                .section::-webkit-scrollbar-thumb {
+                    background-color: #140920;
+                }
+
+                .section::-webkit-scrollbar-track {
+                    background-color: white;
+                }
+
+            table {
+                min-width: 900px !important;
+                color: white;
+                margin-bottom: 50px;
+            }
+
+            thead td {
+                font-weight: bold;
+                background-color: #0c1527;
+            }
+
+            td {
+                font-size: 15px;
+                padding: 4px;
+                width: fit-content;
+                text-align: center;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="scroller"></div>
+        <div class="main d-flex row col-12">
+            <h1 class="my-3 text-center">My Lessons</h1>
+            <div class="sections-container d-flex col-12 justify-content-evenly">
+                <div class="section my-3 col-lg-10 col-md-10 col-sm-12 projects-section">
+                    <table class="col-12">
+                        <thead>
+                            <tr>
+                                <td>Lesson Id</td>
+                                <td>Lesson Title</td>
+                                <td>Academy Year</td>
+                                <td>Monthly Enrollment</td>
+                                <td></td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (Lesson item in @ViewBag.Lessons)
+                            {
+                                <tr>
+                                    <form asp-controller="Teachers" asp-action="LessonDetails" method="get">
+                                    <td style="width:15%;">@item.Id</td>
+                                    <td style="width:15%;">@item.LessonTitle</td>
+                                    <td style="width:15%;">@item.AcademyYear</td>
+                                    <td style="width:15%;">@item.Month</td>
+                                    <input hidden type="text" asp-for="Id" value="@item.Id" />
+                                    <td style="width:40%;">
+                                        <input hidden type="text" asp-for="Id" value="@item.Id" />
+                                        <button class="btn btn-success col-8" style="width:40%;">Lesson Details</button>  
+                                        <button class="btn btn-danger" asp-action="Git_Lesson_Tasks" style="width:40%;">Students Task</button>
+                                    </td>
+                                    </form>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <script src="~/js/dashboard.js"></script>
+    </body>
+</html>

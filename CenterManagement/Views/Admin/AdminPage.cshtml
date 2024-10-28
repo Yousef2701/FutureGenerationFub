@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+      <head>
+            <meta charset="UTF-8" />
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <link rel="stylesheet" href="~/css/Admin.css">
+            <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+            <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap" rel="stylesheet"/>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+            <link rel="stylesheet" href="bootstrap.min.css" />
+            <title>Admin Dashboard</title>
+            <style>
+                html::-webkit-scrollbar, .comments::-webkit-scrollbar, .dropdown-content::-webkit-scrollbar {
+                    width: 10px;
+                    right: 0;
+                }
+
+                html::-webkit-scrollbar-thumb, .comments::-webkit-scrollbar-thumb, .dropdown-content::-webkit-scrollbar-thumb {
+                    background-color: #140920;
+                }
+
+                html::-webkit-scrollbar-track, .comments::-webkit-scrollbar-track, .dropdown-content::-webkit-scrollbar-track {
+                    background-color: white;
+                }
+
+                .card {
+                    background-color: #262137;
+                    width: 25em;
+                    height: 14em;
+                    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+                    border-radius: 10px;
+                    padding: 25px;
+                    margin: 25px 15px;
+                    transition: 0.7s ease;
+                    padding: 10% 0;
+                }
+
+                .card:hover {
+                    transform: scale(1.1);
+                }
+
+                .card h3 {
+                    margin:auto;
+                    color: white;
+                    font-size: 2.8em;
+                    font-weight:500;
+                }
+
+                .card p {
+                    margin-left: auto;
+                    margin-right: auto;
+                    color: white;
+                    font-size: 1.8em;
+                    font-weight: 400;
+                }
+
+                .student {
+                    background: url(../Uploads/Students.jpg) no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                    color: white;
+                }
+
+                 .teacher {
+                    background: url(../Uploads/Teachers.jpg) no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                    color: white;
+                 }
+
+                .money {
+                    background: url(../Uploads/Money.jpg) no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                    color: white;
+                }
+
+                .pend {
+                    background: url(../Uploads/Pending.jpg) no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                    color: white;
+                }
+
+                .parcode {
+                    background: url(../Uploads/parcodes.jpg) no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                    color: white;
+                }
+            </style>
+      </head>
+      <body style="display:flex;justify-content:center;align-items:center;min-height:90vh;padding-top:25px;">
+         <div class="scroller"></div>
+        <div class="d-flex flex-wrap justify-content-center align-items-center">
+            <form asp-controller="Admin" asp-action="Enroll_Parcode" method="get">
+                <button type="submit" class="card parcode">
+                    <h3>Create Enrollment Parcodes</h3>
+                </button>
+            </form>
+
+            <form asp-controller="Admin" asp-action="Students">
+                <button type="submit" class="card student">
+                    <h3>Students</h3>
+                    <p class="card-text d-flex align-items-baseline" style="color:#fff;">
+                        <i class="mx-1 fas fa-users" style="color:#fff;"></i> @ViewBag.Students
+                    </p>
+                </button>
+            </form>
+
+            <form asp-controller="Admin" asp-action="Teachers">
+                <button type="submit" class="card teacher">
+                    <h3>Teachers</h3>
+                    <p class="card-text d-flex align-items-baseline">
+                        <i class="mx-1 fas fa-chalkboard-teacher"></i> @ViewBag.Teachers 
+                    </p>
+                </button>
+            </form>
+
+            <form asp-controller="Admin" asp-action="Earned_Money">
+                <button type="submit" class="card money">
+                    <h3>Earned Money</h3>
+                    <p class="card-text d-flex align-items-baseline" style="color:#fff;"> @ViewBag.Count LE</p>
+                </button>
+            </form>
+
+            <form asp-controller="Admin" asp-action="Pending_Accounts">
+                <button type="submit" class="card pend">
+                    <h3>Pending Accounts</h3>
+                    <p class="card-text d-flex align-items-baseline" style="color:#fff;">
+                          <i class="mx-1 fas fa-exclamation-triangle"></i> @ViewBag.Padding
+                    </p>
+                </button>
+            </form>
+        </div>
+      </body>
+</html>

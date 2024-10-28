@@ -1,0 +1,52 @@
+﻿@inject CenterManagement.Data.ApplicationDbContext _context
+@inject IHttpContextAccessor _httpContextAccessor
+@using System.Security.Claims
+@model CenterManagement.ViewModels.LessonTsakVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/LessonTask.css">
+</head>
+<body>
+    <div class="scroller"></div>
+            <div class="d-flex justify-content-center align-items-center flex-wrap wrapper">
+            <form asp-action="Save_Lesson_Task" method="post"  novalidate="" enctype="multipart/form-data">
+                <h1 class="mx-3 my-5 col-10 w-100 text-center">The Lesson Task</h1>
+                <div class="mx-4 ">
+                    @{
+                        int count = 0;
+
+                        foreach(LessonTask item in @ViewBag.Tasks){
+                            count++;
+                            <h2 class="my-3">Q-@count: <span style="font-size:smaller">@item.Question</span></h2>
+                        }
+                    }
+                    <div class="col-8 my-3">
+                        <label asp-for="taskFile" style="font-size:1.2em;font-weight:600;color:black;" class="form-label">Upload Task Answer As pdf File</label>
+                        <input asp-for="taskFile" type="file" enctype="multipart/form-data" accept="pdf" />
+                    </div>
+                </div>
+                <input hidden value="@ViewBag.LessonId" asp-for="LessonId"/>
+                <div style="display:flex;width:100%;height:fit-content;justify-content:center;">
+                    <button type="submit" class="btn btn-success" style="padding: 5px 50px;border-radius: 7px;font-size: 18px;font-weight: 700;" onclick="displayAlertSuccess()">
+                        Save Task
+                    </button>
+                </div> 
+            </form>
+        </div>
+
+        @section Scripts{
+                <script>
+                    function displayAlertSuccess() {
+                        Swal.fire('Success', 'Your Answer is Saved', 'success');
+                    }
+                </script>
+        }
+</body>
+</html>

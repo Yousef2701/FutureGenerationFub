@@ -1,0 +1,57 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+
+<!DOCTYPE html>
+<htm lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <link rel="stylesheet" href="~/css/Login.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <title>Login</title>
+    </head>
+    <body>
+         <form id="account" class="needs-validation" method="post">
+            <div class="wrapper">
+                <span class="bg-animate"></span>
+                <div class="form-box login">
+                    <h2>Login</h2>
+                        <div class="input-box">
+                            <input asp-for="Input.Email" type="text" required autocomplete="off" />
+                            <label asp-for="Input.Email">Username</label>
+                            <i class="bx bxs-user"></i>
+                        </div>
+                        <div class="input-box">
+                        <input asp-for="Input.Password" type="password" required autocomplete="off" />
+                            <label asp-for="Input.Password">Password</label>
+                            <i class="bx bxs-lock-alt"></i>
+                        </div>
+                        <button type="submit" id="login-submit" class="btn">Login</button>
+                        <div class="logreg-link">
+                            <p>
+                                Don't have an account?
+                                <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="register-link">Sign Up</a>
+                            </p>
+                        </div>
+                </div>
+                <div class="info-text login">
+                    <h2>Welcome Back!</h2>
+                    <p>Log in to be able to use all packages from Al-Eissa Academy </p>
+                </div>
+            </div>
+         </form>
+        @section Scripts {
+            <partial name="_ValidationScriptsPartial" />
+        }
+        <script src="~/js/landing.js"></script>
+        <script src="~/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/all.min.js"></script>
+
+    </body>
+</html>

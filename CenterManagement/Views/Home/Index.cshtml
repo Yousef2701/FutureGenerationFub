@@ -1,0 +1,82 @@
+﻿@model CenterManagement.ViewModels.CategoryVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap" rel="stylesheet">
+    <title>Al-Eissa Academy</title>
+</head>
+<body class="all-stores-page-body">
+    <div class="scroller"></div>
+    <section>
+        <div class="content">
+            <h1 style="font-weight:600;">Future Generations Hub</h1>
+            <h3 style="color: white;font-size: 1.8em;font-weight:400;margin-top:20px;box-shadow: 0 0 25px var(#fff);">The Online Learning Hub For All Passionate Students</h3>
+        </div>
+    </section>
+    <div class="paths">
+        <h2>The Scientific Tracks</h2>
+        <p>Learn about the scientific Tracks offered to you through Future Generations Hub</p>
+        <div class="content">
+            
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Biology" asp-for="Category" />
+                <button type="submit" class="card Piology"><h3>Biology</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="English" asp-for="Category" />
+                <button type="submit" class="card English"><h3>English</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Geography" asp-for="Category" />
+                <button type="submit" class="card Giraphy"><h3>Geography</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Physics" asp-for="Category" />
+                <button type="submit" class="card Physics"><h3>Physics</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="French" asp-for="Category" />
+                <button type="submit" class="card Frence"><h3>French</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Psychology" asp-for="Category" />
+                <button type="submit" class="card HymenScience"><h3>Psychology</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Chemistry" asp-for="Category" />
+                <button type="submit" class="card Chemistry"><h3>Chemistry</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="History" asp-for="Category" />
+                <button type="submit" class="card History"><h3>History</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Mathematics" asp-for="Category" />
+                <button type="submit" class="card math"><h3>Mathematics</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Arabic" asp-for="Category" />
+                <button type="submit" class="card arabic"><h3>Arabic</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="Philosophy" asp-for="Category" />
+                <button type="submit" class="card Philosophy"><h3>Philosophy</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="Category">
+                <input hidden value="German" asp-for="Category" />
+                <button type="submit" class="card German"><h3>German</h3></button>
+            </form>
+        </div>
+    </div>
+    <script src="~/js/site.js"></script>
+</body>
+</html>
+
+

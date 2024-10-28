@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Online_Exams</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/Layout.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Online_Exams.styles.css" asp-append-version="true" />
+    <link rel="stylesheet"
+          href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+          integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+          crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+        <nav style="background-color:#140920" class="header d-flex justify-content-around align-items-center">
+                @*<a class="header-name col" asp-area="" asp-controller="Home" asp-action="Index" style="font-weight:600;">Al-Eissa Academy</a>*@
+                <img src="~/Uploads/Logo.png" style="width:260px;height:100px;padding:10px;margin-top:10px;" />
+                <div class="header-right col d-flex justify-content-end">  
+                    <partial name="_LoginPartial" />
+                </div>
+        </nav>
+    <div>
+        <main role="main" style="margin-top:80px;">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer style="bottom:0;left:0;background-color:#140920;color:#FFF;width:100%;padding:10px 40px;position:absolute;border-top:2px solid #fff; box-shadow: 0 0 25px #fff;">
+        <h6 style="font-weight:400;">Future Generations Hub - <partial style="font-size:smaller;">Your school is in your pocket</partial></h6>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

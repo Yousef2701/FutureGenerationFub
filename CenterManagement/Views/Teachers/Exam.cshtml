@@ -1,0 +1,341 @@
+﻿@model CenterManagement.ViewModels.ExamVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap"
+          rel="stylesheet" />
+    <title>Home Page</title>
+    <style>
+        :root {
+            --main-color: #2199e8;
+            --secondary-color: #ffc107;
+            --radius: 5px;
+        }
+
+        html::-webkit-scrollbar,
+        .comments::-webkit-scrollbar,
+        .dropdown-content::-webkit-scrollbar {
+            width: 10px;
+            right: 0;
+        }
+
+        html::-webkit-scrollbar-thumb,
+        .comments::-webkit-scrollbar-thumb,
+        .dropdown-content::-webkit-scrollbar-thumb {
+            background-color: #262137;
+        }
+
+        html::-webkit-scrollbar-track,
+        .comments::-webkit-scrollbar-track,
+        .dropdown-content::-webkit-scrollbar-track {
+            background-color: white;
+        }
+
+        body {
+            overflow-x: hidden;
+            background-color: white;
+            font-family: "Roboto", sans-serif;
+        }
+
+        .quiz-app {
+            margin: 20px auto;
+            width: 80%;
+            background-color: #f6f6f7;
+            padding: 15px;
+        }
+
+            .quiz-app .quiz-info {
+                display: flex;
+                background-color: white;
+                padding: 20px;
+            }
+
+                .quiz-app .quiz-info .category {
+                    flex: 1;
+                    font-weight: bold;
+                }
+
+                .quiz-app .quiz-info .count {
+                    flex: 1;
+                    text-align: right;
+                    font-weight: bold;
+                    font-size: 14px;
+                }
+
+            .quiz-app .quiz-area {
+                background-color: white;
+                padding: 20px;
+                margin-top: 15px;
+            }
+
+                .quiz-app .quiz-area h2 {
+                    margin: 0;
+                }
+
+            .quiz-app .answers-area {
+                background-color: white;
+                padding: 0 20px 20px;
+            }
+
+                .quiz-app .answers-area .answer {
+                    background-color: #f9f9f9;
+                    padding: 15px;
+                }
+
+                    .quiz-app .answers-area .answer:not(:last-child) {
+                        border-bottom: 1px solid #dfdfdf;
+                    }
+
+                    .quiz-app .answers-area .answer input[type="Radio"]:checked + label {
+                        color: white;
+                    }
+
+                    .quiz-app .answers-area .answer label {
+                        font-weight: bold;
+                        color: #292828;
+                        font-size: 14px;
+                        position: relative;
+                        transition: 0.3s ease-in-out;
+                    }
+
+        .answer {
+            cursor: pointer;
+        }
+
+            .answer:hover label {
+                padding-left: 10px;
+            }
+
+        .contact {
+            background-color: #262137;
+            display: block;
+            width: 100%;
+            padding: 15px;
+            border: none;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            cursor: pointer;
+            border-radius: 6px;
+            margin: 20px auto;
+            transition: 0.1s ease-in-out;
+        }
+
+            .contact:hover {
+                background-color: #15121f;
+            }
+
+        .quiz-app .bullets {
+            border-top: 1px solid #dfdfdf;
+            background-color: white;
+            display: flex;
+            padding: 20px;
+            justify-content: space-between;
+        }
+
+            .quiz-app .bullets .spans {
+                display: flex;
+                flex-wrap: wrap;
+            }
+
+                .quiz-app .bullets .spans span {
+                    width: 20px;
+                    height: 20px;
+                    background-color: #ddd;
+                    margin: 5px;
+                    border-radius: 50%;
+                }
+
+                    .quiz-app .bullets .spans span.on {
+                        background-color: #262137;
+                    }
+
+        .d-none {
+            display: none !important;
+        }
+
+        .countdown {
+            display: flex;
+            align-items: center;
+        }
+    </style>
+</head>
+<body class="all-stores-page-body">
+    <div class="d-none">
+        <label id="getQuestion"> 
+            @ViewBag.Questions
+        </label>
+        <label id="getAnswers">
+            @ViewBag.ans
+        </label>
+        <label id="getTime">@ViewBag.Min</label>
+    </div>
+    <div class="quiz-app">
+        <div class="quiz-info">
+            <div class="category">Teacher: <span>Ahmed ElAjab</span></div>
+            <div class="count">Question : <span id="questionNumber">1</span></div>
+        </div>
+        <div class="quiz-area">
+            <h2 id="showQuestion">Why We Use &lt;br&gt; Element</h2>
+        </div>
+        <div class="answers-area">
+            <div class="answer">
+                <input type="radio" class="d-none input" id="1" name="questions" />
+                <label for="1"></label>
+            </div>
+            <div class="answer">
+                <input type="radio" class="d-none input" id="2" name="questions" />
+                <label for="2"></label>
+            </div>
+            <div class="answer">
+                <input type="radio" class="d-none input" id="3" name="questions" />
+                <label for="3"></label>
+            </div>
+            <div class="answer">
+                <input type="radio" class="d-none input" id="4" name="questions" />
+                <label for="4"></label>
+            </div>
+        </div>
+        <form>
+            <button type="button"
+                    id="next"
+                    class="btn btn-primary my-3 contact"
+                    style="width: 200px">
+                Next
+            </button>
+        </form>
+        <div class="bullets">
+            <div id="spans" class="spans"></div>
+            <div class="countdown">
+                <span id="minutes" class="minutes"></span> :
+                <span id="seconds" class="seconds"></span>
+            </div>
+        </div>
+    </div>
+    <form asp-action="Exam_Answers" hidden method="get">
+        <input hidden asp-for="Answers" id="storedData"/>
+        <input hidden asp-for="ExamId" value="@ViewBag.Exam.Id" />
+        <button type="submit" id="submit"></button>
+    </form>
+    <script>
+        let questions = document
+            .getElementById("getQuestion")
+            .textContent.split(",");
+        let answers = document
+            .getElementById("getAnswers")
+            .textContent.split("&&");
+        let numberOfQuestions = questions.length;
+        document.getElementById("showQuestion").textContent = questions[0];
+        let fourAnswers = document.querySelectorAll(".answer label");
+        for (let i = 0; i < 4; i++) {
+            fourAnswers[i].textContent = answers[0].split(",")[i];
+        }
+        let questionNumber = 1;
+        let check = 0;
+        let notchecked = 0;
+        //the time of the exam
+        let minutes = document.getElementById("getTime").textContent;
+        let seconds = 0;
+        let timer = setInterval(() => {
+            seconds--;
+            if (seconds === -1) {
+                minutes--;
+                seconds = 59;
+            }
+            document.getElementById("minutes").textContent = minutes;
+            document.getElementById("seconds").textContent = seconds;
+            if (minutes === 0 && seconds === 0) {
+                document.getElementById("next").style.backgroundColor = "#1c7307";
+                document.getElementById("next").setAttribute("type", "submit");
+                document.getElementById("next").textContent = "Finish";
+                document
+                    .getElementById("minutes")
+                    .parentElement.classList.add("d-none");
+                document.getElementById("next").parentElement.submit();
+            }
+        }, 1000);
+        window.onload = () => {
+            document.getElementById("spans").children[0].classList.add("on");
+        };
+        for (let i = 0; i < numberOfQuestions; i++) {
+            const span = document.createElement("span");
+            document.getElementById("spans").appendChild(span);
+        }
+        document.querySelectorAll(".answer").forEach((ele) => {
+            ele.onclick = () => {
+                ele.children[0].click();
+            };
+        });
+        document.querySelectorAll("input").forEach((ele) => {
+            ele.onclick = () => {
+                document.querySelectorAll("input").forEach((element) => {
+                    element.parentElement.style.backgroundColor = "#f9f9f9";
+                });
+                ele.parentElement.style.backgroundColor = "#2199e8";
+            };
+        });
+        document.getElementById("next").onclick = () => {
+            document.querySelectorAll(".input").forEach((element) => {
+                if (element.checked === true) {
+                    check++;
+                    if (check === questionNumber) {
+                        if (questionNumber === numberOfQuestions - 1) {
+                            document.getElementById("next").style.backgroundColor =
+                                "#1c7307";
+                            document.getElementById("next").textContent = "Finish";
+                        }
+                        
+                        document.querySelectorAll(".answer").forEach((element) => {
+                            if (
+                                element.style.backgroundColor === "rgb(33, 153, 232)" ||
+                                element.style.backgroundColor === "#2199e8"
+                            ) {
+                                if (questionNumber === 1) {
+                                    document.getElementById("storedData").value +=
+                                        element.lastElementChild.textContent;
+                                } else {
+                                    document.getElementById("storedData").value +=
+                                        "," + element.lastElementChild.textContent;
+                                }
+                            }
+                        });
+                        if (questionNumber === numberOfQuestions) {
+                            document.getElementById("submit").click();
+                        }
+                        questionNumber++;
+                        document.getElementById("questionNumber").textContent =
+                            questionNumber;
+                        document.getElementById("showQuestion").textContent =
+                            questions[questionNumber - 1];
+                        for (let i = 0; i < 4; i++) {
+                            fourAnswers[i].textContent =
+                                answers[questionNumber - 1].split(",")[i];
+                        }
+                        for (let i = 0; i < questionNumber; i++) {
+                            document
+                                .getElementById("spans")
+                                .children[i].classList.add("on");
+                        }
+                        document.querySelectorAll("input").forEach((element) => {
+                            element.parentElement.style.backgroundColor = "#f9f9f9";
+                            element.checked = false;
+                        });
+                    }
+                } else {
+                    notchecked++;
+                    if (notchecked === 4) {
+                        alert("Please select an answer.");
+                    }
+                }
+            });
+            notchecked = 0;
+        };
+    </script>
+</body>
+</html>

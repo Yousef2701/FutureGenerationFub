@@ -1,0 +1,366 @@
+﻿  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+   }
+
+    :root{
+        --main-color:#2199e8;
+        --secondary-color:#ffc107;
+        --radius:5px;
+    }
+
+    html::-webkit-scrollbar,.comments::-webkit-scrollbar,.dropdown-content::-webkit-scrollbar{
+        width: 10px;
+        right: 0;
+    }
+
+    html::-webkit-scrollbar-thumb,.comments::-webkit-scrollbar-thumb,.dropdown-content::-webkit-scrollbar-thumb{
+        background-color: #140920;
+    }
+
+    html::-webkit-scrollbar-track,.comments::-webkit-scrollbar-track,.dropdown-content::-webkit-scrollbar-track{
+        background-color: white;
+    }
+
+    a{
+        text-decoration: none!important;
+    }
+
+    body{
+        overflow-x: hidden;
+        background-color: white;     
+        /*font-family: 'Scheherazade', serif;*/ 
+    }
+
+    section {
+        position: relative;
+        width: 100%;
+        height: 70vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        background-color: white;
+    }
+
+    section:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: url(../Uploads/Curve.jpg) no-repeat;
+        border-radius: 0 0 50% 50%/0 0 100% 100%;
+        transform: scaleX(1.5)
+    }
+
+    section .content {
+        position: relative;
+        z-index: 1;
+        margin: 0 auto;
+        max-width: 900px;
+        text-align: center;
+    }
+
+    section h1 {
+        margin: 0;
+        padding: 0;
+        color: white;
+        font-size: 3em;
+    }
+
+    section h3 {
+        color: white;
+        font-size: 1.2em;
+    }
+
+    .paths {
+        font-family: 'Scheherazade', serif;
+        position: relative;
+        width: 100%;
+        min-height: 100vh;
+        overflow: hidden;
+        background-color: white;
+    }
+
+    .paths h2 {
+        margin-top:80px;
+        color: #262137;
+        font-size: 3em;
+        font-weight:700;
+        text-align:center;
+    }
+
+    .paths p {
+        margin-top:20px;
+        color: #262137;
+        font-size: 1.8em;
+        text-align:center;
+    }
+
+    .content {
+        display:flex;
+        justify-content:center;
+        flex-direction:row;
+        flex-wrap:wrap;
+    }
+
+    .card {
+        background-color:#262137;
+        width:21.25em;
+        height:12em;
+        box-shadow:0 5px 25px rgba(1 1 1 / 15%);
+        border-radius: 10px;
+        padding:25px;
+        margin:25px 15px;
+        transition:0.7s ease;
+    }
+
+    .Piology {
+        background: url(../Uploads/Piology.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+        color:white;
+    }
+
+    .English {
+        background: url(../Uploads/English.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .Giraphy {
+        background: url(../Uploads/Giraphy.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .Physics {
+        background: url(../Uploads/Physics.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .Frence {
+        background: url(../Uploads/Frence.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .HymenScience {
+        background: url(../Uploads/HymenScience.jpeg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .Chemistry {
+        background: url(../Uploads/Chemistry.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .History {
+        background: url(../Uploads/History.jpeg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .math {
+        background: url(../Uploads/math.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .arabic {
+        background: url(../Uploads/arabic.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .Philosophy {
+        background: url(../Uploads/Philosophy.jpeg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .German {
+        background: url(../Uploads/german.jpg) no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    .card:hover {
+        transform: scale(1.1);
+    }
+
+    .card h3 {
+        margin:auto;
+        color: white;
+        font-size: 2.8em;
+        font-weight:500;
+    }
+
+    .search {
+        margin-top: 30px;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        align-items: center;
+    }
+
+    .searchInput {
+        height: 40px;
+        width: 40%;
+        border-top-left-radius: #140920;
+        border-bottom-left-radius: #140920;
+        border: 1px solid #140920;
+        border-right: 0;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .searchInput:focus{
+        outline: none;
+    }
+
+    .searchButton {
+        height: 40px;
+        width: 100px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border: 1px solid #140920;
+        border-top-right-radius: #140920;
+        border-bottom-right-radius: #140920;
+        color: white;
+        border-left: 0;
+        background-color: #140920;
+    }
+
+    .Con-Header{
+        text-align:center;
+        margin:25px;
+    }
+
+    .container-2 {
+        position: relative;
+        background-color: #fff;
+        cursor: pointer;
+        width: 21.25em;
+        box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+        border-radius: 10px;
+        padding: 25px;
+        transition: 0.7s ease;
+    }
+
+    .container-2:hover {
+        transform: scale(1.1);
+    }
+
+    .container-2::before {
+        content: "";
+        position: absolute;
+        border-radius: 10px;
+        top: 100%;
+        left: 0px;
+        width: 0px;
+        height: 0px;
+        transition: 0.7s ease;
+        z-index: -1;
+    }
+
+    .container-2:hover::before {
+        border-bottom: 3px solid #262137;
+        border-left: 3px solid #262137;
+        height: 100%;
+        width: 100%;
+        top: 0;
+    }
+
+    .container-2::after {
+        content: "";
+        position: absolute;
+        border-radius: 10px;
+        top: 0px;
+        left: 100%;
+        width: 0px;
+        height: 0px;
+        transition: 0.7s ease;
+        z-index: -1;
+    }
+
+    .container-2:hover::after {
+        border-top: 3px solid #262137;
+        border-right: 3px solid #262137;
+        height: 100%;
+        width: 100%;
+        left: 0;
+    }
+
+     .img {
+        width: 95%;
+        margin-left:auto;
+        margin-right:auto;
+        height: 160px;
+        transition-duration: .5s;
+        border-radius:10px;
+     }
+
+    .centers-img{
+        width: 100%;
+    }
+
+    .container-2:hover .img{
+        opacity: 90%;
+    }
+
+    .center-name {
+        font-size: 1.2em;
+        font-weight: 700;
+        text-align: center;
+        margin: 10px;
+    }
+
+
+   .workshop-details {
+        text-align: left;
+        margin-bottom: 20px;
+   }
+
+    .workshop-details ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .workshop-details li {
+        margin-bottom: 5px;
+    }
+
+    @media (max-width:756px) {
+        section:before {
+            border-radius: 0 0 50% 0%/0 0 100% 100%;
+        }
+
+        .paths h2 {
+            font-size: 23px!important;
+            margin-top:40px;
+        }
+
+        .paths p {
+            padding: 0 30px!important;
+            font-size: 18px!important;
+        }
+        section h1 {
+            font-size: 30px;
+        }
+
+        section h3 {
+            color: white;
+            font-size: 21px;
+        }
+    }

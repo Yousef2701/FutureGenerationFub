@@ -1,0 +1,74 @@
+﻿@model CenterManagement.ViewModels.QuestionVM
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+              rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/UpdateQuestion.css">
+    </head>
+    <body>
+        <div class="scroller"></div>
+        <div class="wrapper">
+            <form novalidate="" enctype="multipart/form-data" asp-controller="Exams" asp-action="UpdateQuestion" method="post">
+                <h1>Update Question Data</h1>
+                <div class="input-box">
+                    <label asp-for="ExamId">The Exam Id</label>
+                    <input asp-for="ExamId" type="text" value="@ViewBag.Question.ExamId" readonly autocomplete="off" />
+                </div>
+                <div class="input-box">
+                    <label asp-for="Quest">The Question</label>
+                    <input asp-for="Quest" type="text" value="@ViewBag.Question.Quest" required autocomplete="off" />
+                </div>
+                <div class="input-box">
+                    <label asp-for="FristAnswer">The Frist Choose</label>
+                    <input asp-for="FristAnswer" type="text" value="@ViewBag.Question.FristAnswer" required autocomplete="off" />
+                </div>
+                <div class="input-box">
+                    <label asp-for="SecondAnswer">The Second Choose</label>
+                    <input asp-for="SecondAnswer" type="text" value="@ViewBag.Question.SecondAnswer" required autocomplete="off" />
+                </div>
+                <div class="input-box">
+                    <label asp-for="ThirdAnswer">The Third Choose</label>
+                    <input asp-for="ThirdAnswer" type="text" value="@ViewBag.Question.ThirdAnswer" required autocomplete="off" />
+                </div>
+                <div class="input-box">
+                    <label asp-for="ForthAnswer">The Fourth Choose</label>
+                    <input asp-for="ForthAnswer" type="text" value="@ViewBag.Question.ForthAnswer" required autocomplete="off" />
+                </div>
+                <div class="input-box">
+                    <select asp-for="CorrectAnswer" required>
+                        <option value="Frist">Frist Choose</option>
+                        <option value="Second">Second Choose</option>
+                        <option value="Third">Third Choose</option>
+                        <option value="Fourth">Fourth Choose</option>
+                    </select>
+                </div>
+
+                <input hidden id="choosed" value="@ViewBag.Question.CorrectAnswer" />
+
+                <input hidden asp-for="Numbre" value="@ViewBag.Question.Numbre"/>
+
+                <button type="submit" class="btn" onclick="displayAlertSuccess()">Save Updates</button>
+                <a asp-action="TeacherExams" style="text-align:center;" class="btn cancel col-5  my-2">Cancel</a>
+            </form>
+        </div>
+
+        @section Scripts{
+            <script>
+                function displayAlertSuccess() {
+                    Swal.fire('Completed', 'The Question is Added Successfully', 'success');
+                }
+                document.querySelectorAll("option").forEach(e=>{
+                    if (e.value === document.getElementById("choosed").value){
+                        e.selected = true;
+                    }
+                })
+            </script>
+        }
+
+    </body>
+</html>

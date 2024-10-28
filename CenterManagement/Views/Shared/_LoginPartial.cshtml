@@ -1,0 +1,176 @@
+﻿@using Microsoft.AspNetCore.Authorization;
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims;
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@inject IHttpContextAccessor _httpContextAccessor
+@inject CenterManagement.Data.ApplicationDbContext _context
+@inject IAuthorizationService Athorize
+@{
+    AuthorizationResult authorizationResult = await Athorize.AuthorizeAsync(User, "StudentRole");
+}
+@{
+    AuthorizationResult authorizationResult1 = await Athorize.AuthorizeAsync(User, "TeacherRole");
+}
+@{
+    AuthorizationResult authorizationResult2 = await Athorize.AuthorizeAsync(User, "AdminRole");
+}
+
+<ul style="display:flex;margin-top:auto;margin-bottom:auto;" class="header-nav col-6 d-flex justify-content-end align-items-center" style="list-style:none; margin:0;">
+@if (SignInManager.IsSignedIn(User))
+{
+        var userId = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+        var type = _context.UserClaims.Where(m => m.UserId == userId).Select(o => o.ClaimType).FirstOrDefault();
+        if (type == "Admin")
+        {
+            <div class="dropdown m-2">
+                <button style="color:white;" id="card-btn" class="btn shop" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-kanban" viewBox="0 0 16 16">
+                        <path d="M13.5 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h11zm-11-1a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2h-11z" />
+                        <path d="M6.5 3a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3zm-4 0a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3zm8 0a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3z" />
+                    </svg>
+                </button>
+                <ul class="dropdown-menu shop-menu menu">
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="AdminPage">Admin Page</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Enroll_Parcode">Create Parcode</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Students">Students</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Teachers">Teachers</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Earned_Money">Earned Money</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Pending_Accounts">Pending Accounts</a>
+                    </li>
+                </ul>
+            </div>
+
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" method="post">
+                <button type="submit" style="color:white;" class="nav-link btn btn-link">Logout</button>
+            </form>
+        }
+        else if (type == "Teacher")
+        {
+            <div class="dropdown m-2">
+                <button style="color:white;" id="card-btn" class="btn shop" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-kanban" viewBox="0 0 16 16">
+                        <path d="M13.5 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h11zm-11-1a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2h-11z" />
+                        <path d="M6.5 3a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3zm-4 0a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3zm8 0a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3z" />
+                    </svg>
+                </button>
+                <ul class="dropdown-menu shop-menu menu">
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="Dashboard">Home</a>
+                    </li>                   
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="AddNewLesson">Add New Lesson</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Exams" asp-action="AddExam">Add New Exam</a>
+                    </li>
+                   @* <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Exams" asp-action="AddQuestion">Add New Question</a>
+                    </li>*@
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="MyLessons">My Lessons</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Exams" asp-action="TeacherExams">My Exams</a>
+                    </li>                  
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Courses" asp-action="Teacher_Barcodes">Barcodes</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="PersonalPage">Personal Data</a>
+                    </li>
+                </ul>
+            </div>
+
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" method="post">
+                <button type="submit" style="color:white;" class="nav-link btn btn-link">Logout</button>
+            </form>
+        }
+        else
+        {
+                <div class="dropdown m-2">
+                    <button style="color:white;" id="card-btn" class="btn shop" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                            <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5Z" />
+                            <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z" />
+                        </svg>
+                    </button>
+                    <ul class="dropdown-menu shop-menu menu">
+                        <li class="list-group-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home Page</a>
+                        </li>
+                        <li class="list-group-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact_Us">Contact Us</a>
+                        </li>
+                        <li class="list-group-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="About_Us">About Us</a>
+                        </li>
+                    </ul>
+                </div>
+          
+
+            <div class="dropdown m-2">
+                <button id="card-btn" class="btn shop dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                    @{
+                        string img;
+
+                        if (type == "Student")
+                        {
+                            img = _context.student.Where(c => c.Id == userId).Select(i => i.ImageUrl).FirstOrDefault();
+                            <img class="acount-image" src="~/Uploads/@img" alt="">
+                        }
+                        else if (type == "Teacher")
+                        {
+                            img = _context.teachers.Where(c => c.Id == userId).Select(i => i.ImageUrl).FirstOrDefault();
+                            <img class="acount-image" src="~/Uploads/@img" alt="">
+                        }
+                    }
+                </button>
+                <ul class="dropdown-menu shop-menu menu">
+                    @if (authorizationResult.Succeeded)
+                    {
+                        <li class="list-group-item">
+                            <a class="nav-link" asp-area="" asp-controller="Students" asp-action="PersonalPage">Personal Data</a>
+                        </li>
+                        <li class="list-group-item">
+                            <a class="nav-link" asp-area="" asp-controller="Students" asp-action="AllExams">My Exams</a>
+                        </li>
+                        <li class="list-group-item">
+                            <a class="nav-link" asp-area="" asp-controller="Students" asp-action="DeleteStudentAccount">Delete Account</a>
+                        </li>
+                    }
+
+                    <li class="list-group-item red">
+                        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" method="post">
+                            <button type="submit" class="nav-link btn btn-link">Logout</button>
+                        </form>
+                    </li>
+                </ul>
+            </div>
+        }
+
+}
+else
+{
+    <li class="nav-item">
+            <a style="color:white!important;font-weight:600;" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+    </li>
+    <li class="nav-item">
+            <a style="color:white!important;font-weight:600;" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
+    </li>
+}
+</ul>
+
+<script src="~/js/Dropdown.js"></script>
