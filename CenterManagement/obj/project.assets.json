@@ -11195,11 +11195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects-Copy\\Web Applications\\Center Management-Website\\CenterManagement\\CenterManagement\\CenterManagement.csproj",
+      "projectUniqueName": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\CenterManagement.csproj",
       "projectName": "CenterManagement",
-      "projectPath": "F:\\Projects-Copy\\Web Applications\\Center Management-Website\\CenterManagement\\CenterManagement\\CenterManagement.csproj",
+      "projectPath": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\CenterManagement.csproj",
       "packagesPath": "C:\\Users\\lap tech\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects-Copy\\Web Applications\\Center Management-Website\\CenterManagement\\CenterManagement\\obj\\",
+      "outputPath": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -9,273 +9,273 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CenterManagement
 build_property.RootNamespace = CenterManagement
-build_property.ProjectDir = F:\Projects-Copy\Web Applications\Center Management-Website\CenterManagement\CenterManagement\
+build_property.ProjectDir = F:\Projects-Copy\Web Applications\FutureGenerationHub-Website\CenterManagement\CenterManagement\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Projects-Copy\Web Applications\Center Management-Website\CenterManagement\CenterManagement
+build_property.MSBuildProjectDirectory = F:\Projects-Copy\Web Applications\FutureGenerationHub-Website\CenterManagement\CenterManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Login.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Logout.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Register.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/_ViewImports.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/AdminPage.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/AdminPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/CreateParcodes.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/CreateParcodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUGFyY29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Earned_Money.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Earned_Money.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWFybmVkX01vbmV5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Enroll_Parcode.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Enroll_Parcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW5yb2xsX1BhcmNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Get_Parcode.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Get_Parcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0X1BhcmNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Pending_Accounts.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Pending_Accounts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGVuZGluZ19BY2NvdW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Students.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Students.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Student_Page.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Student_Page.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudF9QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Teachers.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Teachers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Admin/Teacher_Page.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Admin/Teacher_Page.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlcl9QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Add_Lesson_Task.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Add_Lesson_Task.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xBZGRfTGVzc29uX1Rhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Choose_Month.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Choose_Month.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDaG9vc2VfTW9udGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Get_Barcodes.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Get_Barcodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xHZXRfQmFyY29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Lesson_Details.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Lesson_Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xMZXNzb25fRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Lesson_Task.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Lesson_Task.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xMZXNzb25fVGFzay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Monthly_Enroll_Barcode.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Monthly_Enroll_Barcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xNb250aGx5X0Vucm9sbF9CYXJjb2RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Monthly_Lessons.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Monthly_Lessons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xNb250aGx5X0xlc3NvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Months.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Months.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xNb250aHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Courses/Teacher_Barcodes.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Courses/Teacher_Barcodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xUZWFjaGVyX0JhcmNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Exams/AddExam.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Exams/AddExam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcQWRkRXhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Exams/AddQuestion.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Exams/AddQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcQWRkUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Exams/ExamDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcRXhhbURldGFpbHMuY3NodG1s
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Exams/ExamQuestionsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcRXhhbVF1ZXN0aW9uc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Exams/ExamStudents.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcRXhhbVN0dWRlbnRzLmNzaHRtbA==
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Exams/ExamStudentsResultList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcRXhhbVN0dWRlbnRzUmVzdWx0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Exams/TeacherExams.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcVGVhY2hlckV4YW1zLmNzaHRtbA==
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Exams/TeacherExamsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcVGVhY2hlckV4YW1zTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Exams/UpdateQuestion.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Exams/UpdateQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXNcVXBkYXRlUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Home/About_Us.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Home/About_Us.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dF9Vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Home/Contact_Us.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Home/Contact_Us.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0X1VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Home/Index.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Shared/Error.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Shared/_LoginPartial.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Students/AllExams.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Students/AllExams.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQWxsRXhhbXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Students/CompleteSData.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Students/CompleteSData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ29tcGxldGVTRGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Students/PersonalPage.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Students/PersonalPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcUGVyc29uYWxQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Students/UpdateStudentData.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Students/UpdateStudentData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcVXBkYXRlU3R1ZGVudERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Students/Wrong_Parcode.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Students/Wrong_Parcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcV3JvbmdfUGFyY29kZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/AddNewLesson.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/AddNewLesson.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQWRkTmV3TGVzc29uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Category.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/ChooseExams.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/ChooseExams.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ2hvb3NlRXhhbXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/CompleteTData.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/CompleteTData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ29tcGxldGVURGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/ContactTeacher.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/ContactTeacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ29udGFjdFRlYWNoZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Dashboard.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Enter_Parcode.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Enter_Parcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRW50ZXJfUGFyY29kZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Exam.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Exam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRXhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Exam_Answers.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Exam_Answers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRXhhbV9BbnN3ZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Git_Lesson_Tasks.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Git_Lesson_Tasks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcR2l0X0xlc3Nvbl9UYXNrcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/LessonDetails.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/LessonDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcTGVzc29uRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/MyLessons.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/MyLessons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcTXlMZXNzb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/PersonalPage.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/PersonalPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcUGVyc29uYWxQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/SystemTracks.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/SystemTracks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcU3lzdGVtVHJhY2tzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Teacher_Page.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Teacher_Page.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcVGVhY2hlcl9QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/UpdateTeacherData.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/UpdateTeacherData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcVXBkYXRlVGVhY2hlckRhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Teachers/Update_Lesson.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Teachers/Update_Lesson.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcVXBkYXRlX0xlc3Nvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/_ViewImports.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/_ViewStart.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects-Copy/Web Applications/Center Management-Website/CenterManagement/CenterManagement/Views/Shared/_Layout.cshtml]
+[F:/Projects-Copy/Web Applications/FutureGenerationHub-Website/CenterManagement/CenterManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8b9jwm7d4d

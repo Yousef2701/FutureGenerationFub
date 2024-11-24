@@ -1,4 +1,6 @@
 using CenterManagement.Data;
+using CenterManagement.IRepository;
+using CenterManagement.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -29,6 +31,10 @@ builder.Services.AddAuthorization(options =>
 builder.Services.AddAuthorization(options =>
     options.AddPolicy("StudentRole", op => op.RequireClaim("Student", "Student"))
     );
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IExamRepository, ExamRepository>();
+
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
