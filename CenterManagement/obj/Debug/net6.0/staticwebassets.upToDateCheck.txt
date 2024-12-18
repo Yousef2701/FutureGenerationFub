@@ -1,0 +1,207 @@
+wwwroot\css\About_Us.css
+wwwroot\css\AddExam.css
+wwwroot\css\AddNewLesson.css
+wwwroot\css\AddQuestion.css
+wwwroot\css\Admin.css
+wwwroot\css\CompleteSData.css
+wwwroot\css\CompleteTData.css
+wwwroot\css\Contact_Us.css
+wwwroot\css\Exam.css
+wwwroot\css\Exams.css
+wwwroot\css\FinishData.css
+wwwroot\css\GeneralTeachers.css
+wwwroot\css\Index.css
+wwwroot\css\Layout.css
+wwwroot\css\LessonTask.css
+wwwroot\css\Login.css
+wwwroot\css\monumental-stair-banner.jpg
+wwwroot\css\PersonalPage.css
+wwwroot\css\Services.css
+wwwroot\css\SignUp.css
+wwwroot\css\site.css
+wwwroot\css\Teacher_Exams_List.css
+wwwroot\css\Teacher_Page.css
+wwwroot\css\Tracks.css
+wwwroot\css\UpdateData.css
+wwwroot\css\UpdateLessonInformation.css
+wwwroot\css\UpdateQuestion.css
+wwwroot\css\UpdateStudentData.css
+wwwroot\css\UpdateTeacherData.css
+wwwroot\favicon.ico
+wwwroot\Files\Ahmed-Rayan- Online_Exams.pdf
+wwwroot\js\Dropdown.js
+wwwroot\js\Exam.js
+wwwroot\js\register.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Uploads\1.jpg
+wwwroot\Uploads\10.jpg
+wwwroot\Uploads\11.jpg
+wwwroot\Uploads\12.jpg
+wwwroot\Uploads\1prep.jpg
+wwwroot\Uploads\1sec.jpg
+wwwroot\Uploads\2.jpg
+wwwroot\Uploads\2prep.jpg
+wwwroot\Uploads\2sec.jpg
+wwwroot\Uploads\3.jpg
+wwwroot\Uploads\3prep.jpg
+wwwroot\Uploads\3sec.jpg
+wwwroot\Uploads\4.jpg
+wwwroot\Uploads\5.jpg
+wwwroot\Uploads\6.jpg
+wwwroot\Uploads\7.jpg
+wwwroot\Uploads\8.jpg
+wwwroot\Uploads\9.jpg
+wwwroot\Uploads\Ahlam@gmailimages.jpeg
+wwwroot\Uploads\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg
+wwwroot\Uploads\Ahmed@gmailDSC_0014.JPG
+wwwroot\Uploads\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG
+wwwroot\Uploads\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG
+wwwroot\Uploads\Ahmed66@gmailDSC_0014.JPG
+wwwroot\Uploads\Ahmed666@gmail- Online_Exams.pdf
+wwwroot\Uploads\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG
+wwwroot\Uploads\Ahmed-R- Online_Exams.pdf
+wwwroot\Uploads\Ali8585@gmailIMG_20240412_154112_735.jpg
+wwwroot\Uploads\Ali8585@gmailScreenshot 2024-12-15 215748.png
+wwwroot\Uploads\Ali95950@gmail36416179_1180711215402044_5794559886222163968_n.jpg
+wwwroot\Uploads\arabic.jpg
+wwwroot\Uploads\asp-net-web-application-software-development-platform-programming-language-210218966.jpg
+wwwroot\Uploads\bac.jpg
+wwwroot\Uploads\barcodes.jpg
+wwwroot\Uploads\Chemistry.jpg
+wwwroot\Uploads\Cousres.jpg
+wwwroot\Uploads\createExam.jpg
+wwwroot\Uploads\createLessons.jpg
+wwwroot\Uploads\Curve.jpg
+wwwroot\Uploads\download.jpeg
+wwwroot\Uploads\DSC_0007 (1).JPG
+wwwroot\Uploads\DSC_0012.JPG
+wwwroot\Uploads\DSC_0014.JPG
+wwwroot\Uploads\DSC_0039.JPG
+wwwroot\Uploads\English.jpg
+wwwroot\Uploads\Exam.jpg
+wwwroot\Uploads\Frence.jpg
+wwwroot\Uploads\german.jpg
+wwwroot\Uploads\gettyimages-501340947-1024x1024.jpg
+wwwroot\Uploads\Giraphy.jpg
+wwwroot\Uploads\Google-Kotlin-android-app-development.jpg
+wwwroot\Uploads\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg
+wwwroot\Uploads\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg
+wwwroot\Uploads\History.jpeg
+wwwroot\Uploads\HymenScience.jpeg
+wwwroot\Uploads\Logo.png
+wwwroot\Uploads\math.jpg
+wwwroot\Uploads\Money.jpg
+wwwroot\Uploads\monumental-stair-banner.jpg
+wwwroot\Uploads\myExams.jpg
+wwwroot\Uploads\myLessons.jpg
+wwwroot\Uploads\one-year-of-react-native.png
+wwwroot\Uploads\Othman@gmailDSC_0301_1.JPG
+wwwroot\Uploads\parcodes.jpg
+wwwroot\Uploads\Pending.jpg
+wwwroot\Uploads\Philosophy.jpeg
+wwwroot\Uploads\Physics.jpg
+wwwroot\Uploads\Piology.jpg
+wwwroot\Uploads\Rayan675@gmailDSC_0282_1.JPG
+wwwroot\Uploads\Students.jpg
+wwwroot\Uploads\Teachers.jpg
+wwwroot\Uploads\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg
+wwwroot\Uploads\Yousef10@gmailDSC_0010.JPG
+wwwroot\Uploads\Yousef11@gmailDSC_0007 (1).JPG
+wwwroot\Uploads\Yousef11@gmailDSC_0012.JPG
+wwwroot\Uploads\Yousef11@gmailDSC_0289_1.JPG
+wwwroot\Uploads\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg
+wwwroot\Uploads\Yousef656@gmail1prep.jpg
+wwwroot\Uploads\Yousef656@gmail3prep.jpg
+wwwroot\Uploads\Yousef656@gmail8.jpg
+wwwroot\Uploads\Yousef656@gmail9.jpg
+wwwroot\Uploads\Yousef656@gmailBanner-10.png
+wwwroot\Uploads\Yousef656@gmailDSC_0256.JPG
+wwwroot\Uploads\Yousef656@gmailDSC_0283_1.JPG
+wwwroot\Uploads\Yousef656@gmailimages (1).jpeg
+wwwroot\Uploads\Yousef656@gmailimages.jpeg
+wwwroot\Uploads\Yousef66@gmailDSC_0283_1.JPG
+wwwroot\Uploads\Yousef666@gmail1.jpg
+wwwroot\Uploads\Yousef666@gmail11.jpeg
+wwwroot\Uploads\Yousef666@gmail5.jpg
+wwwroot\Uploads\Yousef666@gmail8.jpg
+wwwroot\Uploads\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG
+wwwroot\Uploads\Yousef666@gmailDSC_0275_1.JPG
+wwwroot\Uploads\Yousef666@gmailone-year-of-react-native.png
+wwwroot\Uploads\Yousef666@gmailYousef656@gmailBanner-10.png
+wwwroot\Uploads\Yousef666@gmailYousef656@gmailimages (1).jpeg
+wwwroot\Uploads\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg
+wwwroot\Vedios\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
+wwwroot\Vedios\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
+wwwroot\Vedios\Ali8585@gmailVID20230710111157.mp4
+wwwroot\Vedios\Ali8585@gmailVID20230711074918.mp4
+wwwroot\Vedios\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4
+wwwroot\Vedios\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4
+wwwroot\Vedios\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
+wwwroot\Vedios\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4
+wwwroot\Vedios\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
+wwwroot\Vedios\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
+wwwroot\Vedios\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4
+wwwroot\Vedios\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4
+wwwroot\Vedios\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
+wwwroot\Vedios\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
+wwwroot\Vedios\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
+wwwroot\Vedios\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
+wwwroot\Vedios\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
+wwwroot\Vedios\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4

@@ -157,48 +157,6 @@ namespace CenterManagement.Controllers
 
             return RedirectToAction("Index", "Home");
         }
-
-        [HttpGet]
-        public IActionResult Add_Lesson_Task(Lesson model)
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Save_Task(LessonTask model)
-        {
-            var task = new LessonTask
-            {
-                LessonId = model.LessonId,
-                Question = model.Question,
-            };
-
-            _context.lessonTasks.Add(task);
-            _context.SaveChanges();
-
-            return View("Add_Lesson_Task");
-        }
-
-        public IActionResult Teacher_Barcodes()
-        {
-            return View();
-        }
-     
-        public IActionResult Choose_Month(AcademYearVM model)
-        {
-            ViewBag.year = model.AcademyYear;
-
-            return View();
-        }
-
-        public IActionResult Get_Barcodes(AcademYearVM model)
-        {
-            var userId = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-
-            var barcodes = _context.Barcodes.Where(m => m.TeacherId == userId & m.AcademyYear == model.AcademyYear & m.Month == model.Month).ToList();
-            ViewBag.Barcodes = barcodes;
-
-            return View();
-        }
+       
     }
 }

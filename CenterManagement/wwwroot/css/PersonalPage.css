@@ -64,14 +64,13 @@
         background-color: #fff;
         text-align: center;
       }
-      
-      .workshop-card img {
-        width: 100%;
-        max-width: 400px;
-        height: auto;
+
+    .workshop-card img {
+        width: 270px;
+        height: 270px;
         margin-bottom: 20px;
-        border-radius: 5px;
-      }
+        border-radius: 50%;
+    }
       
       .workshop-card h2 {
         font-size: 24px;

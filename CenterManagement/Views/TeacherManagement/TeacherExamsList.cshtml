@@ -1,0 +1,57 @@
+﻿@model Exam
+@inject CenterManagement.Data.ApplicationDbContext _context
+@inject IHttpContextAccessor _httpContextAccessor
+@using System.Security.Claims
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title class="text-capitalize">Orders</title>
+    <link rel="stylesheet" href="~/css/Teacher_Exams_List.css">
+</head>
+<body>
+    <div class="scroller"></div>
+    <div class="main d-flex row col-12">
+        <h1 class="my-3 text-center">My Exams</h1>
+        <div class="sections-container d-flex col-12 justify-content-evenly">
+            <div class="section my-3 col-lg-10 col-md-10 col-sm-12 projects-section">
+                <table class="col-12">
+                    <thead>
+                        <tr>
+                            <td>Exam Id</td>
+                            <td>Exam Title</td>
+                            <td>Academy Year</td>
+                            <td>Exam Time</td>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Exam item in @ViewBag.Exams)
+                        {
+                            <tr>
+                                <form asp-action="ExamQuestionsList" method="get">
+                                    <td>@item.Id</td>
+                                    <td>@item.Title</td>
+                                    <td>@item.AcademyYear</td>
+                                    <td>@item.Minutes</td>
+                                    <input hidden type="text" asp-for="Id" value="@item.Id" />
+                                    <td>
+                                        <button class="btn btn-success col-4">Exam Questions</button>
+                                        <button asp-action="ExamStudentsResultList" type="submit" class="btn btn-primary col-4">Students’ Grades</button>
+                                        <button asp-action="DeleteExam" type="submit" class="btn btn-danger col-3">Delete Exam</button>
+                                    </td>
+                                </form>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="~/js/dashboard.js"></script>
+</body>
+</html>

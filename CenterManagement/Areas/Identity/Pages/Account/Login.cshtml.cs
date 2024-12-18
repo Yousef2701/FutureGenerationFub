@@ -130,7 +130,7 @@ namespace CenterManagement.Areas.Identity.Pages.Account
                     }
                     else if (type == "Teacher")
                     {
-                        return RedirectToAction("Dashboard", "Teachers");
+                        return RedirectToAction("Dashboard", "TeacherManagement");
                     }
                     else
                     {

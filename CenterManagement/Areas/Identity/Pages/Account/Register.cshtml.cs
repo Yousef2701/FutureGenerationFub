@@ -138,7 +138,7 @@ namespace CenterManagement.Areas.Identity.Pages.Account
                         Claim claim = new Claim("Teacher", "Teacher");
                         await _userManager.AddClaimAsync(user, claim);
 
-                        return RedirectToAction("CompleteTData", "Teachers");
+                        return RedirectToAction("ComleteTeacherData", "TeacherManagement");
                     }
                     else if (Input.AccountType == "Student")
                     {

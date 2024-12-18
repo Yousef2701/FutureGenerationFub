@@ -67,28 +67,25 @@
                 </button>
                 <ul class="dropdown-menu shop-menu menu">
                     <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="Dashboard">Home</a>
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="Dashboard">Dashboard</a>
                     </li>                   
                     <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="AddNewLesson">Add New Lesson</a>
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="AddNewLesson">Add New Lesson</a>
                     </li>
                     <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Exams" asp-action="AddExam">Add New Exam</a>
-                    </li>
-                   @* <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Exams" asp-action="AddQuestion">Add New Question</a>
-                    </li>*@
-                    <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="MyLessons">My Lessons</a>
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="AddExam">Add New Exam</a>
                     </li>
                     <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Exams" asp-action="TeacherExams">My Exams</a>
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="TeacherLessonsList">My Lessons</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="TeacherExamsList">My Exams</a>
                     </li>                  
                     <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Courses" asp-action="Teacher_Barcodes">Barcodes</a>
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="TeacherBarcodesList">Barcodes</a>
                     </li>
                     <li class="list-group-item">
-                        <a class="nav-link" asp-area="" asp-controller="Teachers" asp-action="PersonalPage">Personal Data</a>
+                        <a class="nav-link" asp-area="" asp-controller="TeacherManagement" asp-action="PersonalPage">Personal Data</a>
                     </li>
                 </ul>
             </div>

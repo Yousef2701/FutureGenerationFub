@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/Admin.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <title>Admin Dashboard</title>
+    <style>
+        html::-webkit-scrollbar, .comments::-webkit-scrollbar, .dropdown-content::-webkit-scrollbar {
+            width: 10px;
+            right: 0;
+        }
+
+        html::-webkit-scrollbar-thumb, .comments::-webkit-scrollbar-thumb, .dropdown-content::-webkit-scrollbar-thumb {
+            background-color: #140920;
+        }
+
+        html::-webkit-scrollbar-track, .comments::-webkit-scrollbar-track, .dropdown-content::-webkit-scrollbar-track {
+            background-color: white;
+        }
+
+        .card {
+            background-color: #262137;
+            width: 25em;
+            height: 14em;
+            box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+            border-radius: 10px;
+            padding: 25px;
+            margin: 25px 15px;
+            transition: 0.7s ease;
+            padding: 10% 0;
+        }
+
+            .card:hover {
+                transform: scale(1.1);
+            }
+
+            .card h3 {
+                margin: auto;
+                color: white;
+                font-size: 2.8em;
+                font-weight: 500;
+            }
+
+            .card p {
+                margin-left: auto;
+                margin-right: auto;
+                color: white;
+                font-size: 1.8em;
+                font-weight: 400;
+            }
+
+        .AddExam {
+            background: url(../Uploads/createExam.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+
+        .barcode {
+            background: url(../Uploads/barcodes.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+
+        .myExam {
+            background: url(../Uploads/myExams.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+
+        .myLesson {
+            background: url(../Uploads/myLessons.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+
+        .AddLesson {
+            background: url(../Uploads/createLessons.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: white;
+        }
+    </style>
+</head>
+<body style="display:flex;justify-content:center;align-items:center;min-height:90vh;padding-top:25px;">
+    <div class="scroller"></div>
+    <div class="d-flex flex-wrap justify-content-center align-items-center">
+        <form asp-action="AddNewLesson" method="get">
+            <button type="submit" class="card AddLesson">
+                <h3>Add New Lesson</h3>
+            </button>
+        </form>
+
+        <form asp-action="AddExam" method="get">
+            <button type="submit" class="card AddExam">
+                <h3>Add New Exam</h3>
+            </button>
+        </form>
+
+        <form asp-action="TeacherBarcodesList">
+            <button type="submit" class="card barcode">
+                <h3>Barcodes</h3>
+            </button>
+        </form>
+
+        <form asp-action="TeacherLessonsList">
+            <button type="submit" class="card myLesson">
+                <h3>My Lessons</h3>
+            </button>
+        </form>
+
+        <form asp-action="TeacherExamsList" method="get">
+            <button type="submit" class="card myExam">
+                <h3>My Exams</h3>
+            </button>
+        </form>
+    </div>
+</body>
+</html>

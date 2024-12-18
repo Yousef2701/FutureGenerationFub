@@ -1,816 +1,840 @@
 {
   "Files": [
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CenterManagement.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CenterManagement.bundle.scp.css"
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CenterManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CenterManagement.xy76mpvm70.bundle.scp.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Files\\Ahmed-Rayan- Online_Exams.pdf",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Files\\Ahmed-Rayan- Online_Exams.pdf",
       "PackagePath": "staticwebassets\\Files\\Ahmed-Rayan- Online_Exams.pdf"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\1.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\1.jpg",
       "PackagePath": "staticwebassets\\Uploads\\1.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\10.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\10.jpg",
       "PackagePath": "staticwebassets\\Uploads\\10.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\11.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\11.jpg",
       "PackagePath": "staticwebassets\\Uploads\\11.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\12.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\12.jpg",
       "PackagePath": "staticwebassets\\Uploads\\12.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\1prep.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\1prep.jpg",
       "PackagePath": "staticwebassets\\Uploads\\1prep.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\1sec.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\1sec.jpg",
       "PackagePath": "staticwebassets\\Uploads\\1sec.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\2.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\2.jpg",
       "PackagePath": "staticwebassets\\Uploads\\2.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\2prep.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\2prep.jpg",
       "PackagePath": "staticwebassets\\Uploads\\2prep.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\2sec.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\2sec.jpg",
       "PackagePath": "staticwebassets\\Uploads\\2sec.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\3.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\3.jpg",
       "PackagePath": "staticwebassets\\Uploads\\3.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\3prep.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\3prep.jpg",
       "PackagePath": "staticwebassets\\Uploads\\3prep.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\3sec.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\3sec.jpg",
       "PackagePath": "staticwebassets\\Uploads\\3sec.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\4.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\4.jpg",
       "PackagePath": "staticwebassets\\Uploads\\4.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\5.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\5.jpg",
       "PackagePath": "staticwebassets\\Uploads\\5.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\6.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\6.jpg",
       "PackagePath": "staticwebassets\\Uploads\\6.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\7.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\7.jpg",
       "PackagePath": "staticwebassets\\Uploads\\7.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\8.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\8.jpg",
       "PackagePath": "staticwebassets\\Uploads\\8.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\9.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\9.jpg",
       "PackagePath": "staticwebassets\\Uploads\\9.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahlam@gmailimages.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahlam@gmailimages.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Ahlam@gmailimages.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed-R- Online_Exams.pdf",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed-R- Online_Exams.pdf",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed-R- Online_Exams.pdf"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed666@gmail- Online_Exams.pdf",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed666@gmail- Online_Exams.pdf",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed666@gmail- Online_Exams.pdf"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed66@gmailDSC_0014.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed66@gmailDSC_0014.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed66@gmailDSC_0014.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Ahmed@gmailDSC_0014.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ahmed@gmailDSC_0014.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Ahmed@gmailDSC_0014.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Chemistry.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ali8585@gmailIMG_20240412_154112_735.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Ali8585@gmailIMG_20240412_154112_735.jpg"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ali8585@gmailScreenshot 2024-12-15 215748.png",
+      "PackagePath": "staticwebassets\\Uploads\\Ali8585@gmailScreenshot 2024-12-15 215748.png"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Ali95950@gmail36416179_1180711215402044_5794559886222163968_n.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Ali95950@gmail36416179_1180711215402044_5794559886222163968_n.jpg"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Chemistry.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Chemistry.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Cousres.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Cousres.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Cousres.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Curve.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Curve.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Curve.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\DSC_0007 (1).JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\DSC_0007 (1).JPG",
       "PackagePath": "staticwebassets\\Uploads\\DSC_0007 (1).JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\DSC_0012.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\DSC_0012.JPG",
       "PackagePath": "staticwebassets\\Uploads\\DSC_0012.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\DSC_0014.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\DSC_0014.JPG",
       "PackagePath": "staticwebassets\\Uploads\\DSC_0014.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\DSC_0039.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\DSC_0039.JPG",
       "PackagePath": "staticwebassets\\Uploads\\DSC_0039.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\English.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\English.jpg",
       "PackagePath": "staticwebassets\\Uploads\\English.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Exam.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Exam.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Exam.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Frence.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Frence.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Frence.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Giraphy.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Giraphy.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Giraphy.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Google-Kotlin-android-app-development.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Google-Kotlin-android-app-development.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Google-Kotlin-android-app-development.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg",
       "PackagePath": "staticwebassets\\Uploads\\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\History.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\History.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\History.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\HymenScience.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\HymenScience.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\HymenScience.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Logo.png",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Logo.png",
       "PackagePath": "staticwebassets\\Uploads\\Logo.png"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Money.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Money.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Money.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Othman@gmailDSC_0301_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Othman@gmailDSC_0301_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Othman@gmailDSC_0301_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Pending.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Pending.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Pending.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Philosophy.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Philosophy.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Philosophy.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Physics.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Physics.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Physics.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Piology.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Piology.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Piology.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Rayan675@gmailDSC_0282_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Rayan675@gmailDSC_0282_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Rayan675@gmailDSC_0282_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Students.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Students.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Students.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Teachers.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Teachers.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Teachers.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef10@gmailDSC_0010.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef10@gmailDSC_0010.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef10@gmailDSC_0010.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailDSC_0007 (1).JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailDSC_0007 (1).JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef11@gmailDSC_0007 (1).JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailDSC_0012.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailDSC_0012.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef11@gmailDSC_0012.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailDSC_0289_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailDSC_0289_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef11@gmailDSC_0289_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail1prep.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail1prep.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmail1prep.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail3prep.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail3prep.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmail3prep.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail8.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail8.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmail8.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail9.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmail9.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmail9.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailBanner-10.png",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailBanner-10.png",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmailBanner-10.png"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailDSC_0256.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailDSC_0256.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmailDSC_0256.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailDSC_0283_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailDSC_0283_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmailDSC_0283_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailimages (1).jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailimages (1).jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmailimages (1).jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailimages.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef656@gmailimages.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef656@gmailimages.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail1.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail1.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmail1.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail11.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail11.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmail11.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail5.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail5.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmail5.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail8.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmail8.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmail8.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailDSC_0275_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailDSC_0275_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmailDSC_0275_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailYousef656@gmailBanner-10.png",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailYousef656@gmailBanner-10.png",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmailYousef656@gmailBanner-10.png"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailYousef656@gmailimages (1).jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailYousef656@gmailimages (1).jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmailYousef656@gmailimages (1).jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailone-year-of-react-native.png",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef666@gmailone-year-of-react-native.png",
       "PackagePath": "staticwebassets\\Uploads\\Yousef666@gmailone-year-of-react-native.png"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\Yousef66@gmailDSC_0283_1.JPG",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Yousef66@gmailDSC_0283_1.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Yousef66@gmailDSC_0283_1.JPG"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\arabic.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\arabic.jpg",
       "PackagePath": "staticwebassets\\Uploads\\arabic.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\asp-net-web-application-software-development-platform-programming-language-210218966.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\asp-net-web-application-software-development-platform-programming-language-210218966.jpg",
       "PackagePath": "staticwebassets\\Uploads\\asp-net-web-application-software-development-platform-programming-language-210218966.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\bac.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\bac.jpg",
       "PackagePath": "staticwebassets\\Uploads\\bac.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\barcodes.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\barcodes.jpg",
       "PackagePath": "staticwebassets\\Uploads\\barcodes.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\createExam.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\createExam.jpg",
       "PackagePath": "staticwebassets\\Uploads\\createExam.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\createLessons.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\createLessons.jpg",
       "PackagePath": "staticwebassets\\Uploads\\createLessons.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\download.jpeg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\download.jpeg",
       "PackagePath": "staticwebassets\\Uploads\\download.jpeg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\german.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\german.jpg",
       "PackagePath": "staticwebassets\\Uploads\\german.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\gettyimages-501340947-1024x1024.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\gettyimages-501340947-1024x1024.jpg",
       "PackagePath": "staticwebassets\\Uploads\\gettyimages-501340947-1024x1024.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\math.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\math.jpg",
       "PackagePath": "staticwebassets\\Uploads\\math.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\monumental-stair-banner.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\monumental-stair-banner.jpg",
       "PackagePath": "staticwebassets\\Uploads\\monumental-stair-banner.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\myExams.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\myExams.jpg",
       "PackagePath": "staticwebassets\\Uploads\\myExams.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\myLessons.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\myLessons.jpg",
       "PackagePath": "staticwebassets\\Uploads\\myLessons.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\one-year-of-react-native.png",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\one-year-of-react-native.png",
       "PackagePath": "staticwebassets\\Uploads\\one-year-of-react-native.png"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Uploads\\parcodes.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\parcodes.jpg",
       "PackagePath": "staticwebassets\\Uploads\\parcodes.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230710111157.mp4",
+      "PackagePath": "staticwebassets\\Vedios\\Ali8585@gmailVID20230710111157.mp4"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230711074918.mp4",
+      "PackagePath": "staticwebassets\\Vedios\\Ali8585@gmailVID20230711074918.mp4"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4",
       "PackagePath": "staticwebassets\\Vedios\\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\About_Us.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\About_Us.css",
       "PackagePath": "staticwebassets\\css\\About_Us.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\AddExam.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\AddExam.css",
       "PackagePath": "staticwebassets\\css\\AddExam.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\AddNewLesson.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\AddNewLesson.css",
       "PackagePath": "staticwebassets\\css\\AddNewLesson.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\AddQuestion.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\AddQuestion.css",
       "PackagePath": "staticwebassets\\css\\AddQuestion.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Admin.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Admin.css",
       "PackagePath": "staticwebassets\\css\\Admin.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\CompleteSData.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\CompleteSData.css",
       "PackagePath": "staticwebassets\\css\\CompleteSData.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\CompleteTData.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\CompleteTData.css",
       "PackagePath": "staticwebassets\\css\\CompleteTData.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Contact_Us.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Contact_Us.css",
       "PackagePath": "staticwebassets\\css\\Contact_Us.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Exam.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Exam.css",
       "PackagePath": "staticwebassets\\css\\Exam.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Exams.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Exams.css",
       "PackagePath": "staticwebassets\\css\\Exams.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\FinishData.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\FinishData.css",
       "PackagePath": "staticwebassets\\css\\FinishData.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\GeneralTeachers.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\GeneralTeachers.css",
       "PackagePath": "staticwebassets\\css\\GeneralTeachers.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Index.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Index.css",
       "PackagePath": "staticwebassets\\css\\Index.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Layout.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Layout.css",
       "PackagePath": "staticwebassets\\css\\Layout.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\LessonTask.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\LessonTask.css",
       "PackagePath": "staticwebassets\\css\\LessonTask.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Login.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\PersonalPage.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\PersonalPage.css",
       "PackagePath": "staticwebassets\\css\\PersonalPage.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Services.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Services.css",
       "PackagePath": "staticwebassets\\css\\Services.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\SignUp.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\SignUp.css",
       "PackagePath": "staticwebassets\\css\\SignUp.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Teacher_Exams_List.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Teacher_Exams_List.css",
       "PackagePath": "staticwebassets\\css\\Teacher_Exams_List.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Teacher_Page.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Teacher_Page.css",
       "PackagePath": "staticwebassets\\css\\Teacher_Page.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\Tracks.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Tracks.css",
       "PackagePath": "staticwebassets\\css\\Tracks.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\UpdateData.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\UpdateData.css",
       "PackagePath": "staticwebassets\\css\\UpdateData.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\UpdateLessonInformation.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\UpdateLessonInformation.css",
       "PackagePath": "staticwebassets\\css\\UpdateLessonInformation.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\UpdateQuestion.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\UpdateQuestion.css",
       "PackagePath": "staticwebassets\\css\\UpdateQuestion.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\UpdateStudentData.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\UpdateStudentData.css",
       "PackagePath": "staticwebassets\\css\\UpdateStudentData.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\UpdateTeacherData.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\UpdateTeacherData.css",
       "PackagePath": "staticwebassets\\css\\UpdateTeacherData.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\monumental-stair-banner.jpg",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\monumental-stair-banner.jpg",
       "PackagePath": "staticwebassets\\css\\monumental-stair-banner.jpg"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\css\\site.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\favicon.ico",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\js\\Dropdown.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\Dropdown.js",
       "PackagePath": "staticwebassets\\js\\Dropdown.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\js\\Exam.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\Exam.js",
       "PackagePath": "staticwebassets\\js\\Exam.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\js\\register.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\register.js",
       "PackagePath": "staticwebassets\\js\\register.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\js\\site.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\Projects-Copy\\Web Applications\\FutureGenerationHub-Website\\CenterManagement\\CenterManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CenterManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CenterManagement.Microsoft.AspNetCore.StaticWebAssets.props",
