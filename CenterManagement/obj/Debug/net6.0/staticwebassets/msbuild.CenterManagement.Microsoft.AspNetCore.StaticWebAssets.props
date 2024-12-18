@@ -2016,150 +2016,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahlam@gmailimages.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>iei2qzq0ph</Fingerprint>
-      <Integrity>qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed-R- Online_Exams.pdf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed-R- Online_Exams.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ezmsj6be0i</Fingerprint>
-      <Integrity>pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed-R- Online_Exams.pdf'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fjw0ymjt3e</Fingerprint>
-      <Integrity>u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fjw0ymjt3e</Fingerprint>
-      <Integrity>u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmail- Online_Exams.pdf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed666@gmail- Online_Exams.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ezmsj6be0i</Fingerprint>
-      <Integrity>pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmail- Online_Exams.pdf'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fjw0ymjt3e</Fingerprint>
-      <Integrity>u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed66@gmailDSC_0014.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed66@gmailDSC_0014.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3cjud64on</Fingerprint>
-      <Integrity>+lUQIILvMFMf6Rq5gV/NzNNTqENk+RqZCLd2HqDJgb0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed66@gmailDSC_0014.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed@gmailDSC_0014.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Ahmed@gmailDSC_0014.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3cjud64on</Fingerprint>
-      <Integrity>+lUQIILvMFMf6Rq5gV/NzNNTqENk+RqZCLd2HqDJgb0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed@gmailDSC_0014.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ali8585@gmailIMG_20240412_154112_735.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
@@ -2394,78 +2250,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\download.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0007 (1).JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/DSC_0007 (1).JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qhy8q7cmuu</Fingerprint>
-      <Integrity>nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0007 (1).JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0012.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/DSC_0012.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mj42tuf219</Fingerprint>
-      <Integrity>gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0012.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0014.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/DSC_0014.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3cjud64on</Fingerprint>
-      <Integrity>+lUQIILvMFMf6Rq5gV/NzNNTqENk+RqZCLd2HqDJgb0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0014.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0039.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/DSC_0039.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ose8ia1sgf</Fingerprint>
-      <Integrity>6MbXe6QhEBBc9J0UZq6Hod1lDiyQBSy4Ea/U45LzDS4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0039.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\English.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
@@ -2591,24 +2375,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Google-Kotlin-android-app-development.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z8llgjbusu</Fingerprint>
-      <Integrity>08p4fyKDe5Avkhhx6FwLKA3SeloARoD7UxpwuKRvZog=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg'))">
       <SourceType>Package</SourceType>
@@ -2790,23 +2556,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\one-year-of-react-native.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Othman@gmailDSC_0301_1.JPG'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Othman@gmailDSC_0301_1.JPG</RelativePath>
+      <RelativePath>Uploads/Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ztyhd7kt1f</Fingerprint>
-      <Integrity>aQzUl18xzKvjjEC6CsD7/+tYgmtLYc7BRxKVA4Dkv7g=</Integrity>
+      <Fingerprint>3v4949u72k</Fingerprint>
+      <Integrity>32iGdHIubjUbJOd+O2txFfDmqYw9/z1AJvwwo+WkrGg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Othman@gmailDSC_0301_1.JPG'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\parcodes.jpg'))">
       <SourceType>Package</SourceType>
@@ -2898,24 +2664,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Piology.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Rayan675@gmailDSC_0282_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Rayan675@gmailDSC_0282_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fjw0ymjt3e</Fingerprint>
-      <Integrity>u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Rayan675@gmailDSC_0282_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Students.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
@@ -2951,114 +2699,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Teachers.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>iei2qzq0ph</Fingerprint>
-      <Integrity>qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef10@gmailDSC_0010.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef10@gmailDSC_0010.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kh7m91xv84</Fingerprint>
-      <Integrity>mBP8DGk5dwyfiMTh6pnmkgBB735Yqy3bcdxvWOguSKk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef10@gmailDSC_0010.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0007 (1).JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef11@gmailDSC_0007 (1).JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qhy8q7cmuu</Fingerprint>
-      <Integrity>nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0007 (1).JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0012.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef11@gmailDSC_0012.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mj42tuf219</Fingerprint>
-      <Integrity>gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0012.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0289_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef11@gmailDSC_0289_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8tk4xosbid</Fingerprint>
-      <Integrity>XOP4PMSkGwhjC4n8wPyGZfZq9M10JHwUYDe5w4OJ1l4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0289_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oky1t1x401</Fingerprint>
-      <Integrity>uKleX86ZCd7zXSBgQc2EnUe+w28DSAPPkZX3jb64OW0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail1prep.jpg'))">
       <SourceType>Package</SourceType>
@@ -3096,42 +2736,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail3prep.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail8.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef656@gmail8.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5khfvumjc6</Fingerprint>
-      <Integrity>pd0S1zpP/vFKg95XQ7PUlBj0Sl7bl0kJLZSmnb6Hxyk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail8.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail9.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef656@gmail9.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>r2cie5f77j</Fingerprint>
-      <Integrity>XUA++oG/yXHm9LXNWp1Tsf8+0oblJ+aF6kLm30+yhNs=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail9.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailBanner-10.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
@@ -3150,42 +2754,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailBanner-10.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0256.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef656@gmailDSC_0256.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ohbute8uh1</Fingerprint>
-      <Integrity>rMq6dmSFDiF6G9k77K2JXrLhyHaNc9gZxzKdh6QHjs0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0256.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0283_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef656@gmailDSC_0283_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yhe95rhnfi</Fingerprint>
-      <Integrity>Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0283_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages (1).jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
@@ -3203,24 +2771,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages (1).jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages.jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef656@gmailimages.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fay5v9v04o</Fingerprint>
-      <Integrity>12/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmail1.jpg'))">
       <SourceType>Package</SourceType>
@@ -3294,42 +2844,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmail8.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fjw0ymjt3e</Fingerprint>
-      <Integrity>u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailDSC_0275_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef666@gmailDSC_0275_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7omj05s7ii</Fingerprint>
-      <Integrity>eVKJapaovGj5Eeahy2igIgpVFD4GZOg+zYN80UiyVfM=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailDSC_0275_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailone-year-of-react-native.png'))">
       <SourceType>Package</SourceType>
       <SourceId>CenterManagement</SourceId>
@@ -3347,114 +2861,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailone-year-of-react-native.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailBanner-10.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef666@gmailYousef656@gmailBanner-10.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nl3v5uf47w</Fingerprint>
-      <Integrity>BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6+rFzc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailBanner-10.png'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailimages (1).jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef666@gmailYousef656@gmailimages (1).jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>aetrq16090</Fingerprint>
-      <Integrity>kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailimages (1).jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>aetrq16090</Fingerprint>
-      <Integrity>kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef66@gmailDSC_0283_1.JPG'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Uploads/Yousef66@gmailDSC_0283_1.JPG</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yhe95rhnfi</Fingerprint>
-      <Integrity>Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef66@gmailDSC_0283_1.JPG'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>njuytp5j47</Fingerprint>
-      <Integrity>3d+LmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f6xxazszmr</Fingerprint>
-      <Integrity>N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230710111157.mp4'))">
       <SourceType>Package</SourceType>
@@ -3491,258 +2897,6 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230711074918.mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>saqwkom47s</Fingerprint>
-      <Integrity>JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f0q1mwhfl7</Fingerprint>
-      <Integrity>EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>njuytp5j47</Fingerprint>
-      <Integrity>3d+LmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m10l78a8m1</Fingerprint>
-      <Integrity>ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL+cPTdCaFkErA=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>njuytp5j47</Fingerprint>
-      <Integrity>3d+LmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f6xxazszmr</Fingerprint>
-      <Integrity>N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>saqwkom47s</Fingerprint>
-      <Integrity>JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f0q1mwhfl7</Fingerprint>
-      <Integrity>EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>njuytp5j47</Fingerprint>
-      <Integrity>3d+LmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f6xxazszmr</Fingerprint>
-      <Integrity>N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f6xxazszmr</Fingerprint>
-      <Integrity>N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>njuytp5j47</Fingerprint>
-      <Integrity>3d+LmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f6xxazszmr</Fingerprint>
-      <Integrity>N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CenterManagement</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CenterManagement</BasePath>
-      <RelativePath>Vedios/Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m10l78a8m1</Fingerprint>
-      <Integrity>ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL+cPTdCaFkErA=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

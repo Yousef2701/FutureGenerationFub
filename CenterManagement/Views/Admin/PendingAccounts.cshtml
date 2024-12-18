@@ -1,7 +1,7 @@
-﻿@model Student
-@inject CenterManagement.Data.ApplicationDbContext _context
+﻿@inject CenterManagement.Data.ApplicationDbContext _context
 @inject IHttpContextAccessor _httpContextAccessor
 @using System.Security.Claims
+@model CenterManagement.ViewModels.UsernameVM
 
 <!DOCTYPE html>
 <html lang="en">
@@ -47,7 +47,7 @@
         }
 
         thead th {
-            padding-left: 55px;
+            padding-left: 230px;
         }
 
         thead td {
@@ -66,41 +66,27 @@
 <body>
     <div class="scroller"></div>
     <div class="container mt-5" style="padding-top:10px;">
-        <h1 class="text-center my-4">Students</h1>
-        <!--Student Table-->
+        <h1 class="text-center my-4">Pending Accounts</h1>
+        <!--Pending Table-->
         <table>
             <thead>
                 <tr>
-                    <th style="padding-left:8%;">Student</th>
-                    <th>Academy Year</th>
-                    <th>Enrollments</th>
+                    <th>User</th>
                     <th></th>
                 </tr>
             </thead>
             <tbody>
-                @foreach (Student item in @ViewBag.Students)
+                @foreach (string item in @ViewBag.Usernames)
                 {
-                    int count = _context.Barcodes.Where(m => m.StudendId == item.Id).Count();
-
-                    <tr>
-                        <td style="width:20%;">@item.FristName @item.LastName</td>
-                        <td style="width:20%;">@item.AcademyYear</td>
-                        <td style="width:20%;">@count</td>
-                        <td style="display:flex;">
-                            <form asp-controller="Admin" asp-action="Student_Page" style="display:flex;">
-                                <input hidden asp-for="Id" value="@item.Id" />
-                                <button type="submit" class="btn btn-success m-1">View Profile</button>
-                            </form>
-                            <form asp-controller="Admin" asp-action="Padding_Student" style="display:flex;">
-                                <input hidden asp-for="Id" value="@item.Id" />
-                                <button class="btn btn-secondary m-1">pending Account</button>
-                            </form>
-                            <form asp-controller="Admin" asp-action="Delete_Student" style="display:flex;">
-                                <input hidden asp-for="Id" value="@item.Id" />
-                                <button class="btn btn-danger m-1">Delete User</button>
-                            </form>
-                        </td>
-                    </tr>
+                       <tr>
+                            <td style="width:50%;">@item</td>
+                            <td style="width:50%;">
+                                <form asp-action="ActiveAccounts">
+                                    <input hidden value="@item" asp-for="Username" />
+                                    <button type="submit" class="btn btn-success m-1" style="width:70%;">Active Account</button>
+                                </form>
+                            </td>
+                        </tr>
                 }
             </tbody>
         </table>

@@ -64,40 +64,40 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/CreateParcodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUGFyY29kZXMuY3NodG1s
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/CreateBarcodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQmFyY29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Earned_Money.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWFybmVkX01vbmV5LmNzaHRtbA==
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/EarnedMoney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWFybmVkTW9uZXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Enroll_Parcode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW5yb2xsX1BhcmNvZGUuY3NodG1s
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/EnrollBarcode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW5yb2xsQmFyY29kZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/FutureGenerationHub/CenterManagement/Views/Admin/Get_Parcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0X1BhcmNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Pending_Accounts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGVuZGluZ19BY2NvdW50cy5jc2h0bWw=
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/PendingAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGVuZGluZ0FjY291bnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Students.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudHMuY3NodG1s
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/StudentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Student_Page.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudF9QYWdlLmNzaHRtbA==
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/StudentsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudHNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Teachers.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlcnMuY3NodG1s
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/TeacherPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlclBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Teacher_Page.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlcl9QYWdlLmNzaHRtbA==
+[G:/FutureGenerationHub/CenterManagement/Views/Admin/TeachersList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlcnNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/FutureGenerationHub/CenterManagement/Views/Courses/Lesson_Details.cshtml]

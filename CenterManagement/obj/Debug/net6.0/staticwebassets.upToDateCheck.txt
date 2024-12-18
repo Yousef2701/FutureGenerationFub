@@ -109,14 +109,6 @@ wwwroot\Uploads\7.jpg
 wwwroot\Uploads\8.jpg
 wwwroot\Uploads\9.jpg
 wwwroot\Uploads\Ahlam@gmailimages.jpeg
-wwwroot\Uploads\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg
-wwwroot\Uploads\Ahmed@gmailDSC_0014.JPG
-wwwroot\Uploads\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG
-wwwroot\Uploads\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG
-wwwroot\Uploads\Ahmed66@gmailDSC_0014.JPG
-wwwroot\Uploads\Ahmed666@gmail- Online_Exams.pdf
-wwwroot\Uploads\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG
-wwwroot\Uploads\Ahmed-R- Online_Exams.pdf
 wwwroot\Uploads\Ali8585@gmailIMG_20240412_154112_735.jpg
 wwwroot\Uploads\Ali8585@gmailScreenshot 2024-12-15 215748.png
 wwwroot\Uploads\Ali95950@gmail36416179_1180711215402044_5794559886222163968_n.jpg
@@ -130,10 +122,6 @@ wwwroot\Uploads\createExam.jpg
 wwwroot\Uploads\createLessons.jpg
 wwwroot\Uploads\Curve.jpg
 wwwroot\Uploads\download.jpeg
-wwwroot\Uploads\DSC_0007 (1).JPG
-wwwroot\Uploads\DSC_0012.JPG
-wwwroot\Uploads\DSC_0014.JPG
-wwwroot\Uploads\DSC_0039.JPG
 wwwroot\Uploads\English.jpg
 wwwroot\Uploads\Exam.jpg
 wwwroot\Uploads\Frence.jpg
@@ -141,7 +129,6 @@ wwwroot\Uploads\german.jpg
 wwwroot\Uploads\gettyimages-501340947-1024x1024.jpg
 wwwroot\Uploads\Giraphy.jpg
 wwwroot\Uploads\Google-Kotlin-android-app-development.jpg
-wwwroot\Uploads\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg
 wwwroot\Uploads\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg
 wwwroot\Uploads\History.jpeg
 wwwroot\Uploads\HymenScience.jpeg
@@ -152,56 +139,22 @@ wwwroot\Uploads\monumental-stair-banner.jpg
 wwwroot\Uploads\myExams.jpg
 wwwroot\Uploads\myLessons.jpg
 wwwroot\Uploads\one-year-of-react-native.png
-wwwroot\Uploads\Othman@gmailDSC_0301_1.JPG
+wwwroot\Uploads\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg
 wwwroot\Uploads\parcodes.jpg
 wwwroot\Uploads\Pending.jpg
 wwwroot\Uploads\Philosophy.jpeg
 wwwroot\Uploads\Physics.jpg
 wwwroot\Uploads\Piology.jpg
-wwwroot\Uploads\Rayan675@gmailDSC_0282_1.JPG
 wwwroot\Uploads\Students.jpg
 wwwroot\Uploads\Teachers.jpg
-wwwroot\Uploads\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg
-wwwroot\Uploads\Yousef10@gmailDSC_0010.JPG
-wwwroot\Uploads\Yousef11@gmailDSC_0007 (1).JPG
-wwwroot\Uploads\Yousef11@gmailDSC_0012.JPG
-wwwroot\Uploads\Yousef11@gmailDSC_0289_1.JPG
-wwwroot\Uploads\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg
 wwwroot\Uploads\Yousef656@gmail1prep.jpg
 wwwroot\Uploads\Yousef656@gmail3prep.jpg
-wwwroot\Uploads\Yousef656@gmail8.jpg
-wwwroot\Uploads\Yousef656@gmail9.jpg
 wwwroot\Uploads\Yousef656@gmailBanner-10.png
-wwwroot\Uploads\Yousef656@gmailDSC_0256.JPG
-wwwroot\Uploads\Yousef656@gmailDSC_0283_1.JPG
 wwwroot\Uploads\Yousef656@gmailimages (1).jpeg
-wwwroot\Uploads\Yousef656@gmailimages.jpeg
-wwwroot\Uploads\Yousef66@gmailDSC_0283_1.JPG
 wwwroot\Uploads\Yousef666@gmail1.jpg
 wwwroot\Uploads\Yousef666@gmail11.jpeg
 wwwroot\Uploads\Yousef666@gmail5.jpg
 wwwroot\Uploads\Yousef666@gmail8.jpg
-wwwroot\Uploads\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG
-wwwroot\Uploads\Yousef666@gmailDSC_0275_1.JPG
 wwwroot\Uploads\Yousef666@gmailone-year-of-react-native.png
-wwwroot\Uploads\Yousef666@gmailYousef656@gmailBanner-10.png
-wwwroot\Uploads\Yousef666@gmailYousef656@gmailimages (1).jpeg
-wwwroot\Uploads\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg
-wwwroot\Vedios\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
-wwwroot\Vedios\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
 wwwroot\Vedios\Ali8585@gmailVID20230710111157.mp4
 wwwroot\Vedios\Ali8585@gmailVID20230711074918.mp4
-wwwroot\Vedios\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4
-wwwroot\Vedios\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4
-wwwroot\Vedios\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
-wwwroot\Vedios\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4
-wwwroot\Vedios\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
-wwwroot\Vedios\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
-wwwroot\Vedios\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4
-wwwroot\Vedios\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4
-wwwroot\Vedios\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
-wwwroot\Vedios\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
-wwwroot\Vedios\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
-wwwroot\Vedios\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4
-wwwroot\Vedios\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4
-wwwroot\Vedios\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4

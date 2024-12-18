@@ -1,7 +1,6 @@
-﻿using CenterManagement.Data;
+﻿using CenterManagement.IRepository;
 using CenterManagement.Models;
 using CenterManagement.ViewModels;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CenterManagement.Controllers
@@ -9,208 +8,184 @@ namespace CenterManagement.Controllers
     public class Admin : Controller
     {
 
-        private readonly IHttpContextAccessor _httpContextAccessor;
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly ILogger<HomeController> _logger;
-        private readonly SignInManager<IdentityUser> _signInManager;
-        private readonly ApplicationDbContext _context;
-        private object returnUrl;
-        private Microsoft.AspNetCore.Hosting.IHostingEnvironment _Environment;
+        #region Dependancey injuction
 
-        public Admin(ApplicationDbContext context,
-                                IHttpContextAccessor httpContextAccessor,
-                                UserManager<IdentityUser> userManager,
-                                ILogger<HomeController> logger,
-                                SignInManager<IdentityUser> signInManager,
-                                Microsoft.AspNetCore.Hosting.IHostingEnvironment Environment)
+        private readonly IStudentRepository _studentRepository;
+        private readonly ITeacherRepository _teacherRepository;
+        private readonly IUserRepository _userRepository;
+        private readonly IBarcodeRepository _barcodeRepository;
+
+        public Admin(IStudentRepository studentRepository,
+                     ITeacherRepository teacherRepository,
+                     IUserRepository userRepository,
+                     IBarcodeRepository barcodeRepository)
         {
-            _context = context;
-            _httpContextAccessor = httpContextAccessor;
-            _userManager = userManager;
-            _logger = logger;
-            _signInManager = signInManager;
-            _Environment = Environment;
+            _studentRepository = studentRepository;
+            _teacherRepository = teacherRepository;
+            _userRepository = userRepository;
+            _barcodeRepository = barcodeRepository;
         }
 
+        #endregion
 
-        public IActionResult AdminPage()
+
+        #region Admin Page
+
+        public async Task<IActionResult> AdminPage()
         {
-            ViewBag.Students = _context.student.Count();
-            ViewBag.Teachers = _context.teachers.Count();
-            ViewBag.Padding = _context.Users.Where(m => m.EmailConfirmed == false).Count();
-            int count = _context.Barcodes.Count();
+            ViewBag.Students = await _studentRepository.GetStudentsCount();
+            ViewBag.Teachers = await _teacherRepository.GetTeachersCount();
+            ViewBag.Padding = await _userRepository.GetPaddingAccountsCount();
+            int count = await _barcodeRepository.GetBarcodesCount();
             ViewBag.Count = count * 20;
 
             return View();
         }
 
-        public IActionResult Students()
-        {
-            var students = _context.student.ToList().OrderBy(m => m.FristName);
-            ViewBag.Students = students;
+        #endregion
 
-            return View();
-        }
-
-        public IActionResult Student_Page(Student model)
-        {
-            var student = _context.student.Find(model.Id);
-            ViewBag.Student = student;
-
-            return View();
-        }
-
-        public IActionResult Padding_Student(Student model)
-        {
-            var student = _context.Users.Find(model.Id);
-            student.EmailConfirmed = false;
-            _context.Update(student);
-            _context.SaveChanges();
-
-            return RedirectToAction("Students");
-        }
-
-        public IActionResult Delete_Student(Student model)
-        {
-            var student = _context.student.Find(model.Id);
-
-            _context.student.Remove(student);
-            
-            var role = _context.UserClaims.Where(m => m.UserId == model.Id).FirstOrDefault();
-            _context.UserClaims.Remove(role);
-
-            var user = _context.Users.Where(m => m.Id == model.Id).FirstOrDefault();
-            _context.Users.Remove(user);
-
-            _context.SaveChanges();
-
-            return RedirectToAction("Students");
-        }
-
-        public IActionResult Teachers()
-        {
-            var teachers = _context.teachers.ToList().OrderBy(m => m.FristName);
-            ViewBag.Teachers = teachers;
-
-            return View();
-        }
-
-        public IActionResult Teacher_Page(Teacher model)
-        {
-            @ViewBag.Teacher = _context.teachers.Find(model.Id);
-
-            return View();
-        }
-
-        public IActionResult Padding_Teacher(Teacher model)
-        {
-            var teacher = _context.Users.Find(model.Id);
-            teacher.EmailConfirmed = false;
-            _context.Update(teacher);
-            _context.SaveChanges();
-
-            return RedirectToAction("Teachers");
-        }
-
-        public IActionResult Delete_Teacher(Teacher model)
-        {
-            var exams = _context.Exams.Where(m => m.TeacherId == model.Id).ToList();
-            foreach(var exam in exams)
-            {
-                var results = _context.Results.Where(m => m.ExamId == exam.Id).ToList();
-                foreach(var result in results)
-                {
-                    _context.Results.Remove(result);
-                    _context.SaveChanges();
-                }
-
-                _context.Exams.Remove(exam);
-                _context.SaveChanges();
-            }
-
-            var teacher = _context.teachers.Find(model.Id);
-            _context.teachers.Remove(teacher);
-
-            var role = _context.UserClaims.Where(m => m.UserId == model.Id).FirstOrDefault();
-            _context.UserClaims.Remove(role);
-
-            var user = _context.Users.Find(model.Id);
-            _context.Users.Remove(user);
-
-            _context.SaveChanges();
-
-            return RedirectToAction("Teachers");
-        }
-
-        public IActionResult Earned_Money()
-        {
-            return View();
-        }
-
-        public IActionResult Pending_Accounts()
-        {
-            var padding = _context.Users.Where(m => m.EmailConfirmed != true).ToList();
-            List<string> usernames = new List<string>();
-
-            foreach(var user in padding)
-            {
-                string username = _context.Users.Where(m => m.Id == user.Id).Select(m => m.UserName).FirstOrDefault();
-                usernames.Add(username);
-            }
-
-            ViewBag.Usernames = usernames;
-
-            return View();
-        }
-
-        public IActionResult Active_Accounts(UsernameVM model)
-        {
-            var user = _context.Users.Where(m => m.UserName == model.Username).FirstOrDefault();
-            if (user != null)
-            {
-                user.EmailConfirmed = true;
-                _context.Users.Update(user);
-                _context.SaveChanges();
-            }
-
-            return RedirectToAction("Pending_Accounts");
-        }
+        #region Enroll Barcode
 
         [HttpGet]
-        public IActionResult Enroll_Parcode()
+        public async Task<IActionResult> EnrollBarcode()
         {
-            var teachers = _context.teachers.ToList();
-            ViewBag.Teachers = teachers;
+            ViewBag.Teachers = await _teacherRepository.GetTeachersList();
 
             return View();
         }
 
-        public IActionResult CreateParcodes(EnrollParcodeVM model)
+        #endregion
+
+        #region Create Barcodes
+
+        public async Task<IActionResult> CreateBarcodes(EnrollParcodeVM model)
         {
-            int n = Convert.ToInt32(model.Numbre);
-
-            Random random = new Random();
-            int[] randomNumbers = new int[n];
-
-            for (int i = 0; i < n; i++)
-            {
-                randomNumbers[i] = random.Next(10000000, 99999999);
-
-                var barcode = new Barcode
-                {
-                    barcode = randomNumbers[i].ToString(),
-                    TeacherId = model.TeacherId,
-                    AcademyYear = model.AcademyYear,
-                    Month = model.Month,
-                    StudendId = "#"
-                };
-                _context.Barcodes.Add(barcode);
-                _context.SaveChanges();
-            }
-
-            ViewBag.Parcodes = randomNumbers;
+            ViewBag.Parcodes = await _barcodeRepository.CreateBarcodes(model);
 
             return View();
         }
+
+        #endregion
+
+        #region Students List
+
+        public async Task<IActionResult> StudentsList()
+        {
+            ViewBag.Students = await _studentRepository.GetStudentsList();
+
+            return View();
+        }
+
+        #endregion
+
+        #region Student Page
+
+        public async Task<IActionResult> StudentPage(Student model)
+        {
+            ViewBag.Student = await _studentRepository.GetStudentData(model.Id);
+
+            return View();
+        }
+
+        #endregion
+
+        #region PaddingStudent
+
+        public async Task<IActionResult> PaddingStudent(Student model)
+        {
+            var result = await _userRepository.PaddingUserAccount(model.Id);
+
+            return RedirectToAction("StudentsList");
+        }
+
+        #endregion
+
+        #region Delete Student
+
+        public async Task<IActionResult> DeleteStudent(Student model)
+        {
+            var result = await _studentRepository.DeleteStudent(model);
+
+            return RedirectToAction("StudentsList");
+        }
+
+        #endregion
+
+        #region Teachers List
+
+        public async Task<IActionResult> TeachersList()
+        {
+            ViewBag.Teachers = await _teacherRepository.GetTeachersList();
+
+            return View();
+        }
+
+        #endregion
+
+        #region Teacher Page
+
+        public async Task<IActionResult> TeacherPage(Teacher model)
+        {
+            @ViewBag.Teacher = await _teacherRepository.GetTeacherData(model.Id);
+
+            return View();
+        }
+
+        #endregion
+
+        #region Padding Teacher
+
+        public async Task<IActionResult> PaddingTeacher(Teacher model)
+        {
+            var result = await _userRepository.PaddingUserAccount(model.Id);
+
+            return RedirectToAction("TeachersList");
+        }
+
+        #endregion
+
+        #region Delete Teacher
+
+        public async Task<IActionResult> DeleteTeacher(Teacher model)
+        {
+            var result = await _teacherRepository.DeleteTeacher(model);
+
+            return RedirectToAction("TeachersList");
+        }
+
+        #endregion
+
+        #region Earned Money
+
+        public async Task<IActionResult> EarnedMoney()
+        {
+            return View();
+        }
+
+        #endregion
+
+        #region Pending Accounts
+
+        public async Task<IActionResult> PendingAccounts()
+        {
+            ViewBag.Usernames = await _userRepository.GetPaddingUsersList();
+
+            return View();
+        }
+
+        #endregion
+
+        #region Active Accounts
+
+        public async Task<IActionResult> ActiveAccounts(UsernameVM model)
+        {
+            var result = _userRepository.ActiveUserAccount(model);
+
+            return RedirectToAction("PendingAccounts");
+        }
+
+        #endregion
+
+        
     }
 }

@@ -39,5 +39,48 @@ namespace CenterManagement.Repository
 
         #endregion
 
+        #region Get Barcodes Count
+
+        public async Task<int> GetBarcodesCount()
+        {
+            return _context.Barcodes.Count();
+        }
+
+        #endregion
+
+        #region Create Barcodes
+
+        public async Task<int[]> CreateBarcodes(EnrollParcodeVM model)
+        {
+            if(model != null)
+            {
+                int n = Convert.ToInt32(model.Numbre);
+
+                Random random = new Random();
+                int[] randomNumbers = new int[n];
+
+                for (int i = 0; i < n; i++)
+                {
+                    randomNumbers[i] = random.Next(10000000, 99999999);
+
+                    var barcode = new Barcode
+                    {
+                        barcode = randomNumbers[i].ToString(),
+                        TeacherId = model.TeacherId,
+                        AcademyYear = model.AcademyYear,
+                        Month = model.Month,
+                        StudendId = "#"
+                    };
+                    _context.Barcodes.Add(barcode);
+                    _context.SaveChanges();
+                }
+
+                return randomNumbers;
+            }
+            return null;
+        }
+
+        #endregion
+
     }
 }

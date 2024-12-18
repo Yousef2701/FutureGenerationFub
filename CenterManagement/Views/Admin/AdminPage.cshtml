@@ -95,13 +95,13 @@
       <body style="display:flex;justify-content:center;align-items:center;min-height:90vh;padding-top:25px;">
          <div class="scroller"></div>
         <div class="d-flex flex-wrap justify-content-center align-items-center">
-            <form asp-controller="Admin" asp-action="Enroll_Parcode" method="get">
+            <form asp-controller="Admin" asp-action="EnrollBarcode" method="get">
                 <button type="submit" class="card parcode">
                     <h3>Create Enrollment Parcodes</h3>
                 </button>
             </form>
 
-            <form asp-controller="Admin" asp-action="Students">
+            <form asp-controller="Admin" asp-action="StudentsList">
                 <button type="submit" class="card student">
                     <h3>Students</h3>
                     <p class="card-text d-flex align-items-baseline" style="color:#fff;">
@@ -110,7 +110,7 @@
                 </button>
             </form>
 
-            <form asp-controller="Admin" asp-action="Teachers">
+            <form asp-controller="Admin" asp-action="TeachersList">
                 <button type="submit" class="card teacher">
                     <h3>Teachers</h3>
                     <p class="card-text d-flex align-items-baseline">
@@ -119,14 +119,14 @@
                 </button>
             </form>
 
-            <form asp-controller="Admin" asp-action="Earned_Money">
+            <form asp-controller="Admin" asp-action="EarnedMoney">
                 <button type="submit" class="card money">
                     <h3>Earned Money</h3>
                     <p class="card-text d-flex align-items-baseline" style="color:#fff;"> @ViewBag.Count LE</p>
                 </button>
             </form>
 
-            <form asp-controller="Admin" asp-action="Pending_Accounts">
+            <form asp-controller="Admin" asp-action="PendingAccounts">
                 <button type="submit" class="card pend">
                     <h3>Pending Accounts</h3>
                     <p class="card-text d-flex align-items-baseline" style="color:#fff;">

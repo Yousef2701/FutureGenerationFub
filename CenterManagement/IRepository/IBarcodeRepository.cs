@@ -8,5 +8,9 @@ namespace CenterManagement.IRepository
 
         public Task<IEnumerable<Barcode>> GetBarcodes(AcademYearVM model);
 
+        public Task<int> GetBarcodesCount();
+
+        public Task<int[]> CreateBarcodes(EnrollParcodeVM model);
+
     }
 }

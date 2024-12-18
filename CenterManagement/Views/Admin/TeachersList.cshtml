@@ -129,15 +129,15 @@
                                 <ul>@december</ul>
                         </td>
                         <td style="width:20%;">
-                            <form asp-controller="Admin" asp-action="Teacher_Page">
+                            <form asp-controller="Admin" asp-action="TeacherPage">
                                 <input hidden asp-for="Id" value="@item.Id" />
                                 <button type="submit" class="btn btn-success m-1" style="width:90%;margin-bottom:3px;">View Profile</button>
                             </form>
-                            <form asp-controller="Admin" asp-action="Padding_Teacher">
+                            <form asp-controller="Admin" asp-action="PaddingTeacher">
                                 <input hidden asp-for="Id" value="@item.Id" />
                                 <button class="btn btn-secondary m-1" style="width:90%;margin-bottom:3px;">pending Account</button>
                             </form>
-                            <form asp-controller="Admin" asp-action="Delete_Teacher">
+                            <form asp-controller="Admin" asp-action="DeleteTeacher">
                                 <input hidden asp-for="Id" value="@item.Id" />
                                 <button class="btn btn-danger m-1" style="width:90%;margin-bottom:3px;">Delete User</button>
                             </form>

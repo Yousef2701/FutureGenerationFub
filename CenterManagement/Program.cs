@@ -38,6 +38,7 @@ builder.Services.AddScoped<IExamRepository, ExamRepository>();
 builder.Services.AddScoped<ITeacherRepository, TeacherRepository>();
 builder.Services.AddScoped<ILessonRepository, LessonRepository>();
 builder.Services.AddScoped<IBarcodeRepository, BarcodeRepository>();
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 
 
 builder.WebHost.ConfigureKestrel(options =>

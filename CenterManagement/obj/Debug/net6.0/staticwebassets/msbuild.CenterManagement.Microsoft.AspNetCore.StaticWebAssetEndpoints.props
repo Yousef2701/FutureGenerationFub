@@ -1344,102 +1344,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-12/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12729"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002212/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.iei2qzq0ph.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iei2qzq0ph"},{"Name":"integrity","Value":"sha256-qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47745"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahlam@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"47745"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed-R- Online_Exams.ezmsj6be0i.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed-R- Online_Exams.pdf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ezmsj6be0i"},{"Name":"integrity","Value":"sha256-pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed-R- Online_Exams.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44845"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed-R- Online_Exams.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed-R- Online_Exams.pdf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"44845"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.fjw0ymjt3e.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fjw0ymjt3e"},{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.fjw0ymjt3e.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fjw0ymjt3e"},{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed666@gmail- Online_Exams.ezmsj6be0i.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmail- Online_Exams.pdf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ezmsj6be0i"},{"Name":"integrity","Value":"sha256-pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed666@gmail- Online_Exams.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44845"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed666@gmail- Online_Exams.pdf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmail- Online_Exams.pdf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"44845"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed666@gmailRayan675@gmailDSC_0282_1.fjw0ymjt3e.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fjw0ymjt3e"},{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed66@gmailDSC_0014.e3cjud64on.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed66@gmailDSC_0014.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e3cjud64on"},{"Name":"integrity","Value":"sha256-\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed66@gmailDSC_0014.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed66@gmailDSC_0014.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed66@gmailDSC_0014.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"292062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed@gmailDSC_0014.e3cjud64on.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed@gmailDSC_0014.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e3cjud64on"},{"Name":"integrity","Value":"sha256-\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Ahmed@gmailDSC_0014.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ahmed@gmailDSC_0014.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ahmed@gmailDSC_0014.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"292062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Ali8585@gmailIMG_20240412_154112_735.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Ali8585@gmailIMG_20240412_154112_735.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1596,54 +1500,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uwq4k5fr7o"},{"Name":"integrity","Value":"sha256-wiYtF8CIwAS/lryL7v\u002BZgJjTEAcZidCPrgYYAJ5PfA4="},{"Name":"label","Value":"_content/CenterManagement/Uploads/download.jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8216"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wiYtF8CIwAS/lryL7v\u002BZgJjTEAcZidCPrgYYAJ5PfA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0007 (1).JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0007 (1).JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"289674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0007 (1).qhy8q7cmuu.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0007 (1).JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qhy8q7cmuu"},{"Name":"integrity","Value":"sha256-nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk="},{"Name":"label","Value":"_content/CenterManagement/Uploads/DSC_0007 (1).JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"289674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0012.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0012.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"289071"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0012.mj42tuf219.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0012.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mj42tuf219"},{"Name":"integrity","Value":"sha256-gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY="},{"Name":"label","Value":"_content/CenterManagement/Uploads/DSC_0012.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"289071"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0014.e3cjud64on.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0014.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e3cjud64on"},{"Name":"integrity","Value":"sha256-\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0="},{"Name":"label","Value":"_content/CenterManagement/Uploads/DSC_0014.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0014.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0014.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"292062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BlUQIILvMFMf6Rq5gV/NzNNTqENk\u002BRqZCLd2HqDJgb0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0039.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0039.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6MbXe6QhEBBc9J0UZq6Hod1lDiyQBSy4Ea/U45LzDS4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"209790"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226MbXe6QhEBBc9J0UZq6Hod1lDiyQBSy4Ea/U45LzDS4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/DSC_0039.ose8ia1sgf.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\DSC_0039.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ose8ia1sgf"},{"Name":"integrity","Value":"sha256-6MbXe6QhEBBc9J0UZq6Hod1lDiyQBSy4Ea/U45LzDS4="},{"Name":"label","Value":"_content/CenterManagement/Uploads/DSC_0039.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"209790"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226MbXe6QhEBBc9J0UZq6Hod1lDiyQBSy4Ea/U45LzDS4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/English.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\English.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1727,18 +1583,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pjmajht1f3"},{"Name":"integrity","Value":"sha256-pXfhn/XVyXF/vy0Bd7XVWVGOG\u002B3YJa5zRVHqX6IPGBM="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Google-Kotlin-android-app-development.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92449"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pXfhn/XVyXF/vy0Bd7XVWVGOG\u002B3YJa5zRVHqX6IPGBM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-08p4fyKDe5Avkhhx6FwLKA3SeloARoD7UxpwuKRvZog="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"534672"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002208p4fyKDe5Avkhhx6FwLKA3SeloARoD7UxpwuKRvZog=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.z8llgjbusu.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z8llgjbusu"},{"Name":"integrity","Value":"sha256-08p4fyKDe5Avkhhx6FwLKA3SeloARoD7UxpwuKRvZog="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Hamdy@gmail116686518_1841726705967155_7625141651928063231_n.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"534672"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002208p4fyKDe5Avkhhx6FwLKA3SeloARoD7UxpwuKRvZog=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg'))</AssetFile>
@@ -1860,17 +1704,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QKO0VpBQhuzYUJ\u002BL7EPMaPbbcjPbyIfqpM53WAjN1wE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69756"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QKO0VpBQhuzYUJ\u002BL7EPMaPbbcjPbyIfqpM53WAjN1wE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Othman@gmailDSC_0301_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Othman@gmailDSC_0301_1.JPG'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Osama@gmail81146138_1644860675653760_1694854336212893696_n.3v4949u72k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aQzUl18xzKvjjEC6CsD7/\u002BtYgmtLYc7BRxKVA4Dkv7g="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"597032"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aQzUl18xzKvjjEC6CsD7/\u002BtYgmtLYc7BRxKVA4Dkv7g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3v4949u72k"},{"Name":"integrity","Value":"sha256-32iGdHIubjUbJOd\u002BO2txFfDmqYw9/z1AJvwwo\u002BWkrGg="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"243566"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002232iGdHIubjUbJOd\u002BO2txFfDmqYw9/z1AJvwwo\u002BWkrGg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 20:06:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Othman@gmailDSC_0301_1.ztyhd7kt1f.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Othman@gmailDSC_0301_1.JPG'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ztyhd7kt1f"},{"Name":"integrity","Value":"sha256-aQzUl18xzKvjjEC6CsD7/\u002BtYgmtLYc7BRxKVA4Dkv7g="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Othman@gmailDSC_0301_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"597032"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aQzUl18xzKvjjEC6CsD7/\u002BtYgmtLYc7BRxKVA4Dkv7g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-32iGdHIubjUbJOd\u002BO2txFfDmqYw9/z1AJvwwo\u002BWkrGg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"243566"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002232iGdHIubjUbJOd\u002BO2txFfDmqYw9/z1AJvwwo\u002BWkrGg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 20:06:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/parcodes.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\parcodes.jpg'))</AssetFile>
@@ -1932,18 +1776,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r36gi7n8m4"},{"Name":"integrity","Value":"sha256-58D1DJ0RfS8nDQlMiwTEE1UZuycGUEarT5izr2Ye/P4="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Piology.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33343"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002258D1DJ0RfS8nDQlMiwTEE1UZuycGUEarT5izr2Ye/P4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Rayan675@gmailDSC_0282_1.fjw0ymjt3e.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Rayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fjw0ymjt3e"},{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Rayan675@gmailDSC_0282_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Rayan675@gmailDSC_0282_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Rayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Students.2e33e8eok8.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Students.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1967,78 +1799,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YGIGTQJVXv1FByj2YDbj9mUrNgoNzYD\u002BR3lxdYGXWtQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44249"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YGIGTQJVXv1FByj2YDbj9mUrNgoNzYD\u002BR3lxdYGXWtQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.iei2qzq0ph.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iei2qzq0ph"},{"Name":"integrity","Value":"sha256-qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47745"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yasmen@gmailshop-hair-woman-icon-clip-art-vector_csp77678663.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"47745"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qi8lEevgHn5KxLOaqw7EncqxYKXgFeUg/DLhECqiGC4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef10@gmailDSC_0010.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef10@gmailDSC_0010.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mBP8DGk5dwyfiMTh6pnmkgBB735Yqy3bcdxvWOguSKk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"288273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBP8DGk5dwyfiMTh6pnmkgBB735Yqy3bcdxvWOguSKk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef10@gmailDSC_0010.kh7m91xv84.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef10@gmailDSC_0010.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kh7m91xv84"},{"Name":"integrity","Value":"sha256-mBP8DGk5dwyfiMTh6pnmkgBB735Yqy3bcdxvWOguSKk="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef10@gmailDSC_0010.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"288273"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBP8DGk5dwyfiMTh6pnmkgBB735Yqy3bcdxvWOguSKk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailDSC_0007 (1).JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0007 (1).JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"289674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailDSC_0007 (1).qhy8q7cmuu.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0007 (1).JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qhy8q7cmuu"},{"Name":"integrity","Value":"sha256-nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef11@gmailDSC_0007 (1).JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"289674"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk\u002BKc/lywk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailDSC_0012.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0012.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"289071"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailDSC_0012.mj42tuf219.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0012.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mj42tuf219"},{"Name":"integrity","Value":"sha256-gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef11@gmailDSC_0012.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"289071"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gmi7ZvL9ryNXIR3nl5a8sksmcNSEvceXcGbpXnNamLY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailDSC_0289_1.8tk4xosbid.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0289_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8tk4xosbid"},{"Name":"integrity","Value":"sha256-XOP4PMSkGwhjC4n8wPyGZfZq9M10JHwUYDe5w4OJ1l4="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef11@gmailDSC_0289_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"744724"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XOP4PMSkGwhjC4n8wPyGZfZq9M10JHwUYDe5w4OJ1l4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailDSC_0289_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailDSC_0289_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XOP4PMSkGwhjC4n8wPyGZfZq9M10JHwUYDe5w4OJ1l4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"744724"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XOP4PMSkGwhjC4n8wPyGZfZq9M10JHwUYDe5w4OJ1l4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uKleX86ZCd7zXSBgQc2EnUe\u002Bw28DSAPPkZX3jb64OW0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"971938"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uKleX86ZCd7zXSBgQc2EnUe\u002Bw28DSAPPkZX3jb64OW0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.oky1t1x401.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef11@gmailIMG_٢٠٢٣٠٧٠٧_٢٠١٣١١.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oky1t1x401"},{"Name":"integrity","Value":"sha256-uKleX86ZCd7zXSBgQc2EnUe\u002Bw28DSAPPkZX3jb64OW0="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef11@gmailIMG_\u0662\u0660\u0662\u0663\u0660\u0667\u0660\u0667_\u0662\u0660\u0661\u0663\u0661\u0661.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"971938"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uKleX86ZCd7zXSBgQc2EnUe\u002Bw28DSAPPkZX3jb64OW0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmail1prep.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail1prep.jpg'))</AssetFile>
@@ -2064,30 +1824,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BVOc4jx6U\u002BErj3TdzVTXYXB9YIhJjApST5fskiSRsyY="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"112784"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BVOc4jx6U\u002BErj3TdzVTXYXB9YIhJjApST5fskiSRsyY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmail8.5khfvumjc6.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail8.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5khfvumjc6"},{"Name":"integrity","Value":"sha256-pd0S1zpP/vFKg95XQ7PUlBj0Sl7bl0kJLZSmnb6Hxyk="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef656@gmail8.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128348"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pd0S1zpP/vFKg95XQ7PUlBj0Sl7bl0kJLZSmnb6Hxyk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmail8.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail8.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pd0S1zpP/vFKg95XQ7PUlBj0Sl7bl0kJLZSmnb6Hxyk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"128348"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pd0S1zpP/vFKg95XQ7PUlBj0Sl7bl0kJLZSmnb6Hxyk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmail9.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail9.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XUA\u002B\u002BoG/yXHm9LXNWp1Tsf8\u002B0oblJ\u002BaF6kLm30\u002ByhNs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"171004"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XUA\u002B\u002BoG/yXHm9LXNWp1Tsf8\u002B0oblJ\u002BaF6kLm30\u002ByhNs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmail9.r2cie5f77j.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmail9.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r2cie5f77j"},{"Name":"integrity","Value":"sha256-XUA\u002B\u002BoG/yXHm9LXNWp1Tsf8\u002B0oblJ\u002BaF6kLm30\u002ByhNs="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef656@gmail9.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"171004"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XUA\u002B\u002BoG/yXHm9LXNWp1Tsf8\u002B0oblJ\u002BaF6kLm30\u002ByhNs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailBanner-10.nl3v5uf47w.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailBanner-10.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2100,30 +1836,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6\u002BrFzc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23884"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6\u002BrFzc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailDSC_0256.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0256.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rMq6dmSFDiF6G9k77K2JXrLhyHaNc9gZxzKdh6QHjs0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"253508"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rMq6dmSFDiF6G9k77K2JXrLhyHaNc9gZxzKdh6QHjs0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailDSC_0256.ohbute8uh1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0256.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ohbute8uh1"},{"Name":"integrity","Value":"sha256-rMq6dmSFDiF6G9k77K2JXrLhyHaNc9gZxzKdh6QHjs0="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef656@gmailDSC_0256.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"253508"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rMq6dmSFDiF6G9k77K2JXrLhyHaNc9gZxzKdh6QHjs0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailDSC_0283_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0283_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"802346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailDSC_0283_1.yhe95rhnfi.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailDSC_0283_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yhe95rhnfi"},{"Name":"integrity","Value":"sha256-Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef656@gmailDSC_0283_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"802346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailimages (1).aetrq16090.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages (1).jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2135,18 +1847,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4330"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailimages.fay5v9v04o.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fay5v9v04o"},{"Name":"integrity","Value":"sha256-12/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef656@gmailimages.jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12729"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002212/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef656@gmailimages.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef656@gmailimages.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-12/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12729"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002212/VYNlrDrRfVDnvHbsTvwvIc6LkP/t3LJJlWOZgGKg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmail1.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmail1.jpg'))</AssetFile>
@@ -2196,30 +1896,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oGs9NP7K3F5s1zW6s8lfxFREStbR1adr0J1hxb9YF7Q="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"67287"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022oGs9NP7K3F5s1zW6s8lfxFREStbR1adr0J1hxb9YF7Q=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.fjw0ymjt3e.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fjw0ymjt3e"},{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailAhmed444@gmailAhmed555@gmailAhmed666@gmailRayan675@gmailDSC_0282_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"795636"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u45YhGQmh2Qadnx1JUm0oV6vmJbFoG6OI6LB4AYp6L8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailDSC_0275_1.7omj05s7ii.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailDSC_0275_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7omj05s7ii"},{"Name":"integrity","Value":"sha256-eVKJapaovGj5Eeahy2igIgpVFD4GZOg\u002BzYN80UiyVfM="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef666@gmailDSC_0275_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"637641"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eVKJapaovGj5Eeahy2igIgpVFD4GZOg\u002BzYN80UiyVfM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailDSC_0275_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailDSC_0275_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eVKJapaovGj5Eeahy2igIgpVFD4GZOg\u002BzYN80UiyVfM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"637641"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eVKJapaovGj5Eeahy2igIgpVFD4GZOg\u002BzYN80UiyVfM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailone-year-of-react-native.0wsebmxn01.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailone-year-of-react-native.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2231,78 +1907,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QKO0VpBQhuzYUJ\u002BL7EPMaPbbcjPbyIfqpM53WAjN1wE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69756"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QKO0VpBQhuzYUJ\u002BL7EPMaPbbcjPbyIfqpM53WAjN1wE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailYousef656@gmailBanner-10.nl3v5uf47w.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailBanner-10.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nl3v5uf47w"},{"Name":"integrity","Value":"sha256-BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6\u002BrFzc="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef666@gmailYousef656@gmailBanner-10.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23884"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6\u002BrFzc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailYousef656@gmailBanner-10.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailBanner-10.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6\u002BrFzc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23884"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BY/Ylp5DASaXVYsl5HFpi4bv52pV/5y2/ldDU6\u002BrFzc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailYousef656@gmailimages (1).aetrq16090.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailimages (1).jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aetrq16090"},{"Name":"integrity","Value":"sha256-kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef666@gmailYousef656@gmailimages (1).jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4330"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailYousef656@gmailimages (1).jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef656@gmailimages (1).jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4330"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).aetrq16090.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aetrq16090"},{"Name":"integrity","Value":"sha256-kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4330"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef666@gmailYousef666@gmailYousef656@gmailimages (1).jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4330"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kiucNWgtJd9nF7pbSxrPLfIvj9MDkcjRupV2goRFhCc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef66@gmailDSC_0283_1.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef66@gmailDSC_0283_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"802346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Yousef66@gmailDSC_0283_1.yhe95rhnfi.JPG">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Yousef66@gmailDSC_0283_1.JPG'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yhe95rhnfi"},{"Name":"integrity","Value":"sha256-Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Yousef66@gmailDSC_0283_1.JPG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"802346"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Wg2bubP465CDzrZ6vGouR9UDtMBKbvvq9jwdZ3IuGNk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).njuytp5j47.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"njuytp5j47"},{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Ahlam@gmail\u0641\u0642\u0637 \u0625\u0633\u062A\u0645\u0631 \u0628\u0627\u0644\u0645\u0630\u0627\u0643\u0631\u0629_ (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u0648\u0627\u0644\u0625\u062E\u062A\u0628\u0627\u0631\u0627\u062A) _ _Just Keep Studying(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).f6xxazszmr.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f6xxazszmr"},{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Ahlam@gmail\u0643\u064A \u062A\u0643\u0648\u0646 \u0646\u0627\u062C\u062D \u0644\u0627 \u062A\u062A\u0628\u0639 \u0634\u063A\u0641\u0643  \u0646\u0635\u0627\u0626\u062D \u0645\u0646 \u0623\u0643\u0628\u0631 \u0631\u062C\u0627\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644  \u0627\u0644\u0646\u0627\u062C\u062D\u064A\u0646(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ahlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ali8585@gmailVID20230710111157.left206hdg.mp4">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230710111157.mp4'))</AssetFile>
@@ -2327,174 +1931,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94652035"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:47:36 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11391330"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).saqwkom47s.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"saqwkom47s"},{"Name":"integrity","Value":"sha256-JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef656@gmail\u0623\u062A\u062D\u062F\u0627\u0643 \u0623\u0646 \u062A\u062B\u0628\u062A \u0623\u0646\u0647\u0645 \u0639\u0644\u0649 \u062E\u0637\u0623_ (I Dare You to Prove Them wrong) \u0623\u0642\u0648\u064A \u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11391330"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).f0q1mwhfl7.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f0q1mwhfl7"},{"Name":"integrity","Value":"sha256-EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef656@gmail\u0625\u0633\u062A\u064A\u0642\u0638 \u0648\u0642\u0627\u062A\u0644 (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u062C\u062F\u064B\u0627 \u0642\u0648\u064A) _ Wake Up And Fight_(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14030476"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14030476"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).njuytp5j47.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"njuytp5j47"},{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef656@gmail\u0641\u0642\u0637 \u0625\u0633\u062A\u0645\u0631 \u0628\u0627\u0644\u0645\u0630\u0627\u0643\u0631\u0629_ (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u0648\u0627\u0644\u0625\u062E\u062A\u0628\u0627\u0631\u0627\u062A) _ _Just Keep Studying(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).m10l78a8m1.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m10l78a8m1"},{"Name":"integrity","Value":"sha256-ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef656@gmail\u0644\u0645\u0627\u0630\u0627 \u062F\u0631\u062C\u0627\u062A\u0643 \u0639\u0627\u062F\u064A\u0629\u061F (\u0623\u0642\u0648\u0649 \u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629) _ Why Your Grades AVERAGE_(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22282240"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef656@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22282240"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).njuytp5j47.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"njuytp5j47"},{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailAhlam@gmail\u0641\u0642\u0637 \u0625\u0633\u062A\u0645\u0631 \u0628\u0627\u0644\u0645\u0630\u0627\u0643\u0631\u0629_ (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u0648\u0627\u0644\u0625\u062E\u062A\u0628\u0627\u0631\u0627\u062A) _ _Just Keep Studying(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).f6xxazszmr.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f6xxazszmr"},{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailAhlam@gmail\u0643\u064A \u062A\u0643\u0648\u0646 \u0646\u0627\u062C\u062D \u0644\u0627 \u062A\u062A\u0628\u0639 \u0634\u063A\u0641\u0643  \u0646\u0635\u0627\u0626\u062D \u0645\u0646 \u0623\u0643\u0628\u0631 \u0631\u062C\u0627\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644  \u0627\u0644\u0646\u0627\u062C\u062D\u064A\u0646(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailAhlam@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11391330"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).saqwkom47s.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailأتحداك أن تثبت أنهم على خطأ_ (I Dare You to Prove Them wrong) أقوي فيديو تحفيزي(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"saqwkom47s"},{"Name":"integrity","Value":"sha256-JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmail\u0623\u062A\u062D\u062F\u0627\u0643 \u0623\u0646 \u062A\u062B\u0628\u062A \u0623\u0646\u0647\u0645 \u0639\u0644\u0649 \u062E\u0637\u0623_ (I Dare You to Prove Them wrong) \u0623\u0642\u0648\u064A \u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11391330"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022JKHijwGMr/EJXnrDSEJvKeQm7r257LrOwHHSUCDK0wI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).f0q1mwhfl7.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f0q1mwhfl7"},{"Name":"integrity","Value":"sha256-EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmail\u0625\u0633\u062A\u064A\u0642\u0638 \u0648\u0642\u0627\u062A\u0644 (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u062C\u062F\u064B\u0627 \u0642\u0648\u064A) _ Wake Up And Fight_(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14030476"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailإستيقظ وقاتل (فيديو تحفيزي للدراسة جدًا قوي) _ Wake Up And Fight_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14030476"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022EaDv4/jwcaihsp/YINUN/HjF24pbORdozprZZOkyO0k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).njuytp5j47.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef656@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"njuytp5j47"},{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailYousef656@gmail\u0641\u0642\u0637 \u0625\u0633\u062A\u0645\u0631 \u0628\u0627\u0644\u0645\u0630\u0627\u0643\u0631\u0629_ (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u0648\u0627\u0644\u0625\u062E\u062A\u0628\u0627\u0631\u0627\u062A) _ _Just Keep Studying(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).f6xxazszmr.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f6xxazszmr"},{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailYousef666@gmailYousef666@gmail\u0643\u064A \u062A\u0643\u0648\u0646 \u0646\u0627\u062C\u062D \u0644\u0627 \u062A\u062A\u0628\u0639 \u0634\u063A\u0641\u0643  \u0646\u0635\u0627\u0626\u062D \u0645\u0646 \u0623\u0643\u0628\u0631 \u0631\u062C\u0627\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644  \u0627\u0644\u0646\u0627\u062C\u062D\u064A\u0646(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).f6xxazszmr.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f6xxazszmr"},{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmailYousef666@gmail\u0643\u064A \u062A\u0643\u0648\u0646 \u0646\u0627\u062C\u062D \u0644\u0627 \u062A\u062A\u0628\u0639 \u0634\u063A\u0641\u0643  \u0646\u0635\u0627\u0626\u062D \u0645\u0646 \u0623\u0643\u0628\u0631 \u0631\u062C\u0627\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644  \u0627\u0644\u0646\u0627\u062C\u062D\u064A\u0646(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailYousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).njuytp5j47.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailفقط إستمر بالمذاكرة_ (فيديو تحفيزي للدراسة والإختبارات) _ _Just Keep Studying(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"njuytp5j47"},{"Name":"integrity","Value":"sha256-3d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmail\u0641\u0642\u0637 \u0625\u0633\u062A\u0645\u0631 \u0628\u0627\u0644\u0645\u0630\u0627\u0643\u0631\u0629_ (\u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629 \u0648\u0627\u0644\u0625\u062E\u062A\u0628\u0627\u0631\u0627\u062A) _ _Just Keep Studying(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16417254"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u00223d\u002BLmZPIGQvXtfLb2Cyf4PmTUt5nW7fLPJAgH6Zkq7o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).f6xxazszmr.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f6xxazszmr"},{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmail\u0643\u064A \u062A\u0643\u0648\u0646 \u0646\u0627\u062C\u062D \u0644\u0627 \u062A\u062A\u0628\u0639 \u0634\u063A\u0641\u0643  \u0646\u0635\u0627\u0626\u062D \u0645\u0646 \u0623\u0643\u0628\u0631 \u0631\u062C\u0627\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644  \u0627\u0644\u0646\u0627\u062C\u062D\u064A\u0646(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailكي تكون ناجح لا تتبع شغفك  نصائح من أكبر رجال الأعمال  الناجحين(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26105186"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022N1wHVvyqibMGnc3BiDUvVhVmR/4EDuS4RaeywC4RH48=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).m10l78a8m1.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m10l78a8m1"},{"Name":"integrity","Value":"sha256-ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Yousef666@gmail\u0644\u0645\u0627\u0630\u0627 \u062F\u0631\u062C\u0627\u062A\u0643 \u0639\u0627\u062F\u064A\u0629\u061F (\u0623\u0642\u0648\u0649 \u0641\u064A\u062F\u064A\u0648 \u062A\u062D\u0641\u064A\u0632\u064A \u0644\u0644\u062F\u0631\u0627\u0633\u0629) _ Why Your Grades AVERAGE_(480P).mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22282240"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Yousef666@gmailلماذا درجاتك عادية؟ (أقوى فيديو تحفيزي للدراسة) _ Why Your Grades AVERAGE_(480P).mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22282240"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022ehrqY8JtxNZYJgXFJZh0lk1bWCoiREL\u002BcPTdCaFkErA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 20:41:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
