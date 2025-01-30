@@ -1,58 +1,65 @@
 ﻿using CenterManagement.Data;
+using CenterManagement.IRepository;
 using CenterManagement.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace CenterManagement.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IHttpContextAccessor _httpContextAccessor;
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly ILogger<HomeController> _logger;
-        private readonly SignInManager<IdentityUser> _signInManager;
-        private readonly ApplicationDbContext _context;
-        private object returnUrl;
-        private Microsoft.AspNetCore.Hosting.IHostingEnvironment _Environment;
 
-        public HomeController(ApplicationDbContext context,
-                                IHttpContextAccessor httpContextAccessor,
-                                UserManager<IdentityUser> userManager,
-                                ILogger<HomeController> logger,
-                                SignInManager<IdentityUser> signInManager,
-                                Microsoft.AspNetCore.Hosting.IHostingEnvironment Environment)
+        #region Dependancey injuction
+
+        private readonly ITeacherRepository _teacherRepository;
+
+        public HomeController(ITeacherRepository teacherRepository)
         {
-            _context = context;
-            _httpContextAccessor = httpContextAccessor;
-            _userManager = userManager;
-            _logger = logger;
-            _signInManager = signInManager;
-            _Environment = Environment;
+            _teacherRepository = teacherRepository;
         }
 
-        public IActionResult Index()
+        #endregion
+
+
+        #region Index
+
+        public async Task<IActionResult> Index()
         {
-            List<Teacher> teachers = _context.teachers.ToList();
-            ViewBag.teachers = teachers;
+            ViewBag.teachers = await _teacherRepository.GetTeachersList();
             return View();
         }
 
-        public IActionResult Contact_Us()
+        #endregion
+
+        #region Contact Us
+
+        public async Task<IActionResult> ContactUs()
         {
             return View();
         }
 
-        public IActionResult About_Us()
+        #endregion
+
+        #region About Us
+
+        public async Task<IActionResult> AboutUs()
         {
             return View();
         }
 
+        #endregion
+
+        #region Error
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        #endregion
+
     }
 }

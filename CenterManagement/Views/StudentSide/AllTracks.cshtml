@@ -1,0 +1,36 @@
+﻿@model CenterManagement.ViewModels.TeacherIdVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Tracks.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap" rel="stylesheet">
+    <title>Al-Eissa Academy</title>
+</head>
+<body class="all-stores-page-body">
+    <div class="scroller"></div>
+    <h2>Choose The System</h2>
+    <div class="paths">
+        <div class="content">
+            <form asp-controller="StudentSide" asp-action="ChooseMonth" method="get">
+                <input hidden value="@ViewBag.id" asp-for="Id" />
+                <input hidden value="@ViewBag.year" asp-for="year" />
+                <button type="submit" class="card course"><h3>Courses</h3></button>
+            </form>
+            <form asp-controller="Teachers" asp-action="ChooseExams">
+                <input hidden value="@ViewBag.id" asp-for="Id" />
+                <input hidden value="@ViewBag.year" asp-for="year" />
+                <button type="submit" class="card exam"><h3>Exams</h3></button>
+            </form>
+        </div>
+    </div>
+    <script src="~/js/site.js"></script>
+</body>
+</html>
+
+

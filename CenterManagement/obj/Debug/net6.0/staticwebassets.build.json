@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jK3juVWtkJMQVA+OTL+znq++npbC70vHCIlGyCdUkyw=",
+  "Hash": "CESM5V15+SicavN8P3fe8czWr65hI4q2xbSGfh2ctGo=",
   "Source": "CenterManagement",
   "BasePath": "_content/CenterManagement",
   "Mode": "Default",
@@ -4091,6 +4091,69 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg"
     },
     {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmail1.png",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Hema@gmail1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1r95257pq",
+      "Integrity": "2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Hema@gmail1.png"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmail999.png",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Hema@gmail999#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1r95257pq",
+      "Integrity": "2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Hema@gmail999.png"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmailDSC_0245.JPG",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Hema@gmailDSC_0245#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bkc638mqq1",
+      "Integrity": "5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Hema@gmailDSC_0245.JPG"
+    },
+    {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\History.jpeg",
       "SourceId": "CenterManagement",
       "SourceType": "Discovered",
@@ -4131,6 +4194,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\HymenScience.jpeg"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Joe@gmailDSC_0019#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2umvwplpo",
+      "Integrity": "QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG"
     },
     {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Logo.png",
@@ -4637,12 +4721,12 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Yousef666@gmailone-year-of-react-native.png"
     },
     {
-      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230710111157.mp4",
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4",
       "SourceId": "CenterManagement",
       "SourceType": "Discovered",
       "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
       "BasePath": "_content/CenterManagement",
-      "RelativePath": "Vedios/Ali8585@gmailVID20230710111157#[.{fingerprint}]?.mp4",
+      "RelativePath": "Vedios/Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD)#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4651,32 +4735,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "left206hdg",
-      "Integrity": "PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o=",
+      "Fingerprint": "p7m136fikn",
+      "Integrity": "tVFgjHCbZTNrtlvEjxl5+GOi4jQGYaqQikLQcMxetNI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Vedios\\Ali8585@gmailVID20230710111157.mp4"
-    },
-    {
-      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230711074918.mp4",
-      "SourceId": "CenterManagement",
-      "SourceType": "Discovered",
-      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
-      "BasePath": "_content/CenterManagement",
-      "RelativePath": "Vedios/Ali8585@gmailVID20230711074918#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "88uhu2u3j4",
-      "Integrity": "SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Vedios\\Ali8585@gmailVID20230711074918.mp4"
+      "OriginalItemSpec": "wwwroot\\Vedios\\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4"
     }
   ],
   "Endpoints": [
@@ -17889,6 +17952,252 @@
       ]
     },
     {
+      "Route": "Uploads/Hema@gmail1.k1r95257pq.png",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmail1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:18:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1r95257pq"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Hema@gmail1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Hema@gmail1.png",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmail1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:18:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Hema@gmail999.k1r95257pq.png",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmail999.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:23:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1r95257pq"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Hema@gmail999.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Hema@gmail999.png",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmail999.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 17:23:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Hema@gmailDSC_0245.bkc638mqq1.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmailDSC_0245.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 16:28:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bkc638mqq1"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Hema@gmailDSC_0245.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Hema@gmailDSC_0245.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Hema@gmailDSC_0245.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 16:28:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ="
+        }
+      ]
+    },
+    {
       "Route": "Uploads/History.jpeg",
       "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\History.jpeg",
       "Selectors": [],
@@ -18049,6 +18358,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Oo4LYwp/pj0LFhxGc/13ZIOTOOn+I6Tk5DnmeXBjV6U="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Joe@gmailDSC_0019.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 16:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Joe@gmailDSC_0019.o2umvwplpo.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 16:13:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2umvwplpo"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Joe@gmailDSC_0019.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c="
         }
       ]
     },
@@ -20021,8 +20412,8 @@
       ]
     },
     {
-      "Route": "Vedios/Ali8585@gmailVID20230710111157.left206hdg.mp4",
-      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230710111157.mp4",
+      "Route": "Vedios/Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20031,7 +20422,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "102077372"
+          "Value": "62382552"
         },
         {
           "Name": "Content-Type",
@@ -20039,56 +20430,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o=\""
+          "Value": "\"tVFgjHCbZTNrtlvEjxl5+GOi4jQGYaqQikLQcMxetNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 14:01:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "left206hdg"
-        },
-        {
-          "Name": "label",
-          "Value": "Vedios/Ali8585@gmailVID20230710111157.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o="
-        }
-      ]
-    },
-    {
-      "Route": "Vedios/Ali8585@gmailVID20230710111157.mp4",
-      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230710111157.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "102077372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 14:01:36 GMT"
+          "Value": "Thu, 30 Jan 2025 17:23:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20098,13 +20444,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o="
+          "Value": "sha256-tVFgjHCbZTNrtlvEjxl5+GOi4jQGYaqQikLQcMxetNI="
         }
       ]
     },
     {
-      "Route": "Vedios/Ali8585@gmailVID20230711074918.88uhu2u3j4.mp4",
-      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230711074918.mp4",
+      "Route": "Vedios/Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).p7m136fikn.mp4",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20113,7 +20459,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "94652035"
+          "Value": "62382552"
         },
         {
           "Name": "Content-Type",
@@ -20121,11 +20467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE=\""
+          "Value": "\"tVFgjHCbZTNrtlvEjxl5+GOi4jQGYaqQikLQcMxetNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 14:47:36 GMT"
+          "Value": "Thu, 30 Jan 2025 17:23:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20135,52 +20481,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "88uhu2u3j4"
+          "Value": "p7m136fikn"
         },
         {
           "Name": "label",
-          "Value": "Vedios/Ali8585@gmailVID20230711074918.mp4"
+          "Value": "Vedios/Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE="
-        }
-      ]
-    },
-    {
-      "Route": "Vedios/Ali8585@gmailVID20230711074918.mp4",
-      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Vedios\\Ali8585@gmailVID20230711074918.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "94652035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 14:47:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE="
+          "Value": "sha256-tVFgjHCbZTNrtlvEjxl5+GOi4jQGYaqQikLQcMxetNI="
         }
       ]
     }

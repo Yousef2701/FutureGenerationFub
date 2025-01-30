@@ -99,6 +99,27 @@ namespace CenterManagement.Repository
             return lessons;
         }
 
+        public async Task<IEnumerable<Lesson>> GetTeacherLessonsList(string teacherId, string year, string month)
+        {
+            var lessons = _context.Lessons.Where(m => m.TeacherId == teacherId & m.AcademyYear == year & m.Month == month).ToList();
+            return lessons;
+        }
+
+        #endregion
+
+        #region Get Lesson Task
+
+        public async Task<IEnumerable<LessonTask>> GetLessonTask(string lessinId)
+        {
+            if(lessinId != null)
+            {
+                var task = _context.lessonTasks.Where(m => m.LessonId == lessinId).ToList();
+                if(task != null)
+                    return task;
+            }
+            return null;
+        }
+
         #endregion
 
         #region Get Students Task List
@@ -111,6 +132,37 @@ namespace CenterManagement.Repository
                 return tasks;
             }
             return null;
+        }
+
+        #endregion
+
+        #region Upload Student Task
+
+        public async Task<string> UploadStudentTask(LessonTsakVM model)
+        {
+            if(model != null)
+            {
+                var userId = await _userRepository.GitLoggingUserId();
+                string username = _context.Users.Where(m => m.Id == userId).Select(m => m.UserName).FirstOrDefault();
+                var student = _context.student.Find(userId);
+                string name = student.FristName + "-" + student.LastName;
+
+                var file = new Tools(_Environment);
+                string taskUrl = file.AddTasks(model.taskFile, name);
+
+                var task = new Students_Task
+                {
+                    FileUrl = taskUrl,
+                    LessonId = model.LessonId,
+                    StudentId = userId
+                };
+
+                _context.StudentTasks.Add(task);
+                _context.SaveChanges();
+
+                return "Done";
+            }
+            return "Error";
         }
 
         #endregion

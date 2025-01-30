@@ -1,0 +1,29 @@
+﻿@model CenterManagement.ViewModels.MonthlyBarcodeVM
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/AddNewLesson.css">
+</head>
+<body>
+    <div class="scroller"></div>
+    <div class="wrapper">
+        <form asp-controller="StudentSide" asp-action="Lessons" method="get">
+            <h1>Enter The Enroll Barcode</h1>
+            <input hidden value="@ViewBag.Month" asp-for="Month" />
+            <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+            <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+            <div class="input-box">
+                <input asp-for="Barcode" type="text" placeholder="The Barcode" required autocomplete="off" />
+            </div>
+            <button type="submit" class="btn" onclick="displayAlertSuccess()">Enroll</button>
+        </form>
+    </div>
+
+</body>
+</html>

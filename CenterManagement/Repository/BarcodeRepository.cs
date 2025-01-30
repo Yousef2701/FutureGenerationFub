@@ -82,5 +82,32 @@ namespace CenterManagement.Repository
 
         #endregion
 
+        #region Check Barcode
+
+        public async Task<bool> CheckBarcode(MonthlyBarcodeVM model)
+        {
+            var check = _context.Barcodes.Where(m => m.barcode == model.Barcode & m.TeacherId == model.TeacherId & m.AcademyYear == model.AcademyYear & m.Month == model.Month).FirstOrDefault();
+            if(check != null)
+            {
+                string id = await _userRepository.GitLoggingUserId();
+
+                if (check.StudendId == "#")
+                {
+                    check.StudendId = id;
+                    _context.Barcodes.Update(check);
+                    _context.SaveChanges();
+
+                    return true;
+                }
+                else if(check.StudendId == id)
+                {
+                    return true;
+                } 
+            }
+            return false;
+        }
+
+        #endregion
+
     }
 }

@@ -37,26 +37,6 @@ namespace Online_Exams.Controllers
             _Environment = Environment;
         }
 
- 
-        public IActionResult Category(CategoryVM model)
-        {
-            List<Teacher> teachers = _context.teachers.ToList();
-            ViewBag.teachers = teachers;
-            ViewBag.Category = model.Category;
-
-            return View();
-        }
-
-        public IActionResult SystemTracks(Teacher model)
-        {
-            ViewBag.id = model.Id;
-
-            var userId = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            var student = _context.student.Find(userId);
-            ViewBag.year = student.AcademyYear;
-
-            return View();
-        }
 
         public IActionResult ChooseExams(TeacherIdVM model)
         {

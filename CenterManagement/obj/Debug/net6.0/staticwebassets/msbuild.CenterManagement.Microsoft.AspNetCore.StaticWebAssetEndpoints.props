@@ -1596,6 +1596,42 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pbry3292f4"},{"Name":"integrity","Value":"sha256-KwbSXJDfiB6XrTanLoQ91zzh9nciW64Ikcb6HnuT39s="},{"Name":"label","Value":"_content/CenterManagement/Uploads/HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36003"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022KwbSXJDfiB6XrTanLoQ91zzh9nciW64Ikcb6HnuT39s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hema@gmail1.k1r95257pq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hema@gmail1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k1r95257pq"},{"Name":"integrity","Value":"sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Hema@gmail1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"418172"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 17:18:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hema@gmail1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hema@gmail1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"418172"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 17:18:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hema@gmail999.k1r95257pq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hema@gmail999.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k1r95257pq"},{"Name":"integrity","Value":"sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Hema@gmail999.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"418172"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 17:23:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hema@gmail999.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hema@gmail999.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"418172"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222JHDpELRGJjonSDU2Dx34sKWbAifGhkp2I4r/xZkEqc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 17:23:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hema@gmailDSC_0245.bkc638mqq1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hema@gmailDSC_0245.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bkc638mqq1"},{"Name":"integrity","Value":"sha256-5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Hema@gmailDSC_0245.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"207604"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 16:28:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Hema@gmailDSC_0245.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Hema@gmailDSC_0245.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"207604"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225Zc9MJwgCRjV7kjOUoK1AaHyWmVu8cDGj3VCGr5L7sQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 16:28:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/History.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\History.jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1619,6 +1655,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m5318kbtqb"},{"Name":"integrity","Value":"sha256-Oo4LYwp/pj0LFhxGc/13ZIOTOOn\u002BI6Tk5DnmeXBjV6U="},{"Name":"label","Value":"_content/CenterManagement/Uploads/HymenScience.jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16964"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Oo4LYwp/pj0LFhxGc/13ZIOTOOn\u002BI6Tk5DnmeXBjV6U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Joe@gmailDSC_0019.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Joe@gmailDSC_0019.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"259818"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 16:13:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Joe@gmailDSC_0019.o2umvwplpo.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Joe@gmailDSC_0019.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o2umvwplpo"},{"Name":"integrity","Value":"sha256-QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c="},{"Name":"label","Value":"_content/CenterManagement/Uploads/Joe@gmailDSC_0019.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"259818"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 16:13:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CenterManagement/Uploads/Logo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Logo.png'))</AssetFile>
@@ -1908,29 +1956,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QKO0VpBQhuzYUJ\u002BL7EPMaPbbcjPbyIfqpM53WAjN1wE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69756"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022QKO0VpBQhuzYUJ\u002BL7EPMaPbbcjPbyIfqpM53WAjN1wE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 13:55:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ali8585@gmailVID20230710111157.left206hdg.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230710111157.mp4'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"left206hdg"},{"Name":"integrity","Value":"sha256-PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Ali8585@gmailVID20230710111157.mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"102077372"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:01:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tVFgjHCbZTNrtlvEjxl5\u002BGOi4jQGYaqQikLQcMxetNI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62382552"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022tVFgjHCbZTNrtlvEjxl5\u002BGOi4jQGYaqQikLQcMxetNI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 17:23:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ali8585@gmailVID20230710111157.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230710111157.mp4'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).p7m136fikn.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"102077372"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022PdXxDQX3NlQwxSknyvc1aLeI5frlSAD8TAdIJ3ypj7o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:01:36 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ali8585@gmailVID20230711074918.88uhu2u3j4.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230711074918.mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"88uhu2u3j4"},{"Name":"integrity","Value":"sha256-SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Ali8585@gmailVID20230711074918.mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94652035"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:47:36 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CenterManagement/Vedios/Ali8585@gmailVID20230711074918.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Vedios\Ali8585@gmailVID20230711074918.mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94652035"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022SHlUUd4hQQd5BhOXJLpDUPSForzg2NniwQXMRKKr4XE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:47:36 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p7m136fikn"},{"Name":"integrity","Value":"sha256-tVFgjHCbZTNrtlvEjxl5\u002BGOi4jQGYaqQikLQcMxetNI="},{"Name":"label","Value":"_content/CenterManagement/Vedios/Hema@gmail_001 Introduction to C_.NET  [ \u0634\u0631\u062D \u0628\u0627\u0644\u0639\u0631\u0628\u064A ]  _metigator _csharp(720P_HD).mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62382552"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022tVFgjHCbZTNrtlvEjxl5\u002BGOi4jQGYaqQikLQcMxetNI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 17:23:44 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

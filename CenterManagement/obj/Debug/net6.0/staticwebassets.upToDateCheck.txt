@@ -130,8 +130,12 @@ wwwroot\Uploads\gettyimages-501340947-1024x1024.jpg
 wwwroot\Uploads\Giraphy.jpg
 wwwroot\Uploads\Google-Kotlin-android-app-development.jpg
 wwwroot\Uploads\HD-wallpaper-html5-logo-white-silk-texture-html5-emblem-programming-language-html-silk-background.jpg
+wwwroot\Uploads\Hema@gmail1.png
+wwwroot\Uploads\Hema@gmail999.png
+wwwroot\Uploads\Hema@gmailDSC_0245.JPG
 wwwroot\Uploads\History.jpeg
 wwwroot\Uploads\HymenScience.jpeg
+wwwroot\Uploads\Joe@gmailDSC_0019.JPG
 wwwroot\Uploads\Logo.png
 wwwroot\Uploads\math.jpg
 wwwroot\Uploads\Money.jpg
@@ -156,5 +160,4 @@ wwwroot\Uploads\Yousef666@gmail11.jpeg
 wwwroot\Uploads\Yousef666@gmail5.jpg
 wwwroot\Uploads\Yousef666@gmail8.jpg
 wwwroot\Uploads\Yousef666@gmailone-year-of-react-native.png
-wwwroot\Vedios\Ali8585@gmailVID20230710111157.mp4
-wwwroot\Vedios\Ali8585@gmailVID20230711074918.mp4
+wwwroot\Vedios\Hema@gmail_001 Introduction to C_.NET  [ شرح بالعربي ]  _metigator _csharp(720P_HD).mp4

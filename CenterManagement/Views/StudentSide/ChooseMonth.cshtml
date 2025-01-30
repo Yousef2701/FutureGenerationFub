@@ -1,0 +1,171 @@
+﻿@model Lesson
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/Index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:wght@100;300;400;500;700;900&family=Sigmar+One&display=swap" rel="stylesheet">
+    <title>Al-Eissa Academy</title>
+    <style>
+        .January {
+            background: url(../Uploads/1.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .February {
+            background: url(../Uploads/2.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .March {
+            background: url(../Uploads/3.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .April {
+            background: url(../Uploads/4.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .May {
+            background: url(../Uploads/5.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .June {
+            background: url(../Uploads/6.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .July {
+            background: url(../Uploads/7.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .August {
+            background: url(../Uploads/8.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .September {
+            background: url(../Uploads/9.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .October {
+            background: url(../Uploads/10.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .November {
+            background: url(../Uploads/11.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .December {
+            background: url(../Uploads/12.jpg) no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body class="all-stores-page-body">
+    <div class="scroller"></div>
+    <div class="paths">
+        <h2>Choose The Monthly Enrollment</h2>
+        <div class="content">
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="January" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card January"><h3>January</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="February" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card February"><h3>February</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="March" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card March"><h3>March</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="April" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card April"><h3>April</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="May" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card May"><h3>May</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="June" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card June"><h3>June</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="July" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card July"><h3>July</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="August" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card August"><h3>August</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="September" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card September"><h3>September</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="October" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card October"><h3>October</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="November" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card November"><h3>November</h3></button>
+            </form>
+            <form asp-controller="StudentSide" asp-action="EnrollBarcode" method="get">
+                <input hidden value="December" asp-for="Month" />
+                <input hidden value="@ViewBag.Year" asp-for="AcademyYear" />
+                <input hidden value="@ViewBag.TeacherId" asp-for="TeacherId" />
+                <button type="submit" class="card December"><h3>December</h3></button>
+            </form>
+        </div>
+    </div>
+    <script src="~/js/site.js"></script>
+</body>
+</html>
+
+

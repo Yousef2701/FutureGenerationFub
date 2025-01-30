@@ -12,5 +12,7 @@ namespace CenterManagement.IRepository
 
         public Task<int[]> CreateBarcodes(EnrollParcodeVM model);
 
+        public Task<bool> CheckBarcode(MonthlyBarcodeVM model);
+
     }
 }
