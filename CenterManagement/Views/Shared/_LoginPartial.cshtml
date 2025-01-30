@@ -139,13 +139,13 @@
                     @if (authorizationResult.Succeeded)
                     {
                         <li class="list-group-item">
-                            <a class="nav-link" asp-area="" asp-controller="Students" asp-action="PersonalPage">Personal Data</a>
+                            <a class="nav-link" asp-area="" asp-controller="StudentManagement" asp-action="PersonalPage">Personal Data</a>
                         </li>
                         <li class="list-group-item">
-                            <a class="nav-link" asp-area="" asp-controller="Students" asp-action="AllExams">My Exams</a>
+                            <a class="nav-link" asp-area="" asp-controller="StudentManagement" asp-action="StudentExamsList">My Exams</a>
                         </li>
                         <li class="list-group-item">
-                            <a class="nav-link" asp-area="" asp-controller="Students" asp-action="DeleteStudentAccount">Delete Account</a>
+                            <a class="nav-link" asp-area="" asp-controller="StudentManagement" asp-action="DeleteStudentAccount">Delete Account</a>
                         </li>
                     }
 

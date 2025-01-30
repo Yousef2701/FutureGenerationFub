@@ -145,7 +145,7 @@ namespace CenterManagement.Areas.Identity.Pages.Account
                         Claim claim = new Claim("Student", "Student");
                         await _userManager.AddClaimAsync(user, claim);
 
-                        return RedirectToAction("CompleteSData", "Students");
+                        return RedirectToAction("CompleteStudentData", "StudentManagement");
                     }
 
                     _logger.LogInformation("User created a new account with password.");

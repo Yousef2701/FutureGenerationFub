@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Files\\Ahmed-Rayan- Online_Exams.pdf"
     },
     {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Files\\Joe-EissaOOP.pdf",
+      "PackagePath": "staticwebassets\\Files\\Joe-EissaOOP.pdf"
+    },
+    {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\1.jpg",
       "PackagePath": "staticwebassets\\Uploads\\1.jpg"
     },
@@ -153,8 +157,16 @@
       "PackagePath": "staticwebassets\\Uploads\\HymenScience.jpeg"
     },
     {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0007 (1).JPG",
+      "PackagePath": "staticwebassets\\Uploads\\Joe@gmailDSC_0007 (1).JPG"
+    },
+    {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG",
       "PackagePath": "staticwebassets\\Uploads\\Joe@gmailDSC_0019.JPG"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0028.JPG",
+      "PackagePath": "staticwebassets\\Uploads\\Joe@gmailDSC_0028.JPG"
     },
     {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Logo.png",
@@ -163,6 +175,10 @@
     {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Money.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Money.jpg"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Omar@gmailIMG-20211109-WA0060.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Omar@gmailIMG-20211109-WA0060.jpg"
     },
     {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg",

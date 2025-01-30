@@ -136,6 +136,22 @@ namespace CenterManagement.Repository
 
         #endregion
 
+        #region Get Student Exams List
+
+        public async Task<IEnumerable<Result>> GetStudentExamsList()
+        {
+            var userId = await _userRepository.GitLoggingUserId();
+            if(userId != null)
+            {
+                var results = _context.Results.Where(m => m.StudentId == userId).ToList();
+                if(results != null)
+                    return results;
+            }
+            return null;
+        }
+
+        #endregion
+
         #region Get Question Data
 
         public async Task<Question> GetQuestionData(Question model)

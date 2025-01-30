@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CESM5V15+SicavN8P3fe8czWr65hI4q2xbSGfh2ctGo=",
+  "Hash": "dW9y5bb1cHckBIwzpX12iOrbT0Zt+6sEbLHJdAXlDHU=",
   "Source": "CenterManagement",
   "BasePath": "_content/CenterManagement",
   "Mode": "Default",
@@ -1968,6 +1968,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Files\\Ahmed-Rayan- Online_Exams.pdf"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Files\\Joe-EissaOOP.pdf",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Files/Joe-EissaOOP#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70jkq170i9",
+      "Integrity": "yfS8LqMOD7Tpw7Q469OE7ZAhq5NE39Zdjo6UkCsBAz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Joe-EissaOOP.pdf"
     },
     {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\Dropdown.js",
@@ -4196,6 +4217,27 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\HymenScience.jpeg"
     },
     {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0007 (1).JPG",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Joe@gmailDSC_0007 (1)#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qhy8q7cmuu",
+      "Integrity": "nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Joe@gmailDSC_0007 (1).JPG"
+    },
+    {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG",
       "SourceId": "CenterManagement",
       "SourceType": "Discovered",
@@ -4215,6 +4257,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0028.JPG",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Joe@gmailDSC_0028#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eno24qxjqv",
+      "Integrity": "SuWyqpsbE8k7Qk1QNXzUx6BtfY9/mr8JQxEDUP7JPNc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Joe@gmailDSC_0028.JPG"
     },
     {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Logo.png",
@@ -4341,6 +4404,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\myLessons.jpg"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Omar@gmailIMG-20211109-WA0060.jpg",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "Uploads/Omar@gmailIMG-20211109-WA0060#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j9srcfiec8",
+      "Integrity": "14+pktleJj8jvm9E2WvpmZpoR+diBJST/xCN26ZOSG4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Omar@gmailIMG-20211109-WA0060.jpg"
     },
     {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\one-year-of-react-native.png",
@@ -7446,6 +7530,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pqFP6hTiM4PRMVjhazel9wP0KKyoChpG2R927rSSNV8="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Joe-EissaOOP.70jkq170i9.pdf",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Files\\Joe-EissaOOP.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfS8LqMOD7Tpw7Q469OE7ZAhq5NE39Zdjo6UkCsBAz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 18:57:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70jkq170i9"
+        },
+        {
+          "Name": "label",
+          "Value": "Files/Joe-EissaOOP.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfS8LqMOD7Tpw7Q469OE7ZAhq5NE39Zdjo6UkCsBAz0="
+        }
+      ]
+    },
+    {
+      "Route": "Files/Joe-EissaOOP.pdf",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Files\\Joe-EissaOOP.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yfS8LqMOD7Tpw7Q469OE7ZAhq5NE39Zdjo6UkCsBAz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 18:57:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yfS8LqMOD7Tpw7Q469OE7ZAhq5NE39Zdjo6UkCsBAz0="
         }
       ]
     },
@@ -18362,6 +18528,88 @@
       ]
     },
     {
+      "Route": "Uploads/Joe@gmailDSC_0007 (1).JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0007 (1).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 20:18:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Joe@gmailDSC_0007 (1).qhy8q7cmuu.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0007 (1).JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 20:18:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qhy8q7cmuu"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Joe@gmailDSC_0007 (1).JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nnZPqJGEqOURSefrGUnRjFT85qsT3tFhEjk+Kc/lywk="
+        }
+      ]
+    },
+    {
       "Route": "Uploads/Joe@gmailDSC_0019.JPG",
       "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0019.JPG",
       "Selectors": [],
@@ -18440,6 +18688,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-QO8jq74EqbDtv8jiizlvLy3ZzOD7Y5EgaHOwS1kYe5c="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Joe@gmailDSC_0028.eno24qxjqv.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0028.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SuWyqpsbE8k7Qk1QNXzUx6BtfY9/mr8JQxEDUP7JPNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 20:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eno24qxjqv"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Joe@gmailDSC_0028.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SuWyqpsbE8k7Qk1QNXzUx6BtfY9/mr8JQxEDUP7JPNc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Joe@gmailDSC_0028.JPG",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Joe@gmailDSC_0028.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SuWyqpsbE8k7Qk1QNXzUx6BtfY9/mr8JQxEDUP7JPNc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 20:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SuWyqpsbE8k7Qk1QNXzUx6BtfY9/mr8JQxEDUP7JPNc="
         }
       ]
     },
@@ -18932,6 +19262,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-bBivOReWqhPEj0+a/7uVXgzyKBUlFyEq1f0yOfqBhFA="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Omar@gmailIMG-20211109-WA0060.j9srcfiec8.jpg",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Omar@gmailIMG-20211109-WA0060.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"14+pktleJj8jvm9E2WvpmZpoR+diBJST/xCN26ZOSG4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 19:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9srcfiec8"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Omar@gmailIMG-20211109-WA0060.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-14+pktleJj8jvm9E2WvpmZpoR+diBJST/xCN26ZOSG4="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Omar@gmailIMG-20211109-WA0060.jpg",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\Uploads\\Omar@gmailIMG-20211109-WA0060.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"14+pktleJj8jvm9E2WvpmZpoR+diBJST/xCN26ZOSG4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 19:54:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-14+pktleJj8jvm9E2WvpmZpoR+diBJST/xCN26ZOSG4="
         }
       ]
     },

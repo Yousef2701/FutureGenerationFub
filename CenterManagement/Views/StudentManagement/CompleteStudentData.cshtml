@@ -13,7 +13,7 @@
 <body>
     <div class="scroller"></div>
     <div class="wrapper">
-        <form novalidate="" enctype="multipart/form-data" asp-controller="Students" asp-action="FinishSData" method="post">
+        <form novalidate="" enctype="multipart/form-data" asp-controller="StudentManagement" asp-action="CompleteStudentData" method="post">
             <h1>Complete Your Data</h1>
             <div class="input-box" hidden>
                 <input asp-for="Username" type="text" placeholder="Username" id="completeUsername" required />
@@ -90,7 +90,7 @@
         </form>
     </div>
 
-    @section Scripts{
+    @section Scripts {
         <script>
             function displayAlertSuccess() {
                 Swal.fire('Success', 'Your Register is Completed', 'success');

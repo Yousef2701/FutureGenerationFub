@@ -18,6 +18,8 @@ namespace CenterManagement.IRepository
 
         public Task<IEnumerable<Result>> GetExamStudentsResultList(string examId);
 
+        public Task<IEnumerable<Result>> GetStudentExamsList();
+
         public Task<Question> GetQuestionData(Question model);
 
         public Task<Question> UpdateQuestionData(QuestionVM model);

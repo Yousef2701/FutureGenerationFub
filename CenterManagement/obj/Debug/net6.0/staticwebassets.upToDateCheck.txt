@@ -29,6 +29,7 @@ wwwroot\css\UpdateStudentData.css
 wwwroot\css\UpdateTeacherData.css
 wwwroot\favicon.ico
 wwwroot\Files\Ahmed-Rayan- Online_Exams.pdf
+wwwroot\Files\Joe-EissaOOP.pdf
 wwwroot\js\Dropdown.js
 wwwroot\js\Exam.js
 wwwroot\js\register.js
@@ -135,13 +136,16 @@ wwwroot\Uploads\Hema@gmail999.png
 wwwroot\Uploads\Hema@gmailDSC_0245.JPG
 wwwroot\Uploads\History.jpeg
 wwwroot\Uploads\HymenScience.jpeg
+wwwroot\Uploads\Joe@gmailDSC_0007 (1).JPG
 wwwroot\Uploads\Joe@gmailDSC_0019.JPG
+wwwroot\Uploads\Joe@gmailDSC_0028.JPG
 wwwroot\Uploads\Logo.png
 wwwroot\Uploads\math.jpg
 wwwroot\Uploads\Money.jpg
 wwwroot\Uploads\monumental-stair-banner.jpg
 wwwroot\Uploads\myExams.jpg
 wwwroot\Uploads\myLessons.jpg
+wwwroot\Uploads\Omar@gmailIMG-20211109-WA0060.jpg
 wwwroot\Uploads\one-year-of-react-native.png
 wwwroot\Uploads\Osama@gmail81146138_1644860675653760_1694854336212893696_n.jpg
 wwwroot\Uploads\parcodes.jpg

@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
           rel="stylesheet" />
-          <link rel="stylesheet" href="~/css/UpdateStudentData.css">
+    <link rel="stylesheet" href="~/css/UpdateStudentData.css">
 </head>
 <body>
     <div class="scroller"></div>
     <div class="wrapper">
-        <form novalidate="" enctype="multipart/form-data" asp-controller="Students" asp-action="UpdateStudentData" method="post">
+        <form novalidate="" enctype="multipart/form-data" asp-controller="StudentManagement" asp-action="UpdateStudentData" method="post">
             <h1>Update Your Data</h1>
             <div class="input-box my-2">
                 <label asp-for="FristName" style="font-size:1.2em;font-weight:500;color:#fff;" class="form-label">Frist Name</label>
@@ -92,11 +92,11 @@
             </div>
 
             <button type="submit" class="btn  my-2" onclick="displayAlertSuccess()">Save Update</button>
-            <a asp-controller="Students" asp-action="PersonalPage" style="text-align:center;" class="btn cancel col-5  my-2">Cancel</a>
+            <a asp-controller="StudentManagement" asp-action="PersonalPage" style="text-align:center;" class="btn cancel col-5  my-2">Cancel</a>
         </form>
     </div>
 
-    @section Scripts{
+    @section Scripts {
         <script>
             function displayAlertSuccess() {
                 Swal.fire('Completed', 'Your Data Is Updated Successfully', 'success');
