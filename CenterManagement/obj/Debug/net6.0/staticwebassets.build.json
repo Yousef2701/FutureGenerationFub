@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dW9y5bb1cHckBIwzpX12iOrbT0Zt+6sEbLHJdAXlDHU=",
+  "Hash": "YhpnyNhXtlG9/dj0kWRXVqkoW09zrsUnBNxtox2APNY=",
   "Source": "CenterManagement",
   "BasePath": "_content/CenterManagement",
   "Mode": "Default",
@@ -1613,6 +1613,27 @@
       "OriginalItemSpec": "wwwroot\\css\\Layout.css"
     },
     {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Lesson_Test.css",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "css/Lesson_Test#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zq1ymkt6c7",
+      "Integrity": "pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Lesson_Test.css"
+    },
+    {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\LessonTask.css",
       "SourceId": "CenterManagement",
       "SourceType": "Discovered",
@@ -2031,6 +2052,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Exam.js"
+    },
+    {
+      "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\General_Exam.js",
+      "SourceId": "CenterManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\",
+      "BasePath": "_content/CenterManagement",
+      "RelativePath": "js/General_Exam#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "npih3lhzme",
+      "Integrity": "+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\General_Exam.js"
     },
     {
       "Identity": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\register.js",
@@ -6140,6 +6182,88 @@
       ]
     },
     {
+      "Route": "css/Lesson_Test.css",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Lesson_Test.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:30:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Lesson_Test.zq1ymkt6c7.css",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Lesson_Test.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:30:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zq1ymkt6c7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Lesson_Test.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0="
+        }
+      ]
+    },
+    {
       "Route": "css/LessonTask.bw2594acfa.css",
       "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\LessonTask.css",
       "Selectors": [],
@@ -9996,6 +10120,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-qcxO2gvBuueLkGWMCyuabcO36c9G5sCSGt5z8y7XN+g="
+        }
+      ]
+    },
+    {
+      "Route": "js/General_Exam.js",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\General_Exam.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg="
+        }
+      ]
+    },
+    {
+      "Route": "js/General_Exam.npih3lhzme.js",
+      "AssetFile": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\General_Exam.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:27:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npih3lhzme"
+        },
+        {
+          "Name": "label",
+          "Value": "js/General_Exam.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg="
         }
       ]
     },

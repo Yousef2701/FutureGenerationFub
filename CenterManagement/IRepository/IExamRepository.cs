@@ -12,6 +12,8 @@ namespace CenterManagement.IRepository
 
         public Task<IEnumerable<Exam>> GetTeacherExamsList();
 
+        public Task<IEnumerable<Exam>> GetTeacherExamsList(string teacherId, string year);
+
         public Task<IEnumerable<Question>> GetExamQuestionsList(string examId);
 
         public Task<int> GetExamQuestionsCount(string examId);
@@ -23,6 +25,8 @@ namespace CenterManagement.IRepository
         public Task<Question> GetQuestionData(Question model);
 
         public Task<Question> UpdateQuestionData(QuestionVM model);
+
+        public Task<int> SaveStudentResult(ExamVM model);
 
         public Task<string> RemoveQuestion(Question model);
 

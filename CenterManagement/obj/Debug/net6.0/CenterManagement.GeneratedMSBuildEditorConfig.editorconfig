@@ -144,12 +144,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcQWxsVHJhY2tzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/ChooseExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcQ2hvb3NlRXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/FutureGenerationHub/CenterManagement/Views/StudentSide/ChooseMonth.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcQ2hvb3NlTW9udGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/FutureGenerationHub/CenterManagement/Views/StudentSide/EnrollBarcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcRW5yb2xsQmFyY29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/Exam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcRXhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/FutureGenerationHub/CenterManagement/Views/StudentSide/LessonDetails.cshtml]
@@ -162,6 +170,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [G:/FutureGenerationHub/CenterManagement/Views/StudentSide/LessonTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcTGVzc29uVGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/FutureGenerationHub/CenterManagement/Views/StudentSide/SubjectTeachers.cshtml]
@@ -242,30 +254,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateTeacherData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVXBkYXRlVGVhY2hlckRhdGEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[G:/FutureGenerationHub/CenterManagement/Views/Teachers/ChooseExams.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ2hvb3NlRXhhbXMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[G:/FutureGenerationHub/CenterManagement/Views/Teachers/ContactTeacher.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ29udGFjdFRlYWNoZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[G:/FutureGenerationHub/CenterManagement/Views/Teachers/Enter_Parcode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRW50ZXJfUGFyY29kZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[G:/FutureGenerationHub/CenterManagement/Views/Teachers/Exam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRXhhbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[G:/FutureGenerationHub/CenterManagement/Views/Teachers/Exam_Answers.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRXhhbV9BbnN3ZXJzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[G:/FutureGenerationHub/CenterManagement/Views/Teachers/Teacher_Page.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcVGVhY2hlcl9QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/FutureGenerationHub/CenterManagement/Views/_ViewImports.cshtml]

@@ -92,6 +92,17 @@ namespace CenterManagement.Repository
             return null;   
         }
 
+        public async Task<IEnumerable<Exam>> GetTeacherExamsList(string teacherId, string year)
+        {
+            if(teacherId != null && year != null)
+            {
+                var exams = _context.Exams.Where(m => m.TeacherId == teacherId & m.AcademyYear == year).ToList();
+                if(exams.Count > 0) 
+                    return exams;
+            }
+            return null;
+        }
+
         #endregion
 
         #region Get Exam Questions List
@@ -188,6 +199,51 @@ namespace CenterManagement.Repository
                 return question;
             }
             return null;
+        }
+
+        #endregion
+
+        #region Save Student Result
+
+        public async Task<int> SaveStudentResult(ExamVM model)
+        {
+            if (model != null)
+            {
+                var userId = await _userRepository.GitLoggingUserId();
+
+                string[] ans = model.Answers.Split(",");
+                List<Question> quests = _context.Questions.Where(m => m.ExamId == model.ExamId).ToList();
+                int count = 0;
+
+                for (int i = 0; i < quests.Count; i++)
+                {
+                    if (quests[i].CorrectAnswer == ans[i])
+                    {
+                        count++;
+                    }
+                }
+
+                var check = _context.Results.Where(m => m.ExamId == model.ExamId & m.StudentId == userId).FirstOrDefault();
+                if (check == null)
+                {
+                    int wrong = _context.Questions.Where(m => m.ExamId == model.ExamId).Count() - count;
+
+                    var result = new Result
+                    {
+                        ExamId = model.ExamId,
+                        StudentId = userId,
+                        Date = DateTime.Now.ToString("dd-MM-yyyy"),
+                        Time = DateTime.Now.ToString("hh:mm tt"),
+                        CorrectAnswers = count,
+                        WrongAnswers = wrong
+                    };
+                    _context.Results.Add(result);
+                    _context.SaveChanges();
+                }
+
+                return count;
+            }
+            return 0;
         }
 
         #endregion

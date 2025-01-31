@@ -369,6 +369,10 @@
       "PackagePath": "staticwebassets\\css\\LessonTask.css"
     },
     {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Lesson_Test.css",
+      "PackagePath": "staticwebassets\\css\\Lesson_Test.css"
+    },
+    {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
@@ -435,6 +439,10 @@
     {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\Exam.js",
       "PackagePath": "staticwebassets\\js\\Exam.js"
+    },
+    {
+      "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\General_Exam.js",
+      "PackagePath": "staticwebassets\\js\\General_Exam.js"
     },
     {
       "Id": "G:\\FutureGenerationHub\\CenterManagement\\wwwroot\\js\\register.js",

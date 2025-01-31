@@ -9767,6 +9767,88 @@
       ]
     },
     {
+      "Route": "css/Lesson_Test.css",
+      "AssetFile": "css/Lesson_Test.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:30:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Lesson_Test.zq1ymkt6c7.css",
+      "AssetFile": "css/Lesson_Test.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5041"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:30:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zq1ymkt6c7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pcyMN3t42Gj8dMccgtAys6XuZ4MekZanwOeSIDMVef0="
+        },
+        {
+          "Name": "label",
+          "Value": "css/Lesson_Test.css"
+        }
+      ]
+    },
+    {
       "Route": "css/Login.css",
       "AssetFile": "css/Login.css",
       "Selectors": [],
@@ -11157,6 +11239,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-qcxO2gvBuueLkGWMCyuabcO36c9G5sCSGt5z8y7XN+g="
+        }
+      ]
+    },
+    {
+      "Route": "js/General_Exam.js",
+      "AssetFile": "js/General_Exam.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:27:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg="
+        }
+      ]
+    },
+    {
+      "Route": "js/General_Exam.npih3lhzme.js",
+      "AssetFile": "js/General_Exam.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 13:27:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npih3lhzme"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+585ol0QPWME7vsllvQZ6IDadYkp3mvz06obshmJMIg="
+        },
+        {
+          "Name": "label",
+          "Value": "js/General_Exam.js"
         }
       ]
     },

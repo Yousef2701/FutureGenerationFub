@@ -17,18 +17,21 @@ namespace CenterManagement.Controllers
         private readonly IStudentRepository _studentRepository;
         private readonly IBarcodeRepository _barcodeRepository;
         private readonly ILessonRepository _lessonRepository;
+        private readonly IExamRepository _examRepository;
 
         public StudentSide(ITeacherRepository teacherRepository,
                            IUserRepository userRepository,
                            IStudentRepository studentRepository,
                            IBarcodeRepository barcodeRepository,
-                           ILessonRepository lessonRepository)
+                           ILessonRepository lessonRepository,
+                           IExamRepository examRepository)
         {
             _teacherRepository = teacherRepository;
             _userRepository = userRepository;
             _studentRepository = studentRepository;
             _barcodeRepository = barcodeRepository;
             _lessonRepository = lessonRepository;
+            _examRepository = examRepository;
         }
 
         #endregion
@@ -155,6 +158,54 @@ namespace CenterManagement.Controllers
         #endregion
 
         #region Exams Track
+
+        #region Choose Exam
+
+        [HttpGet]
+        public async Task<IActionResult> ChooseExam(TeacherIdVM model)
+        {
+            ViewBag.exams = await _examRepository.GetTeacherExamsList(model.Id, model.year);
+            ViewBag.User = await _userRepository.GitLoggingUserId();
+
+            return View();
+        }
+
+        #endregion
+
+        #region Exam
+
+        [HttpGet]
+        public async Task<IActionResult> Exam(Exam model)
+        {
+            ViewBag.Title = model.Title;
+            ViewBag.TeacherId = model.TeacherId;
+            ViewBag.AcademyYear = model.AcademyYear;
+            ViewBag.ExamId = model.Id;
+
+            ViewBag.Questions = await _examRepository.GetExamQuestionsList(model.Id);
+            ViewBag.Min = model.Minutes;
+
+            return View();
+        }
+
+        #endregion
+
+        #region Result
+
+        [HttpPost]
+        public async Task<IActionResult> Result(ExamVM model)
+        {
+            ViewBag.Correct = await _examRepository.SaveStudentResult(model);
+            ViewBag.Count = await _examRepository.GetExamQuestionsCount(model.ExamId);
+            string[] answers = model.Answers.Split(',');
+            ViewBag.Answers = answers;
+
+            ViewBag.Questions = await _examRepository.GetExamQuestionsList(model.ExamId);
+
+            return View();
+        }
+
+        #endregion
 
         #endregion
 

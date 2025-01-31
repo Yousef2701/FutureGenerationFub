@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "G:\\FutureGenerationHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|g:\\futuregenerationhub\\centermanagement\\controllers\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|solutionrelative:centermanagement\\controllers\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|g:\\futuregenerationhub\\centermanagement\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|solutionrelative:centermanagement\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|g:\\futuregenerationhub\\centermanagement\\irepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|solutionrelative:centermanagement\\irepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|g:\\futuregenerationhub\\centermanagement\\controllers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|solutionrelative:centermanagement\\controllers\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|g:\\futuregenerationhub\\centermanagement\\views\\studentmanagement\\studentexamslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|solutionrelative:centermanagement\\views\\studentmanagement\\studentexamslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|g:\\futuregenerationhub\\centermanagement\\controllers\\studentside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D00C3-A1CE-4ECD-B8C2-8888ABD4BE9E}|CenterManagement\\CenterManagement.csproj|solutionrelative:centermanagement\\controllers\\studentside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,67 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentManagement.cs",
-              "DocumentMoniker": "G:\\FutureGenerationHub\\CenterManagement\\Controllers\\StudentManagement.cs",
-              "RelativeDocumentMoniker": "CenterManagement\\Controllers\\StudentManagement.cs",
-              "ToolTip": "G:\\FutureGenerationHub\\CenterManagement\\Controllers\\StudentManagement.cs",
-              "RelativeToolTip": "CenterManagement\\Controllers\\StudentManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Title": "StudentSide.cs",
+              "DocumentMoniker": "G:\\FutureGenerationHub\\CenterManagement\\Controllers\\StudentSide.cs",
+              "RelativeDocumentMoniker": "CenterManagement\\Controllers\\StudentSide.cs",
+              "ToolTip": "G:\\FutureGenerationHub\\CenterManagement\\Controllers\\StudentSide.cs",
+              "RelativeToolTip": "CenterManagement\\Controllers\\StudentSide.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwNMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:38:19.762Z",
+              "WhenOpened": "2025-01-31T11:56:08.13Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "G:\\FutureGenerationHub\\CenterManagement\\IRepository\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "CenterManagement\\IRepository\\IStudentRepository.cs",
-              "ToolTip": "G:\\FutureGenerationHub\\CenterManagement\\IRepository\\IStudentRepository.cs",
-              "RelativeToolTip": "CenterManagement\\IRepository\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:41:51.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "G:\\FutureGenerationHub\\CenterManagement\\Repository\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "CenterManagement\\Repository\\StudentRepository.cs",
-              "ToolTip": "G:\\FutureGenerationHub\\CenterManagement\\Repository\\StudentRepository.cs",
-              "RelativeToolTip": "CenterManagement\\Repository\\StudentRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwMYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:34:36.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentExamsList.cshtml",
-              "DocumentMoniker": "G:\\FutureGenerationHub\\CenterManagement\\Views\\StudentManagement\\StudentExamsList.cshtml",
-              "RelativeDocumentMoniker": "CenterManagement\\Views\\StudentManagement\\StudentExamsList.cshtml",
-              "ToolTip": "G:\\FutureGenerationHub\\CenterManagement\\Views\\StudentManagement\\StudentExamsList.cshtml",
-              "RelativeToolTip": "CenterManagement\\Views\\StudentManagement\\StudentExamsList.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T20:29:47.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Students.cs",
-              "DocumentMoniker": "G:\\FutureGenerationHub\\CenterManagement\\Controllers\\Students.cs",
-              "RelativeDocumentMoniker": "CenterManagement\\Controllers\\Students.cs",
-              "ToolTip": "G:\\FutureGenerationHub\\CenterManagement\\Controllers\\Students.cs",
-              "RelativeToolTip": "CenterManagement\\Controllers\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T19:40:41.81Z",
               "EditorCaption": ""
             }
           ]

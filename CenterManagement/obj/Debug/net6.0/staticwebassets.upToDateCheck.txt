@@ -12,6 +12,7 @@ wwwroot\css\FinishData.css
 wwwroot\css\GeneralTeachers.css
 wwwroot\css\Index.css
 wwwroot\css\Layout.css
+wwwroot\css\Lesson_Test.css
 wwwroot\css\LessonTask.css
 wwwroot\css\Login.css
 wwwroot\css\monumental-stair-banner.jpg
@@ -32,6 +33,7 @@ wwwroot\Files\Ahmed-Rayan- Online_Exams.pdf
 wwwroot\Files\Joe-EissaOOP.pdf
 wwwroot\js\Dropdown.js
 wwwroot\js\Exam.js
+wwwroot\js\General_Exam.js
 wwwroot\js\register.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
