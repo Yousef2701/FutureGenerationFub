@@ -9,261 +9,261 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CenterManagement
 build_property.RootNamespace = CenterManagement
-build_property.ProjectDir = G:\FutureGenerationHub\CenterManagement\
+build_property.ProjectDir = H:\Ahmed Work Station\Future Hub\FutureGenerationHub\CenterManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\FutureGenerationHub\CenterManagement
+build_property.MSBuildProjectDirectory = H:\Ahmed Work Station\Future Hub\FutureGenerationHub\CenterManagement
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 6.0
 build_property.EnableCodeStyleSeverity = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Login.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Logout.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Register.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/_ViewImports.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/_ViewStart.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/AdminPage.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/AdminPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/CreateBarcodes.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/CreateBarcodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlQmFyY29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/EarnedMoney.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/EarnedMoney.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWFybmVkTW9uZXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/EnrollBarcode.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/EnrollBarcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW5yb2xsQmFyY29kZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/Get_Parcode.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/Get_Parcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0X1BhcmNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/PendingAccounts.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/PendingAccounts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGVuZGluZ0FjY291bnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/StudentPage.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/StudentPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/StudentsList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/StudentsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudHNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/TeacherPage.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/TeacherPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlclBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Admin/TeachersList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Admin/TeachersList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVhY2hlcnNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Home/AboutUs.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Home/ContactUs.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Home/Index.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Shared/Error.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Shared/_LoginPartial.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentManagement/CompleteStudentData.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentManagement/CompleteStudentData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1hbmFnZW1lbnRcQ29tcGxldGVTdHVkZW50RGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentManagement/PersonalPage.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentManagement/PersonalPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1hbmFnZW1lbnRcUGVyc29uYWxQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentManagement/StudentExamsList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentManagement/StudentExamsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1hbmFnZW1lbnRcU3R1ZGVudEV4YW1zTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentManagement/UpdateStudentData.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentManagement/UpdateStudentData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudE1hbmFnZW1lbnRcVXBkYXRlU3R1ZGVudERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/AllTracks.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/AllTracks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcQWxsVHJhY2tzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/ChooseExam.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/ChooseExam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcQ2hvb3NlRXhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/ChooseMonth.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/ChooseMonth.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcQ2hvb3NlTW9udGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/EnrollBarcode.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/EnrollBarcode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcRW5yb2xsQmFyY29kZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/Exam.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/Exam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcRXhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/LessonDetails.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/LessonDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcTGVzc29uRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/Lessons.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/Lessons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcTGVzc29ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/LessonTask.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/LessonTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcTGVzc29uVGFzay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/Result.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/StudentSide/SubjectTeachers.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/StudentSide/SubjectTeachers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFNpZGVcU3ViamVjdFRlYWNoZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddExam.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddExam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcQWRkRXhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddLessonTask.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddLessonTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcQWRkTGVzc29uVGFzay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddNewLesson.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddNewLesson.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcQWRkTmV3TGVzc29uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddQuestion.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/AddQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcQWRkUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ChooseMonth.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ChooseMonth.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcQ2hvb3NlTW9udGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ComleteTeacherData.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ComleteTeacherData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcQ29tbGV0ZVRlYWNoZXJEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/Dashboard.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ExamQuestionsList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ExamQuestionsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcRXhhbVF1ZXN0aW9uc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ExamStudentsResultList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/ExamStudentsResultList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcRXhhbVN0dWRlbnRzUmVzdWx0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/GetBarcodes.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/GetBarcodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcR2V0QmFyY29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/LessonDetails.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/LessonDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcTGVzc29uRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/PersonalPage.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/PersonalPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcUGVyc29uYWxQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/StudentsTaskList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/StudentsTaskList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcU3R1ZGVudHNUYXNrTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/TeacherBarcodesList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/TeacherBarcodesList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVGVhY2hlckJhcmNvZGVzTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/TeacherExamsList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/TeacherExamsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVGVhY2hlckV4YW1zTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/TeacherLessonsList.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/TeacherLessonsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVGVhY2hlckxlc3NvbnNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateLessonDetails.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateLessonDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVXBkYXRlTGVzc29uRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateQuestion.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateQuestion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVXBkYXRlUXVlc3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateTeacherData.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/TeacherManagement/UpdateTeacherData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlck1hbmFnZW1lbnRcVXBkYXRlVGVhY2hlckRhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/_ViewImports.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/_ViewStart.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/FutureGenerationHub/CenterManagement/Views/Shared/_Layout.cshtml]
+[H:/Ahmed Work Station/Future Hub/FutureGenerationHub/CenterManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8b9jwm7d4d

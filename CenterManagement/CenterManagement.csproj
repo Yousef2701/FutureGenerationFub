@@ -28,4 +28,8 @@
     <Folder Include="wwwroot\Vedios\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CenterManagement.Core\CenterManagement.Core.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,3 +1,4 @@
+using ArabityAuth;
 using CenterManagement.Data;
 using CenterManagement.IRepository;
 using CenterManagement.Repository;
@@ -39,22 +40,23 @@ builder.Services.AddScoped<ITeacherRepository, TeacherRepository>();
 builder.Services.AddScoped<ILessonRepository, LessonRepository>();
 builder.Services.AddScoped<IBarcodeRepository, BarcodeRepository>();
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+builder.Services.AddScoped<Tools>();
 
 
-builder.WebHost.ConfigureKestrel(options =>
-{
-    options.Limits.MaxRequestBodySize = 536870912; // 512 MB
-});
+//builder.WebHost.ConfigureKestrel(options =>
+//{
+//    options.Limits.MaxRequestBodySize = 536870912; // 512 MB
+//});
 
-builder.Services.Configure<FormOptions>(options =>
-{
-    options.MultipartBodyLengthLimit = 536870912; // 512 MB
-});
+//builder.Services.Configure<FormOptions>(options =>
+//{
+//    options.MultipartBodyLengthLimit = 536870912; // 512 MB
+//});
 
-builder.WebHost.UseKestrel(options =>
-{
-    options.Limits.MaxRequestBodySize = 536870912; // 512 MB
-});
+//builder.WebHost.UseKestrel(options =>
+//{
+//    options.Limits.MaxRequestBodySize = 536870912; // 512 MB
+//});
 
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)

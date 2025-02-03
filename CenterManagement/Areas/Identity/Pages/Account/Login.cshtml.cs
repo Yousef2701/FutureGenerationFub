@@ -15,7 +15,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using CenterManagement.Data;
+
 
 namespace CenterManagement.Areas.Identity.Pages.Account
 {

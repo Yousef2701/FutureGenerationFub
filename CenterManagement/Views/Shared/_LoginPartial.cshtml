@@ -4,7 +4,7 @@
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 @inject IHttpContextAccessor _httpContextAccessor
-@inject CenterManagement.Data.ApplicationDbContext _context
+@inject CenterManagement.Data.Data.ApplicationDbContext _context
 @inject IAuthorizationService Athorize
 @{
     AuthorizationResult authorizationResult = await Athorize.AuthorizeAsync(User, "StudentRole");
